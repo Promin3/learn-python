@@ -1,0 +1,14570 @@
+$a
+[e?]
+art.一(个)；每一(个)
+$abandon
+[?'b?nd?n]
+vt.遗弃；放弃；放纵(自己)
+$ability
+[?'b?l?t?]
+n.能力，才能
+$able
+['e?bl]
+a.有的能力；有本事的，能干的
+$aboard
+[?'b?:d]
+ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+$about
+[?'ba?t]
+ad.周围；大约；prep.关于；到处；忙于
+$above
+[?'b?v]
+prep.高于，在…之上 a.上述的 ad.在上面
+$abroad
+[?'br?:d]
+ad.在国外，在海外
+$absence
+['?bs?ns]
+n.缺席；缺乏，缺少
+$absent
+['?bs?nt]
+a.缺席的；缺乏的；不在意的，茫然的
+$absolute
+['?bs?lu:t]
+a.绝对的，完全的；确实的，肯定的
+$absorb
+[?b's?:b]
+vt.吸收；使全神贯注
+$abstract
+['?bstr?kt]
+a.抽象的，不具体的 n.摘要，提要
+$abundant
+[?'b?nd?nt]
+a.丰富的，充裕的
+$abuse
+[?'bju:s]
+n.&vt.滥用；辱骂；虐待
+$academic
+[X?k?'dem?k]
+a.学院的，大学的；学术性的；理论的
+$academy
+[?'k?d?m?]
+n.(高等)专科院校；学术社团，协会，研究院
+$accelerate
+[?k'sel?re?t]
+v.(使)加速；促进
+$accent
+['?ksent]
+n.口音，音调；重音符号 vt.重读
+$accept
+[?k'sept]
+vt.认可；接受；相信，同意
+$acceptance
+[?k'sept?ns]
+n.接受；承认，认可
+$access
+['?kses]
+n.接近；进入 vt.从电脑中存取信息
+$accident
+['?ks?d?nt]
+n.事故；意外；偶然之事
+$accidental
+[X?ks?'dentl]
+a.意外的，偶然(发生)的
+$accommodation
+[?Xk?m?'de??n]
+n.住处，膳宿
+$accompany
+[?'k?mp?n?]
+vt.陪伴，陪同；为…伴奏
+$accomplish
+[?'k?mpl??]
+vt.完成，实现，成就
+$accord
+[?'k?:d]
+v.给予；允准；使一致
+$accordance
+[?'k?:d?ns]
+n.一致，符合
+$accordingly
+[?'k?:d??l?]
+ad.相应地，照着办，按照；于是，因此
+$account
+[?'ka?nt]
+n.帐目；报告；帐户 vi.说明；报账
+$accountant
+[?'ka?nt?nt]
+n.会计，出纳
+$accumulate
+[?'kju:mj?le?t]
+v.积累，积聚，堆积，积蓄
+$accuracy
+['?kj?r?s?]
+n.准确，精确
+$accurate
+['?kj?r?t]
+a.准确的，精确的，正确无误的
+$accuse
+[?'kju:z]
+vt.谴责；指控
+$accustomed
+[?'k?st?md]
+a. 习惯了的
+$ache
+[e?k]
+n.疼 vi.疼痛，持续的隐隐作痛
+$achieve
+[?'t?i:v]
+vt.完成，达到(目的)
+$achievement
+[?'t?i:vm?nt]
+n.成绩，成就；完成，达到
+$acid
+['?s?d]
+a.酸的，酸性的 n.酸
+$acknowledge
+[?k'n?l?d?]
+vt.承认；对(某人所做的事)表示感谢
+$acquaintance
+[?'kwe?nt?ns]
+n.认识，了解，熟人；相识的人
+$acquire
+[?'kwa??(r)]
+vt.获得，取得；学到(知识等)；养成(习惯)
+$acquisition
+[X?kw?'z??n]
+n.获得(物)
+$acre
+['e?k?(r)]
+n.英亩
+$across
+[?'kr?s]
+prep.横过；在…的对面 ad.横过；在另一边
+$act
+[?kt]
+vi.行动；起作用 vt.扮演 n.行为；法令
+$action
+['?k?n]
+n.活动，行为；作用
+$active
+['?kt?v]
+a.有活力的，积极的，主动的
+$activity
+[?k't?v?t?]
+n.活动，行动
+$actor
+['?kt?(r)]
+n.演员，男演员；行动者
+$actress
+['?ktr?s]
+n.女演员
+$actual
+['?kt???l]
+a.实际的；现实的，真实的，目前的
+$acute
+[?'kju:t]
+a.剧烈的；敏锐的；成锐角的；尖的，高音的
+$ad
+[Xe?'di:]
+n.=advertisement 广告
+$adapt
+[?'d?pt]
+vt.使适应，使适合；改写，改编
+$add
+[?d]
+v.加上，增加；合计；补充
+$addition
+[?'d??n]
+n.加，加法；附加物
+$additional
+[?'d???nl]
+a.附加的，另外的
+$address
+[?'dres]
+n.地址；讲话 vt.向…讲话，写姓名地址
+$adequate
+['?d?kw?t]
+a.足够的，充分的
+$adjective
+['?d??kt?v]
+n.形容词 a.形容词性的
+$adjust
+[?'d??st]
+vt.调整；校准 vi.调整；(to)适应于
+$administration
+[?dXm?n?'stre??n]
+n.管理，经营；管理部门；执行；施政
+$admire
+[?d'ma??(r)]
+vt.羡慕，赞美，钦佩
+$admission
+[?d'm??n]
+n.允许进入；承认；入场费，入会费，入场券
+$admit
+[?d'm?t]
+vt.承认；接纳，招收
+$adopt
+[?'d?pt]
+vt.采用，采取(态度等)；选定；收养
+$adult
+['?d?lt]
+a.成年人的；已成熟的 n.成年人
+$advance
+[?d'vɑ:ns]
+vi.前进，进展 vt.促进，提高 n.发展，前进
+$advanced
+[?d'vɑ:nst]
+a.先进的，高级的
+$advantage
+[?d'vɑ:nt?d?]
+n.优点，有利条件；利益，好处
+$adventure
+[?d'vent??(r)]
+n.冒险，冒险活动；奇遇
+$adverb
+['?dv?:b]
+n.副词
+$advertise
+['?dv?ta?z]
+vt.做广告
+$advertisement
+[?d'v?:t?sm?nt]
+n.广告；做广告，登广告
+$advice
+[?d'va?s]
+n.劝告，意见，建议
+$advisable
+[?d'va?z?bl]
+a.明智的，可取的
+$advise
+[?d'va?z]
+vt.劝告，建议；警告，忠告
+$advocate
+['?dv?ke?t]
+vt.提倡，鼓吹 n.提倡者，鼓吹者
+$aeroplane
+['e?r?ple?n]
+n.(英)飞机
+$affair
+[?'fe?(r)]
+n.事件，事务；业务；私通
+$affect
+[?'fekt]
+vt.影响，作用；感动；(疾病)侵袭
+$affection
+[?'fek?n]
+n.慈爱，爱；感情；作用，影响
+$afford
+[?'f?:d]
+vt.担负得起，抽得出(时间等)；提供
+$afraid
+[?'fre?d]
+a.害怕的，畏惧的；恐怕的，担心的
+$after
+['ɑ:ft?(r)]
+prep.&conj.在…后 ad.后来
+$afternoon
+[Xɑ:ft?'nu:n]
+n.下午，午后
+$afterward(s)
+[]
+ad.以后，后来
+$again
+[?'gen]
+ad.又，再；倍
+$against
+[?'genst]
+prep.逆；紧靠着；与…对照，对比
+$age
+[e?d?]
+n.年龄；时代；老年；长时间 v.(使)变老
+$agency
+['e?d??ns?]
+n.代理(权)，代办；力量，(能动)作用；机构
+$agenda
+[?'d?end?]
+n.(会议的)议程
+$agent
+['e?d??nt]
+n.代理人；代理商；产生作用的人或事物
+$aggressive
+[?'gres?v]
+a.爱寻衅的；侵略的；有进取心的
+$ago
+[?'g??]
+a.&ad.以前，…前
+$agree
+[?'gri:]
+vi.赞同；适合，一致；商定
+$agreement
+[?'gri:m?nt]
+n.协议，约定；同意，达成协议
+$agriculture
+['?gr?k?lt??(r)]
+n.农业
+$ahead
+[?'hed]
+ad.&a.在前；向前；在先，预先
+$aid
+[e?d]
+n.帮助；助手；救护 vt.帮助；急救
+$aim
+[e?m]
+n.目的；瞄准 vi.(at)目的在于 vt.把…瞄准
+$air
+[e?(r)]
+n.大气，空气；态度，神态 vt.通风
+$aircraft
+['e?krɑ:ft]
+n.飞机，飞艇，航空器
+$airline
+['e?la?n]
+n.(飞机的)航线；航空公司
+$airplane
+['e?ple?n]
+n.(美)飞机
+$airport
+['e?p?:t]
+n.飞机场
+$alarm
+[?'lɑ:m]
+n.惊恐；警报 vt.使…惊恐；向…报警
+$alcohol
+['?lk?h?l]
+n.酒精，乙醇；含酒精的饮料
+$alert
+[?'l?:t]
+a.警惕的，警觉的；机灵的
+$alike
+[?'la?k]
+a.相同的，相像的
+$alive
+[?'la?v]
+a.活着的，存在的；有活力的，活泼的
+$all
+[?:l]
+a.全部的，整个的 pron.全部，ad.完全，都
+$alliance
+[?'la??ns]
+n.同盟，同盟国；结盟，联姻
+$allocate
+['?l?ke?t]
+vt.分配，配给
+$allow
+[?'la?]
+vt.允许，准许；承认；给予 vi.(for)考虑到
+$allowance
+[?'la??ns]
+n.津贴；零用钱
+$ally
+['?la?]
+n.同盟者；伙伴；同类
+$almost
+['?:lm??st]
+ad.几乎，差不多
+$alone
+[?'l??n]
+a.单独的，独自的 ad.仅仅，只；单独地
+$along
+[?'l??]
+prep.沿着 ad.向前
+$alongside
+[?Xl??'sa?d]
+prep.在…旁边；和…在一起 ad.在旁边
+$aloud
+[?'la?d]
+ad.大声地；响亮地
+$alphabet
+['?lf?bet]
+n.字母表
+$already
+[?:l'red?]
+ad.早已，已经
+$also
+['?:ls??]
+ad.也，同样；而且，还
+$alter
+['?:lt?(r)]
+vt.改变
+$alternative
+[?:l't?:n?t?v]
+a.两者择一的 n.供选择的东西；取舍?
+$although
+[?:l'e??]
+conj.虽然，即使
+$altitude
+['?lt?tju:d]
+n.高度，海泼
+$altogether
+[X?:lt?'gee?(r)]
+ad.完全，总之，总共
+$aluminium
+[X?lj?'m?n??m]
+n.铝
+$aluminum
+[?'lju:m?n?m]
+n.铝
+$always
+['?:lwe?z]
+ad.总是，一向；始终，永远
+$amateur
+['?m?t?(r)]
+a.业余的 n.业余爱好者
+$amaze
+[?'me?z]
+vt.使惊愕
+$ambassador
+[?m'b?s?d?(r)]
+n.大使，特使
+$ambition
+[?m'b??n]
+n.野心，雄心；抱负，志向
+$ambulance
+['?mbj?l?ns]
+n.救护车(船、飞机等)
+$amid
+[?'m?d]
+prep.在…中，在…当中
+$among
+[?'m??]
+prep.在…之中；在一群(组)之中；于…之间
+$amongst
+[?'m??st]
+prep.在…之中(三者以上)
+$amount
+[?'ma?nt]
+n.数量，总数 vt.总计；相当于，等于
+$amuse
+[?'mju:z]
+vt.逗乐，使开心；给…提供娱乐
+$analyse
+['?n?la?z]
+v.分析；分解
+$analysis
+[?'n?l?s?s]
+n.分析，分解
+$analyze
+['?n?la?z]
+v.分析；分解
+$ancestor
+['?nsest?(r)]
+n.祖宗，祖先
+$anchor
+['??k?(r)]
+n.锚，靠山；v.固定，抛锚，停泊
+$ancient
+['e?n??nt]
+a.古代的，古老的
+$and
+[?nd]
+conj. 和，而且；那么，然后；加
+$anger
+['??g?(r)]
+n.怒，愤怒　vt.激怒
+$angle
+['??gl]
+n.角，角度；(看问题的)角度，观点
+$angry
+['??gr?]
+a.发怒的，愤怒的
+$animal
+['?n?ml]
+n.&a.动物(的)，兽类(的)
+$ankle
+['??kl]
+n.踝，踝节部
+$anniversary
+[X?n?'v?:s?r?]
+n.周年；周年纪念
+$announce
+[?'na?ns]
+v.宣布，通告；报告…的来到
+$annoy
+[?'n??]
+vt.使烦恼，使生气；打扰
+$annual
+['?nj??l]
+a.每年的，年度的 n.年刊，年鉴
+$another
+[?'n?e?(r)]
+a.另一个，又，再 pron.另一个，类似的一个
+$answer
+['ɑ:ns?(r)]
+n.回答，答案 v.回答，响应；符合；解答
+$ant
+[?nt]
+n.蚁
+$anticipate
+[?n't?s?pe?t]
+vt.预料，预期
+$antique
+[?n'ti:k]
+a.古代的；旧式的 n.古物，古董
+$anxiety
+[??'za??t?]
+n.挂念，焦虑；渴望
+$anxious
+['??k??s]
+a.焦虑的，发愁的；急切的；使人不安的
+$any
+['en?]
+a.一些；任何的 pron.任何一个，无论哪个
+$anybody
+['en?b?d?]
+pron.某人；无论谁；任何人
+$anyhow
+['en?ha?]
+ad.不管怎样说；不管以什么方法；总之
+$anyone
+['en?w?n]
+pron.任何人
+$anything
+['en?θ??]
+pron.无论什么事；任何东西，任何事(物)
+$anyway
+['en?we?]
+ad.不管怎样
+$anywhere
+['en?we?(r)]
+ad.无论哪里；任何地方(用于否定、疑问等)
+$apart
+[?'pɑ:t]
+ad.相距，相隔；分，离开；除去
+$apartment
+[?'pɑ:tm?nt]
+n.公寓住宅，套间
+$apologise
+[?'p?l?d?a?z]
+道歉
+$apologize
+[?'p?l?d?a?z]
+vi.道歉，认错；辩护，辩解
+$apology
+[?'p?l?d??]
+n.道歉，认错；辩解，辩护
+$apparent
+[?'p?r?nt]
+a.明显的，表面上的
+$appeal
+[?'pi:l]
+vi.请求；吸引；上诉 n.呼吁；吸引力，申诉
+$appear
+[?'p??(r)]
+vi.出现，露出；似乎，好象
+$appearance
+[?'p??r?ns]
+n.出现，出场；外貌，样子
+$appetite
+['?p?ta?t]
+n.食欲，胃口；爱好，嗜好；欲望
+$applause
+[?'pl?:z]
+n.鼓掌欢迎，欢呼
+$apple
+['?pl]
+n.苹果
+$appliance
+[?'pla??ns]
+n.器具，器械，装置
+$applicable
+[?'pl?k?bl]
+a.可应用的；适当的；合适的
+$applicant
+['?pl?k?nt]
+n.申请者
+$application
+[X?pl?'ke??n]
+n.申请，申请表格；应用，实施
+$apply
+[?'pla?]
+vi.(for)申请；(to)应用 vt.把…应用于
+$appoint
+[?'p??nt]
+vt.任命，委派；指定，约定(时间、地点等)
+$appointment
+[?'p??ntm?nt]
+n.约定，约会；任命，委派
+$appreciate
+[?'pri:??e?t]
+a.感激，感谢；评价，欣赏；充分意识到
+$approach
+[?'pr??t?]
+n.接近，方法 v.走近；与…接洽；探讨
+$appropriate
+[?'pr??pr??t]
+a.恰当的，合宜的 vt.拨给，挪用，盗用
+$approval
+[?'pru:vl]
+n.赞成，批准
+$approve
+[?'pru:v]
+v.批准，通过；赞许，同意
+$approximate
+[?'pr?ks?m?t]
+a.大致的，近似的 vi.接近，近似
+$April
+['e?pr?l]
+n.四月
+$arbitrary
+['ɑ:b?tr?r?]
+a.任意的，武断的；专断的，专横的
+$architect
+['ɑ:k?tekt]
+n.建筑师；缔造者
+$architecture
+['ɑ:k?tekt??(r)]
+n.建筑学；建筑式样；结构，构造
+$area
+['e?r??]
+n.地区；面积；范围，领域
+$argue
+['ɑ:gju:]
+vi.辩论，争论 vt.辩论，论证；说服，劝说
+$argument
+['ɑ:gj?m?nt]
+n.辩论，争论；论点，论据
+$arise
+[?'ra?z]
+vi.出现，发生；由…引起，起源于；起来
+$arithmetic
+[?'r?θm?t?k]
+n.算术
+$arm
+[ɑ:m]
+n.手臂；支架；(pl.)武器 vt.武装，装备
+$army
+['ɑ:m?]
+n.军队；一大批，一大群
+$around
+[?'ra?nd]
+ad.周围；在近处；大约 prep.在…周围
+$arouse
+[?'ra?z]
+vt.唤醒，叫醒；唤起，激起
+$arrange
+[?'re?nd?]
+vt.安排；整理 vi.安排，准备
+$arrangement
+[?'re?nd?m?nt]
+n.排列，整理；安排，准备
+$arrest
+[?'rest]
+n.逮捕，扣留 vt.逮捕，扣留；阻止；吸引
+$arrival
+[?'ra?vl]
+n.到达，抵达；到达者
+$arrive
+[?'ra?v]
+vi.到来，到达；达成，得出
+$arrow
+['?r??]
+n.箭，箭状物；箭头记号
+$art
+[ɑ:t]
+n.艺术，美术；技艺，技术；文科；艺术品
+$article
+['ɑ:t?kl]
+n.文章，论文；物件，物品；条款；冠词
+$artificial
+[Xɑ:t?'f??l]
+a.人工的，人造的，人为的；假的
+$artist
+['ɑ:t?st]
+n.艺术家，美术家；(某方面的)能手
+$artistic
+[ɑ:'t?st?k]
+a.艺术(家)的，美术(家)的；善于艺术创作的
+$as
+[?z]
+conj.由于；像 prep.作为 ad.同样地
+$ash
+[??]
+n.灰，灰末；(pl.)骨灰；(pl.)废墟
+$ashamed
+[?'?e?md]
+a.惭愧的，羞愧的
+$aside
+[?'sa?d]
+ad.在旁边，到一边 n.旁白；离题的话
+$ask
+[ɑ:sk]
+vt.问；请求，邀请 vi.问；要求
+$asleep
+[?'sli:p]
+a.睡着的，睡熟的
+$aspect
+['?spekt]
+n.(问题等的)方面；样子，面貌
+$assemble
+[?'sembl]
+vt.集合；装配 vi.聚集，集会
+$assembly
+[?'sembl?]
+n.集合，集会，会议；装配，组装
+$assess
+[?'ses]
+vt.估价，评价
+$asset
+['?set]
+n.资产，财产；有价值的东西
+$assign
+[?'sa?n]
+vt.派给，分配；选定，指定(时间、地点)
+$assignment
+[?'sa?nm?nt]
+n.分派，分配；作业，任务
+$assist
+[?'s?st]
+v.帮助，援助
+$assistance
+[?'s?st?ns]
+n.帮助，援助
+$assistant
+[?'s?st?nt]
+a.帮助的，辅助的 n.助手；辅助物
+$associate
+[?'s????e?t]
+vt.使发生联系 vi.交往 a.合伙的 n.合伙人
+$association
+[?Xs????'e??n]
+n.协会，社团；联合，合伙
+$assume
+[?'sju:m]
+vt.设想，假定；装出…样子；承担，接受
+$assumption
+[?'s?mp?n]
+n.假定，设想；假装
+$assure
+[?'???(r)]
+v.使确信，使放心；保证，担保
+$astonish
+[?'st?n??]
+vt.使大吃一惊
+$at
+[?t]
+prep.在…时；在…中；在…方面；向，朝
+$athlete
+['?θli:t]
+n.运动员
+$atmosphere
+['?tm?sf??(r)]
+n.大气层；气氛，环境
+$atom
+['?t?m]
+n.原子；微量，微粒
+$atomic
+[?'t?m?k]
+a.原子能的；(关于)原子的
+$attach
+[?'t?t?]
+vt.贴上，系上；附上，附属
+$attack
+[?'t?k]
+vt./n.攻击，袭击；(病)发作
+$attain
+[?'te?n]
+vt.达到；取得
+$attempt
+[?'tempt]
+n.企图，试图　vt.尝试，试图
+$attend
+[?'tend]
+vt.出席；照顾，护理 vi.注意，专心
+$attention
+[?'ten?n]
+n.注意，留意；立正
+$attitude
+['?t?tju:d]
+n.态度，看法
+$attorney
+[?'t?:n?]
+n.律师
+$attract
+[?'tr?kt]
+vt.吸引；引诱
+$attraction
+[?'tr?k?n]
+n.吸引；吸引力
+$attractive
+[?'tr?kt?v]
+a.吸引人的，引人注意的；漂亮的，迷人的
+$attribute
+['?tr?bju:t]
+vt.(to)把…归于，认为是…的结果 n.属性
+$audience
+['?:d??ns]
+n.听众，观众
+$audio
+['?:d???]
+n./a.音频(的)，音响(的)；声音(的)
+$August
+[?:'g?st]
+n.八月
+$aunt
+[ɑ:nt]
+n.伯母，婶母，姑母，姨母，舅母
+$author
+['?:θ?(r)]
+n.作家，著者
+$authority
+[?:'θ?r?t?]
+n.权力；(pl.)官方，当局
+$auto
+['?:t??]
+n.汽车
+$automatic
+[X?:t?'m?t?k]
+a.自动的；机械的，无意识的
+$automobile
+['?:t?m?bi:l]
+n.汽车，机动车
+$autumn
+['?:t?m]
+n.秋；秋季；成熟期，渐衰期
+$auxiliary
+[?:g'z?l??r?]
+a.辅助的，备用的
+$available
+[?'ve?l?bl]
+a.(用于物)可利用的；可见到的，接受采访的
+$avenue
+['?v?nju:]
+n.林荫道，大街；(喻)途径，手段　
+$average
+['?v?r?d?]
+n.平均；一般水平 a.平均的；一般的
+$avoid
+[?'v??d]
+vt.避免，逃避
+$await
+[?'we?t]
+vt.等待，等候
+$awake
+[?'we?k]
+vt.唤醒；使觉醒 vi.醒来；醒悟 a.醒着的
+$award
+[?'w?:d]
+n.奖，奖品 vt.授予，奖给
+$aware
+[?'we?]
+a.意识到的，知道的
+$away
+[?'we?]
+ad.离开，远离
+$awful
+['?:fl]
+a.可怕的；极坏的
+$awkward
+['?:kw?d]
+a.尴尬的；笨拙的；使用不便的；棘手的
+$baby
+['be?b?]
+n.婴儿；年龄最小的人；幼畜或雏鸟
+$back
+[b?k]
+n.背面；后部 a.朝后面 ad.回去 vt.支持?
+$background
+['b?kgra?nd]
+n.背景；经历
+$backward
+['b?kw?d]
+a.向后的；落后的 ad.向后地，倒，逆
+$bacon
+['be?k?n]
+n.熏猪肉
+$bacteria
+[b?k't??r??]
+n.(pl.)细菌
+$bad
+[b?d]
+a.坏的；有害的；严重的
+$badly
+['b?dl?]
+ad.坏地；严重地，非常
+$bag
+[b?g]
+n.袋，口袋；手提包，钱包
+$baggage
+['b?g?d?]
+n.行李
+$bake
+[be?k]
+vt.烘烤；烧硬，焙干
+$balance
+['b?l?ns]
+n.均衡；收付平衡 v.(使)保持平衡
+$balcony
+['b?lk?n?]
+n.阳台；(剧院的)楼座，二楼包厢
+$ball
+[b?:l]
+n.球，球状物；(正规的)大型舞会
+$balloon
+[b?'lu:n]
+n.气球 vi.如气球般膨胀
+$ban
+[b?n]
+vt.禁止
+$banana
+[b?'nɑ:n?]
+n.香蕉
+$band
+[b?nd]
+n.乐队；带；波段　vt.缚，捆绑
+$bang
+[b??]
+vi.猛敲，猛撞 vt.发出砰的响声 ad.砰地
+$bank
+[b??k]
+n.银行，库；堤，岸
+$bankrupt
+['b??kr?pt]
+a.破产的 vt.使破产 n.破产者
+$banner
+['b?n?(r)]
+n.旗，旗帜；(政治性的)横幅标语
+$bar
+[bɑ:(r)]
+n.酒吧；横木；障碍；(B)律师业　vt.闩上
+$barber
+['bɑ:b?(r)]
+n.理发师
+$bare
+[be?(r)]
+a.赤裸的；极少的，仅有的
+$barely
+['be?l?]
+ad.贫乏地；仅仅，几乎没有
+$bargain
+['bɑ:g?n]
+v.讨价还价 n.便宜货；买卖合同，交易
+$bark
+[bɑ:k]
+n.狗叫声，(狗吠叫似的)声响 v.吠
+$barn
+[bɑ:n]
+n.谷仓，饲料仓，牲口棚
+$barrel
+['b?r?l]
+n.圆木桶；枪管
+$barrier
+['b?r??(r)]
+n.栅栏，屏障；障碍(物)
+$base
+[be?s]
+n.基础，底部；基地，根据地 vt.以…为根据
+$baseball
+['be?sb?:l]
+n.棒球，棒球运动
+$basic
+['be?s?k]
+a.基本的，基础的
+$basically
+['be?s?kl?]
+ad.基本上，根本地
+$basin
+['be?sn]
+n.盆，脸盆；盆地，流域
+$basis
+['be?s?s]
+n.基础，基底；根据；基准
+$basket
+['bɑ:sk?t]
+n.筐；篮；篓
+$basketball
+['bɑ:sk?tb?:l]
+n.篮球(运动)
+$bat
+[b?t]
+n.球拍；蝙蝠 v.用棒击，打击球
+$bath
+[bɑ:θ]
+n.洗澡；浴缸，浴盆
+$bathe
+[be?e]
+vt.洗澡 vi.洗澡；游泳
+$bathroom
+['bɑ:θru:m]
+n.浴室
+$battery
+['b?tr?]
+n.电池(组)；(器具等的)一组，一套；炮兵连
+$battle
+['b?tl]
+n.战斗，作战 vi.战斗，作战，斗争
+$bay
+[be?]
+n.海湾
+$be
+[b?]
+aux.v.&vi.是，在，就是
+$beach
+[bi:t?]
+n.(海、河、湖)滩；海滨
+$beam
+[bi:m]
+n.横梁；光线；容光焕发 v.放光；面露喜色
+$bean
+[bi:n]
+n.豆，菜豆
+$bear
+[be?(r)]
+n.熊；粗鲁的人，笨拙的人
+$beard
+[b??d]
+n.胡须
+$bearing
+['be?r??]
+n.轴承；意义，举止
+$beast
+[bi:st]
+n.(四足)兽类，牲畜；凶残的人
+$beat
+[bi:t]
+vt.打，敲；打败 vi.打，敲；(心脏等)跳动
+$beautiful
+['bju:t?fl]
+a.美丽的，美好的
+$beauty
+['bju:t?]
+n.美丽；美女；美好的事物
+$because
+[b?'k?z]
+conj.因为
+$become
+[b?'k?m]
+v.变成，变得
+$bed
+[bed]
+n.床；花坛；河床
+$bee
+[bi:]
+n.蜂，蜜蜂
+$beef
+[bi:f]
+n.牛肉
+$beer
+[b??(r)]
+n.啤酒
+$before
+[b?'f?:(r)]
+prep.&conj.在…以前 ad.以前，从前
+$beg
+[beg]
+v.乞讨，乞求
+$beggar
+['beg?(r)]
+n.乞丐
+$begin
+[b?'g?n]
+v.开始
+$beginning
+[b?'g?n??]
+n.开始，开端；起源，起因
+$behalf
+[b?'hɑ:f]
+n.利益
+$behave
+[b?'he?v]
+vi.举动，表现；运转 vt.使运转正常
+$behavior
+[b?'he?vj?]
+n.行为，表现；(机器等的)运转情况
+$behaviour
+[b?'he?vj?(r)]
+n.行为，举止；(机器的)运转情况
+$behind
+[b?'ha?nd]
+prep.在…后面；迟于 ad.在后，迟，慢
+$being
+['bi:??]
+n.存在，生存；存在物，生物，生命，人
+$belief
+[b?'li:f]
+n.相信，信任；信念，信仰
+$believe
+[b?'li:v]
+vt.相信，认为 vi.相信，信任，信奉
+$bell
+[bel]
+n.铃，门铃；钟声
+$belong
+[b?'l??]
+vi.(to)属于；归类于
+$beloved
+[b?'l?vd]
+a.被热爱的 n.爱人，心爱的人
+$below
+[b?'l??]
+prep.在…以下；在…下面 ad.在下，下面
+$belt
+[belt]
+n.腰带，带状物；地带，区域
+$bench
+[bent?]
+n.凳，长凳
+$bend
+[bend]
+v.(使)弯曲；(使)屈服
+$beneath
+[b?'ni:θ]
+prep.在…下面(下方)，紧靠着…底下
+$beneficial
+[Xben?'f??l]
+a.有益的，有用的
+$benefit
+['ben?f?t]
+n.利益；救济金 vt.有益于 vi.受益于
+$beside
+[b?'sa?d]
+prep.在…旁边，在…附近；与…相比
+$besides
+[b?'sa?dz]
+ad.而且，此外 prep.除…之外(还)
+$best
+[best]
+a.最好的 ad.最好地 n.最好的人(东西等)
+$bet
+[bet]
+n.打赌，赌注 v.打赌，赌；确信，敢说
+$better
+['bet?(r)]
+a.较好的 ad.更好地 n.较优者 vt.改善
+$between
+[b?'twi:n]
+prep.在…之间，在(两者)之间 ad.在中间
+$beyond
+[b?'j?nd]
+prep.在…之外；超出…范围，胜过；迟于
+$bible
+['ba?bl]
+n.圣经
+$bicycle
+['ba?s?kl]
+n.自行车
+$bid
+[b?d]
+vt./n.投标，(拍卖时的)出价
+$big
+[b?g]
+a.大的；重要的；宽宏大量的；大受欢迎的
+$bike
+[ba?k]
+n.自行车
+$bill
+[b?l]
+n.账单；支票；招贴；钞票 vt.给 …开账单
+$billion
+['b?lj?n]
+n.(美)十亿，(英)万亿
+$bind
+[ba?nd]
+vt.捆, 包扎；装订；约束；使凝固 vi.变硬
+$biology
+[ba?'?l?d??]
+n.生物学
+$bird
+[b?:d]
+n.鸟，禽
+$birth
+[b?:θ]
+n.出生，诞生；出身，血统；起源；出现
+$birthday
+['b?:θde?]
+n.生日，诞辰
+$biscuit
+['b?sk?t]
+n.饼干
+$bit
+[b?t]
+n.一点；比特(二进位制信息单位)
+$bite
+[ba?t]
+v.咬，叮；刺骨 n.叮，咬；吃一口
+$bitter
+['b?t?(r)]
+a.辛酸的，辛苦的；有苦味的；严寒的
+$black
+[bl?k]
+a.黑色的；黑暗的 n.黑色；黑人
+$blackboard
+['bl?kb?:d]
+n.黑板
+$blade
+[ble?d]
+n.刀刃，刀片；桨叶；草叶，叶片
+$blame
+[ble?m]
+vt.责怪；把…归咎于 n.责备；过错
+$blank
+[bl??k]
+n.空白，表格 a.空白的；无表情的
+$blanket
+['bl??k?t]
+n.毛毯，毯子；v.覆盖，布满，弥漫
+$blast
+[blɑ:st]
+v.炸毁，摧毁 n.爆炸，爆破；一阵；汽笛声
+$bleed
+[bli:d]
+v.(使)流血；从…取血；从…抽取液体或空气
+$blend
+[blend]
+vt.掺和，混合
+$blind
+[bla?nd]
+a.盲的；盲从的 vt.(使)变瞎
+$block
+[bl?k]
+n.大块(石料等)；街区；阻塞物 vt.阻拦
+$blood
+[bl?d]
+n.血液，血；血统，血亲；血气
+$bloody
+['bl?d?]
+a.流血的；血腥的
+$bloom
+[blu:m]
+n.花，花期 vi.开花；容光焕发，显露出健康
+$blouse
+[bla?z]
+n.女衬衫；童衫；罩衫
+$blow
+[bl??]
+n.打 v.(风)吹；吹动；(使)爆炸；响起，输
+$blue
+[blu:]
+a.蓝色的；脸色发灰的；忧郁的 n.蓝色
+$board
+[b?:d]
+n.板；委员会 v.上车(船)；包饭
+$boast
+[b??st]
+vi.(of,about)夸耀 vt.以有…而自豪
+$boat
+[b??t]
+n.小船；船形物 vi.划船
+$body
+['b?d?]
+n.身体；主体；尸体；物体；大量
+$boil
+[b??l]
+vi.沸腾 vt.煮(沸)
+$bold
+[b??ld]
+a.勇敢无畏的；冒失的；粗体的 n.粗体
+$bolt
+[b??lt]
+n.闪电，霹雳；插销，门闩；螺栓
+$bomb
+[b?m]
+n.炸弹；高压喷雾器 vt.投弹，轰炸
+$bond
+[b?nd]
+n.联系，约束；公债；票据 vt.使结合，使粘
+$bone
+[b??n]
+n.骨头，骨状物
+$book
+[b?k]
+n.书本，书籍，手册；卷，册 vt.预定(票等)
+$boom
+[bu:m]
+v./n.(发出)隆隆声；繁荣，兴隆起来
+$boost
+[bu:st]
+vt.提高，增加
+$boot
+[bu:t]
+n.长统靴；(汽车后部)放行李处 vt.踢
+$border
+['b?:d?(r)]
+n.边，边缘；边界 vi.和…接连；近似
+$bore
+[b?:(r)]
+n.孔；讨厌的人 v.钻孔 vt.使人烦
+$boring
+['b?:r??]
+a.令人厌烦的 n.钻孔
+$born
+[b?:n]
+a.出生的，天生的
+$borrow
+['b?r??]
+vt.借，借入；(思想、文字等)采用，抄袭
+$boss
+[b?s]
+n.老板，上司 v.指挥，对…发号施令
+$both
+[b??θ]
+a.两个…(都) pron.两者(都)
+$bother
+['b?e?(r)]
+vt.打扰，麻烦 vi.费心 n.麻烦；讨厌的人
+$bottle
+['b?tl]
+n.瓶子；(流体)容器
+$bottom
+['b?t?m]
+n.底，底部；臀部；末端，尽头；来源
+$bounce
+[ba?ns]
+vi.弹起来 vt.使弹起 n.弹，反弹
+$bound
+[ba?nd]
+n.跳，边界 v.弹跳；限定 a.开往…
+$boundary
+['ba?ndr?]
+n.分界线，边界
+$bow
+[ba?]
+n.弓；蝴蝶结 v.鞠躬，点头；用弓拉琴
+$bowl
+[b??l]
+n.碗，钵
+$box
+[b?ks]
+n.盒子，箱子；(戏院的)包厢
+$boy
+[b??]
+n.男孩；侍者，服务员
+$brain
+[bre?n]
+n.大脑；心智，智力
+$brake
+[bre?k]
+n.闸，刹车，制动器 v.刹(车)
+$branch
+[brɑ:nt?]
+n.树枝，分枝；(机构的)分部；(学科的)分科
+$brand
+[br?nd]
+n.商标；烙印 vt.打烙印于…，铭刻
+$brass
+[brɑ:s]
+n.黄铜；(pl.)黄铜制品
+$brave
+[bre?v]
+a.勇敢的，英勇的
+$bread
+[bred]
+n.面包；食物，生计
+$breadth
+[bredθ]
+n.宽度，广度
+$break
+[bre?k]
+vt.打破；中断 vi.破，断裂 n.中断，间歇
+$breakfast
+['brekf?st]
+n.早饭
+$breast
+[brest]
+n.胸脯，乳房；胸部 vt.挺胸迎…而上
+$breath
+[breθ]
+n.气息，呼吸；(风)微动
+$breathe
+[bri:e]
+v.呼吸
+$breed
+[bri:d]
+n.种类，品种 vt.繁殖；饲养；引起
+$breeze
+[bri:z]
+n.微风
+$brick
+[br?k]
+n.砖，砖状物；方木块，块料
+$bride
+[bra?d]
+n.新娘
+$bridge
+[br?d?]
+n.桥，桥梁；桥牌
+$brief
+[bri:f]
+a.短暂的；简洁的 n.摘要，概要
+$bright
+[bra?t]
+a.明亮的；欢快的；聪明的；(颜色)鲜艳的
+$brilliant
+['br?l??nt]
+a.很明亮的；光辉的，辉煌的；卓越的
+$bring
+[br??]
+vt.拿来，带来；产生，导致；引来；提出
+$broad
+[br?:d]
+a.宽的；宽容的；粗略的，概括性的；敞开的
+$broadcast
+['br?:dkɑ:st]
+n.广播，广播节目 v.(用无线电或电视)广播
+$broom
+[bru:m]
+n. 扫帚
+$brother
+['br?e?(r)]
+n.兄弟；同胞；教友；同事
+$brow
+[bra?]
+n.(pl.)眉毛；额
+$brown
+[bra?n]
+a.&n.棕色(的)，褐色(的)
+$brush
+[br??]
+vt.刷 n.毛刷，刷子；画笔
+$bubble
+['b?bl]
+n.水泡，气泡 vi.冒泡，沸腾
+$bucket
+['b?k?t]
+n.水桶
+$budget
+['b?d??t]
+n.预算，预算案，预算额；经费，生活费
+$build
+[b?ld]
+vt.建造，建筑；建设，建立 vi.增大，增强
+$building
+['b?ld??]
+n.建筑物，房屋
+$bulb
+[b?lb]
+n.电灯泡；球状物
+$bulk
+[b?lk]
+n.容积，体积；大块，大批；大部分，大多数
+$bullet
+['b?l?t]
+n.子弹
+$bump
+[b?mp]
+n.碰撞，颠簸；肿块 v.碰撞，颠簸　
+$bunch
+[b?nt?]
+n.一串，一束
+$bundle
+['b?ndl]
+n.包裹，包袱；一包，一捆，一束
+$burden
+['b?:dn]
+n.负担，负重；负荷，载重；义务，责任
+$bureau
+['bj??r??]
+n.司，局，处，社，所
+$burn
+[b?:n]
+v.燃烧；烧毁 n.烧伤，灼伤
+$burst
+[b?:st]
+vi.爆炸，破裂；突然发生
+$bury
+['ber?]
+vt.埋葬，掩埋，掩盖
+$bus
+[b?s]
+n.公共汽车
+$bush
+[b??]
+n.矮树丛，灌木丛
+$business
+['b?zn?s]
+n.生意，业务；事务，职责；企业
+$busy
+['b?z?]
+a.忙的；热闹的；(电话)占线
+$but
+[b?t]
+conj.但是 prep.除…以外 ad.仅仅
+$butcher
+['b?t??(r)]
+n.卖肉的人，屠夫
+$butter
+['b?t?(r)]
+n.黄油，脂样的物质
+$butterfly
+['b?t?fla?]
+n.蝴蝶，蝶形
+$button
+['b?tn]
+n.钮扣；按扭 v.扣上扣子，扣紧
+$buy
+[ba?]
+v.买，购买；收买
+$by
+[ba?]
+prep.靠近；不迟于 ad.在近旁
+$cab
+[k?b]
+n.出租马车
+$cabbage
+['k?b?d?]
+n.洋白菜，卷心菜
+$cabin
+['k?b?n]
+n.船舱，机舱；小木屋
+$cabinet
+['k?b?n?t]
+n.橱，柜子；内阁
+$cable
+['ke?bl]
+n.缆，电缆；电报 vt.打电报
+$cage
+[ke?d?]
+n.笼子
+$cake
+[ke?k]
+n.饼，糕，蛋糕；扁平的块状物
+$calculate
+['k?lkj?le?t]
+vt.计算；推测，估计；打算，计划
+$calculator
+['k?lkj?le?t?(r)]
+n.计算器
+$calendar
+['k?l?nd?(r)]
+n.日历，月历
+$call
+[k?:l]
+vt.叫，喊；打电话 vi.叫；访问 n.叫；号召
+$calm
+[kɑ:m]
+vi.平静下来 vt.使平静 a.(天气等)平静的
+$camel
+['k?ml]
+n.骆驼
+$camera
+['k?m?r?]
+n.照相机，摄影机，摄像机
+$camp
+[k?mp]
+n.营地，野营 vi.宿营，扎营
+$campaign
+[k?m'pe?n]
+n.战役，运动；竞选运动 vi.领导，发起运动
+$campus
+['k?mp?s]
+n.(大学)校园
+$can
+[k?n]
+n.容器；听，罐头 vt.(把食品)装罐
+$canal
+[k?'n?l]
+n.运河，沟渠
+$cancel
+['k?nsl]
+vt.取消，作废；删去，划掉
+$cancer
+['k?ns?(r)]
+n.癌症，肿瘤
+$candidate
+['k?nd?d?t]
+n.候选人，候补者；投考者，求职者
+$candle
+['k?ndl]
+n.蜡烛
+$candy
+['k?nd?]
+n.(美)糖果
+$cap
+[k?p]
+n.帽子，盖子 vt.盖住；胜过，优于
+$capable
+['ke?p?bl]
+a.有能力的，有才能的；能做到的，有可能的
+$capacity
+[k?'p?s?t?]
+n.容量，容积；能力，性能
+$capital
+['k?p?tl]
+n.首都；大写；资本 a.大写的；可判死刑的
+$captain
+['k?pt?n]
+n.船长，机长；陆军上尉，海军上校
+$capture
+['k?pt??(r)]
+vt.捕获，俘获；夺取，占领
+$car
+[kɑ:(r)]
+n.车，汽车；(火车)车厢
+$carbon
+['kɑ:b?n]
+n.碳
+$card
+[kɑ:d]
+n.卡，卡片，名片；纸片；纸牌，纸牌游戏
+$care
+[ke?(r)]
+n.小心；忧虑，烦恼，照料 vt.关心；计较
+$career
+[k?'r??(r)]
+n.生涯，职业
+$careful
+['ke?fl]
+a.当心的，小心的，仔细的
+$careless
+['ke?l?s]
+a.粗心的，疏忽的
+$cargo
+['kɑ:g??]
+n.船货，货物
+$carpenter
+['kɑ:p?nt?(r)]
+n.木工, 木匠"
+$carpet
+['kɑ:p?t]
+n.地毯
+$carriage
+['k?r?d?]
+n.车辆，车厢
+$carrier
+['k?r??(r)]
+n.运载工具；带菌者；货运商
+$carrot
+['k?r?t]
+n.胡萝卜
+$carry
+['k?r?]
+vt.运，送，搬；传播，输送
+$cart
+[kɑ:t]
+n.手推车, 板车
+$cartoon
+[kɑ:'tu:n]
+n.卡通片，动画片；(报刊上的)漫画，连环画
+$case
+[ke?s]
+n.情况，事实；案例；箱，盒
+$cash
+[k??]
+n.现金，现钱 vt.兑换成现金
+$cashier
+[k?'???(r)]
+n. 出纳员
+$cassette
+[k?'set]
+n.盒子；盒式磁带
+$cast
+[kɑ:st]
+vt.投，扔；撒(网)；铸造 n.一投；撒网
+$castle
+['kɑ:sl]
+n.城堡
+$casual
+['k????l]
+a.偶然的；临时的，非正式的；草率的
+$cat
+[k?t]
+n.猫，猫科动物
+$catalog
+['k?t?l?:g]
+n.目录 vt.对…编目
+$catalogue
+['k?t?l?g]
+n.目录，目录册
+$catch
+[k?t?]
+vt.抓住；赶上；听懂；引起(注意)；染上
+$category
+['k?t?g?r?]
+n.种类，范畴
+$cattle
+['k?tl]
+n.牲口(总称，尤指牛)
+$cause
+[k?:z]
+n.原因，理由；事业，(奋斗)目标 vi.引起
+$cautious
+['k?:??s]
+a.小心谨慎的
+$cave
+[ke?v]
+n.山洞, 洞穴"
+$cease
+[si:s]
+n.&v.停止，终止
+$ceiling
+['si:l??]
+n.天花板，顶篷
+$celebrate
+['sel?bre?t]
+v.庆祝；赞扬，称颂
+$cell
+[sel]
+n.细胞；电池；小房间；小牢房
+$cement
+[s?'ment]
+n.水泥
+$cent
+[sent]
+n.分币；(作单位的)百
+$center
+['sent?]
+n.中心，核心 vi.居中 vt.使集中
+$centigrade
+['sent?gre?d]
+n.摄氏温度
+$centimeter
+['sent?Xmi:t?]
+n.公分，厘米
+$centimetre
+['sent?mi:t?(r)]
+n.公分，厘米
+$central
+['sentr?l]
+a.中心的；主要的
+$centre
+['sent?(r)]
+n.中心；中间派；(活动的)集中地点 v.集中
+$century
+['sent??r?]
+n.一百年；世纪
+$ceremony
+['ser?m?n?]
+n.典礼，仪式；礼节，礼仪
+$certain
+['s?:tn]
+a.肯定的；必然的；某一，某种
+$certainly
+['s?:tnl?]
+ad.一定，必定；当然可以，行
+$certificate
+[s?'t?f?k?t]
+n.证书，证明书
+$chain
+[t?e?n]
+n.链，链条；一连串 vt.(用链条)拴住，束缚
+$chair
+[t?e?(r)]
+n.椅子；(会议)主席；大学教授 vt.主持会议
+$chairman
+['t?e?m?n]
+n.主席，议长
+$chalk
+[t??:k]
+n.白垩，粉笔
+$challenge
+['t??l?nd?]
+n.挑战；艰巨任务；向…挑战；对…表示怀疑
+$chamber
+['t?e?mb?(r)]
+n.房间，室；会议室；议院；(动物体内)腔室
+$champion
+['t??mp??n]
+n.冠军；捍卫者 vt.捍卫，拥护
+$chance
+[t?ɑ:ns]
+n.机会；可能性；偶然性 v.碰巧；冒险试
+$change
+[t?e?nd?]
+vt.改变；交换 vi.改变 n.变化；交换；零钱
+$channel
+['t??nl]
+n.渠道，通道，管道；海峡；频道
+$chaos
+['ke??s]
+n.混乱，纷乱
+$chap
+[t??p]
+n.家伙，小伙子
+$chapter
+['t??pt?(r)]
+n.章，回，篇；(历史上的)一段时间
+$character
+['k?r?kt?(r)]
+n.个性，品质；特性；人物；字母，书写符号
+$characteristic
+[Xk?r?kt?'r?st?k]
+a.特有的，典型的 n.特色，特性
+$characterize
+['k?r?kt?ra?z]
+vt.描绘…的特征，刻划…的性格
+$charge
+[t?ɑ:d?]
+vt.装满；收费；控告；充电 n.收费；罪名
+$charity
+['t??r?t?]
+n.仁慈，宽厚；慈善机关(团体)
+$charm
+[t?ɑ:m]
+n.魅力；美貌；符咒 v.迷住，对…施魔法
+$chart
+[t?ɑ:t]
+n.图，图表；航(线)图
+$charter
+['t?ɑ:t?(r)]
+n.宪章，特许权 vt.特许，发执照给…；租
+$chase
+[t?e?s]
+v./n.追逐，追赶
+$chat
+[t??t]
+vt.聊天，闲谈
+$cheap
+[t?i:p]
+a.便宜的；劣质的；虚伪的 ad.便宜地
+$cheat
+[t?i:t]
+vt.欺骗，诈取 vi.作弊 n.欺骗行为；骗子
+$check
+[t?ek]
+vt.检查；阻止 n.检查；阻止；支票，帐单
+$cheek
+[t?i:k]
+n.面颊，脸蛋；无耻的行为 vt.粗鲁地向…讲
+$cheer
+[t???]
+vt.使高兴 vi.欢呼 n.欢呼，喝彩，振奋
+$cheerful
+['t???f?l]
+a.高兴的，使人愉快(振奋)的
+$cheese
+[t?i:z]
+n.乳酪，干酪
+$chemical
+['kem?kl]
+a.化学的 n.(pl.)化学制品
+$chemist
+['kem?st]
+n.化学家；(英)药剂师
+$chemistry
+['kem?str?]
+n.化学
+$cheque
+[t?ek]
+n.支票=
+[????:check]
+
+$chess
+[t?es]
+n.象棋，国际象棋
+$chest
+[t?est]
+n.箱子，柜子；胸膛，胸腔
+$chew
+[t?u:]
+v.咀嚼
+$chicken
+['t??k?n]
+n.小鸡，鸡肉
+$chief
+[t?i:f]
+n.元首 a.主要的；首席的
+$child
+[t?a?ld]
+n.儿童，孩子
+$childhood
+['t?a?ldh?d]
+n.童年
+$chill
+[t??l]
+n.寒气，寒冷 v.(使)寒冷，(使)冷冻
+$chimney
+['t??mn?]
+n.烟囱，烟道
+$chin
+[t??n]
+n.下巴，颏
+$china
+['t?a?n?]
+n.瓷器
+$chip
+[t??p]
+n.片屑；缺口；马铃薯片 v.弄出缺口
+$chocolate
+['t??kl?t]
+n.巧克力(糖) a.深褐色的
+$choice
+[t???s]
+n.选择，抉择；选择权；供选择的东西
+$choke
+[t???k]
+v.窒息，阻塞，抑制
+$choose
+[t?u:z]
+vt.挑选，选择；愿意，决定
+$chop
+[t??p]
+n.排骨，肉块；砍击 v.砍，劈，斩
+$Christ
+[kra?st]
+n.耶稣，基督
+$Christian
+['kr?st??n]
+n.基督教教徒　a.基督教的；具有基督的精神
+$Christmas
+['kr?sm?s]
+n.圣诞节
+$church
+[t??:t?]
+n.教堂；(C-)教会
+$cigar
+[s?'gɑ:(r)]
+n.雪茄烟，叶卷烟
+$cinema
+['s?n?m?]
+n.电影院；影片，电影
+$circle
+['s?:kl]
+n.圆；圈子；周期 v.环绕，围绕…画圈
+$circuit
+['s?:k?t]
+n.线路，电路；一圈，周线；巡回，巡行
+$circular
+['s?:kj?l?(r)]
+a.圆形的；循环的 n.传单；报单；通知
+$circulate
+['s?:kj?le?t]
+v.(使)循环，(使)流通；(使)传播
+$circumstance
+['s?:k?mst?ns]
+n.情况，境况
+$cite
+[sa?t]
+v.引用，引证；传讯
+$citizen
+['s?t?zn]
+n.公民，市民，居民
+$city
+['s?t?]
+n.城市，都市
+$civil
+['s?vl]
+a.国民的；国内的；文明的；文职的；民用的
+$civilian
+[s?'v?l??n]
+n.市民，老百姓 a.平民的，民用的
+$civilisation
+[s?v?la?'ze???n]
+n.文明，文化；开化，教化
+$civilise
+['s?v?la?z]
+vt.使文明，使开化
+$civilization
+['s?v?la?'ze???n]
+n.文明，文化；开化，教化
+$civilize
+['s?v?la?z]
+vt.使文明，使开化
+$claim
+[kle?m]
+n.权力；要求；主张 vt.声明；要求，索取
+$clap
+[kl?p]
+v.拍，拍手(喝彩) v.掌声，劈雳声
+$clarify
+['kl?r?fa?]
+vi.澄清，阐明 vt.使明晰
+$clash
+[kl??]
+v.发出铿锵声；(意见等)冲突 n.铿锵声
+$class
+[klɑ:s]
+n.班级；阶级；(一堂)课；门类
+$classic
+['kl?s?k]
+a.传统的；最优秀的 n.(pl.)杰作，名著
+$classical
+['kl?s?kl]
+a.古典文学的，经典的；人文科学的，文科的
+$classification
+[Xkl?s?f?'ke??n]
+n.分类，分级
+$classify
+['kl?s?fa?]
+vt.分类；分等级
+$classmate
+['klɑ:sme?t]
+n.同班同学
+$classroom
+['klɑ:sru:m]
+n.教室，课堂
+$clause
+[kl?:z]
+n.条款，款项；分句，从句
+$claw
+[kl?:]
+n.爪
+$clay
+[kle?]
+n.粘土，泥土
+$clean
+[kli:n]
+a.干净的，清洁的 v.擦干净，把…弄干净
+$clear
+[kl??(r)]
+a.光亮的；条理清楚的 vt.清除；使明白
+$clerk
+[klɑ:k]
+n.职员，店员，办事员；(法庭中的)书记
+$clever
+['klev?(r)]
+a.聪明的, 灵巧的"
+$click
+[kl?k]
+n.一击，咔哒声 vi.发出咔哒声
+$client
+['kla??nt]
+n.委托人，当事人；顾客
+$cliff
+[kl?f]
+n.悬崖，峭壁
+$climate
+['kla?m?t]
+n.气候
+$climb
+[kla?m]
+v.攀登，爬 n.攀登，爬；攀登的地方
+$clinic
+['kl?n?k]
+n.诊所
+$clock
+[kl?k]
+n.钟
+$close
+[kl??s]
+v.关；结束 a.(距离)近的 ad.接近 n.结束
+$cloth
+[kl?θ]
+n.布，织物，衣料
+$clothes
+[kl??ez]
+n.衣服
+$clothing
+['kl??e??]
+n.衣服(总称)
+$cloud
+[kla?d]
+n.云；一缕，一群；阴影
+$cloudy
+['kla?d?]
+a.多云的，阴天的；似云的；模糊不清的
+$club
+[kl?b]
+n.俱乐部；棍棒，球棒 v.用棍棒打
+$clue
+[klu:]
+n.线索，提示
+$clumsy
+['kl?mz?]
+a.笨拙的
+$coach
+[k??t?]
+n.教练；(火车)客车车厢 v.训练，辅导
+$coal
+[k??l]
+n.煤，煤块
+$coarse
+[k?:s]
+a.粗糙的，粗劣的
+$coast
+[k??st]
+n.海岸，海滨
+$coat
+[k??t]
+n.上衣，外套；涂层；动物的毛皮 v.涂上
+$cock
+[k?k]
+n.公鸡；龙头；(枪)板机 v.竖起
+$code
+[k??d]
+n.法规；代码 v.把…译成电码；把…编成号
+$coffee
+['k?f?]
+n.咖啡；咖啡色
+$coil
+[k??l]
+v.卷，盘绕 n.(一)卷；圈，圈线
+$coin
+[k??n]
+n.硬币，钱币 vt.杜撰(新词等)；铸造
+$cold
+[k??ld]
+a.寒冷的；冷淡的 n.伤风，感冒；寒冷
+$collapse
+[k?'l?ps]
+v./n.(使)倒塌；(使)崩溃
+$collar
+['k?l?(r)]
+n.衣领
+$colleague
+['k?li:g]
+n.同事，同僚
+$collect
+[k?'lekt]
+vt.收，收集 vi.聚集，堆积
+$collection
+[k?'lek?n]
+n.收集，搜集，采集，收藏品
+$collective
+[k?'lekt?v]
+a.集体的，共同的 n.集体；全体人员
+$college
+['k?l?d?]
+n.大学，学院
+$collision
+[k?'l??n]
+n.碰撞，冲突
+$colony
+['k?l?n?]
+n.殖民地；(同类人的)聚居地
+$color
+['k?l?(r)]
+n.颜色，颜料；脸色，肤色 vt.给…着色
+$colour
+['k?l?(r)]
+n.颜色，颜料；脸色，肤色 vt.给…着色
+$column
+['k?l?m]
+n.柱，柱状物；专栏(文章)；直行
+$comb
+[k??m]
+vt.梳，梳理 n.梳子
+$combat
+['k?mb?t]
+v.与…战斗，搏斗 vi.战斗，斗争，搏斗
+$combination
+[Xk?mb?'ne??n]
+n.联合，合并；化合，化合物
+$combine
+[k?m'ba?n]
+v.结合，联合；化合 n.集团；联合收割机
+$come
+[k?m]
+vi.来，到来；出现；成为，是
+$comedy
+['k?m?d?]
+n.喜剧，喜剧场面
+$comfort
+['k?mf?t]
+vt.使安慰；使舒服 n.安慰；舒适，安逸
+$comfortable
+['k?mft?bl]
+a.舒适的，舒服的
+$command
+[k?'mɑ:nd]
+vi.命令，吩咐；控制，管辖；掌握
+$commander
+[k?'mɑ:nd?(r)]
+n.指挥官，司令官；海军中校
+$comment
+['k?ment]
+vi.(on)评论 n.评论，意见
+$commerce
+['k?m?:s]
+n.商业，贸易
+$commercial
+[k?'m?:??l]
+a.商业的；可获利的 n.广告节目
+$commission
+[k?'m??n]
+n.委托，授权；委员会；拥金，回扣；委任状
+$commit
+[k?'m?t]
+vt.犯(错误，罪行等)；把…托付给，提交
+$commitment
+[k?'m?tm?nt]
+n.承担义务，许诺
+$committee
+[k?'m?t?]
+n.委员会
+$common
+['k?m?n]
+a.普通的，寻常的；共有的，公共的
+$communicate
+[k?'mju:n?ke?t]
+vt.交际，交流(思想等)；传达，传送；通讯
+$communication
+[k?Xmju:n?'ke??n]
+n.通讯，交流；传达；(pl.)通信系统
+$communism
+['k?mj?n?z?m]
+n.共产主义；共产党政体
+$communist
+['k?mj?n?st]
+n.共产主义者，共产党员 a.共产主义的
+$community
+[k?'mju:n?t?]
+n.社区；市民大众；共有，共同性
+$companion
+[k?m'p?n??n]
+n.同事，同伙，同伴，伴侣
+$company
+['k?mp?n?]
+n.公司，商社；陪伴，伴随，交往；(一)伙
+$comparable
+['k?mp?r?bl]
+a.可比较的，比得上的
+$comparative
+[k?m'p?r?t?v]
+a.比较的 n.形容词或副词的比较级
+$compare
+[k?m'pe?(r)]
+vt.比较，对照；比作，比喻
+$comparison
+[k?m'p?r?sn]
+n.比较，对照；比喻
+$compass
+['k?mp?s]
+n.指南针
+$compel
+[k?m'pel]
+vt.强迫，迫使
+$compete
+[k?m'pi:t]
+vi.竞争，竞赛
+$competent
+['k?mp?t?nt]
+a.有能力的，能胜任的；足够的
+$competition
+[Xk?mp?'t??n]
+n.比赛，竞赛
+$competitive
+[k?m'pet?t?v]
+a.竞争的，比赛的
+$complain
+[k?m'ple?n]
+vi.抱怨，拆苦；投诉
+$complaint
+[k?m'ple?nt]
+n.抱怨，诉苦，发牢骚
+$complete
+[k?m'pli:t]
+a.完整的；已完成的；彻底的 vt.完成，结束
+$complex
+['k?mpleks]
+a.复合的；复杂的 n.综合企业，复合体
+$complicated
+['k?mpl?ke?t?d]
+a.复杂的
+$component
+[k?m'p??n?nt]
+n.(尤指机器或系统的)组成部分 a.构成的
+$compose
+[k?m'p??z]
+vt.构成，组成；创作(乐曲、文学作品等)
+$composition
+[Xk?mp?'z??n]
+n.构成，成分；作文，作曲；(音乐等)作品
+$compound
+['k?mpa?nd]
+n.化合物，混合物 a.复合的，合成的
+$comprehension
+[Xk?mpr?'hen?n]
+n.理解，理解力；领悟
+$comprehensive
+[Xk?mpr?'hens?v]
+a.广泛的，综合的
+$compress
+[k?m'pres]
+v.压缩，紧缩
+$comprise
+[k?m'pra?z]
+vt.包含，由…构成；构成，组成
+$compromise
+['k?mpr?ma?z]
+n.妥协；折衷方案 vi.妥协；危及，连累
+$computer
+[k?m'pju:t?(r)]
+n.计算机，电脑
+$comrade
+['k?mre?d]
+n.同志，朋友，同事
+$conceal
+[k?n'si:l]
+vt.隐藏，隐瞒
+$concede
+[k?n'si:d]
+v.承认；给予，割让
+$concentrate
+['k?nsntre?t]
+vt.聚中；浓缩 n.浓缩物
+$concentration
+[Xk?nsn'tre??n]
+n.专注，专心；集中；浓缩
+$concept
+['k?nsept]
+n.概念，观念
+$concern
+[k?n's?:n]
+n.所关切的事；关心 vt.与…有关；使担心
+$concerning
+[k?n's?:n??]
+prep.关于
+$concert
+['k?ns?t]
+n.音乐会，演奏会；一致
+$concession
+[k?n'se?n]
+n.让步，妥协
+$conclude
+[k?n'klu:d]
+v.结束；下结论，推论；缔结，议定
+$conclusion
+[k?n'klu:?n]
+n.结论，推论；结尾，结束语
+$concrete
+['k??kri:t]
+n.混凝土；具体物 a.混凝土制的；具体的
+$condemn
+[k?n'dem]
+vt.遣责；判刑，宣告有罪
+$condense
+[k?n'dens]
+vt.压缩，浓缩，精简
+$condition
+[k?n'd??n]
+n.条件，状态，状况；(pl.)环境，形势
+$conduct
+[k?n'd?kt]
+n.行为，表现，品行 v.引导；处理；传导
+$conductor
+[k?n'd?kt?(r)]
+n.售票员，列车员；(乐队的)指挥；导体
+$conference
+['k?nf?r?ns]
+n.(正式)会议，讨论会
+$confess
+[k?n'fes]
+vt.坦白，供认，承认
+$confidence
+['k?nf?d?ns]
+n.信心；信任
+$confident
+['k?nf?d?nt]
+a.确信的，自信的
+$confine
+[k?n'fa?n]
+vt.限制，使局限于；使闭门不出，禁闭
+$confirm
+[k?n'f?:m]
+vt.证实，进一步确定；批准；使坚固
+$conflict
+['k?nfl?kt]
+n.斗争；冲突 vi.斗争，战斗；抵触，冲突
+$confront
+[k?n'fr?nt]
+vt.使面临，使遭遇；使对质；面对(危险等)
+$confuse
+[k?n'fju:z]
+vt.使混乱，使困惑；混淆，混同
+$confusion
+[k?n'fju:??n]
+n.混淆，混乱；困惑，糊涂
+$congratulate
+[k?n'gr?tj?Xle?t]
+vt.祝贺，恭贺，向…道贺
+$congratulation
+[k?nXgr?t??'le??n]
+n.祝贺；(pl.)祝贺词
+$congress
+['k??gres]
+n.代表大会；(美国)国会，议会
+$conjunction
+[k?n'd???k?n]
+n.联合，连接，接合；连接词
+$connect
+[k?'nekt]
+vt.连接；与…联系 vi.连接，相通
+$connection
+[k?'nek?n]
+n.连接；联络工具；(亲属、社会上的)关系
+$connexion
+[k?'nek??n]
+n. 连接,团体,连贯性客户,亲戚
+$conquer
+['k??k?(r)]
+v.征服，占领；克服，改正(恶习等)
+$conquest
+['k??kwest]
+n.攻取，征服
+$conscience
+['k?n??ns]
+n.良心，道德心
+$conscious
+['k?n??s]
+a.有意识的，意识到的；神志清醒的；有意的
+$consent
+[k?n'sent]
+n.同意，赞成 v.同意，赞成
+$consequence
+['k?ns?kw?ns]
+n.结果，后果
+$consequently
+['k?ns?kw?ntl?]
+ad.所以，因此
+$conservation
+[Xk?ns?'ve??n]
+n.保存，保护；守恒
+$conservative
+[k?n's?:v?t?v]
+a.保守的；小心谨慎的；防腐的 n.保守的人
+$consider
+[k?n's?d?(r)]
+vt.认为，把…看作；考虑 vi.考虑，细想
+$considerable
+[k?n's?d?r?bl]
+a.值得考虑的；相当(大、多)的
+$considerate
+[k?n's?d?r?t]
+adj. 体谅的
+$consideration
+[k?nXs?d?'re??n]
+n.考虑；需考虑到的事；体谅，关心
+$consist
+[k?n's?st]
+vi.(in)存在于；(of)由…组成，构成，包括
+$consistent
+[k?n's?st?nt]
+a.一致的，符合的；坚持的；相容的
+$constant
+['k?nst?nt]
+a.固定不变的；经常发生的 n.不变的事物
+$constitute
+['k?nst?tju:t]
+vt.构成；制定
+$constitution
+[Xk?nst?'tju:??n]
+n.法规，宪法，章程；组织，构造；体质
+$construct
+[k?n'str?kt]
+vt.建设，建造；创立
+$construction
+[k?n'str?k?n]
+n.建造，构造；建筑物，结构；释义，解释
+$consult
+[k?n's?lt]
+vt.请教；向…咨询；查阅；就诊 vi.商议
+$consultant
+[k?n's?lt?nt]
+n.顾问，专家；医院的高级专科顾问医生
+$consume
+[k?n'sju:m]
+vt.消费，花费；毁灭，耗尽 vi.消费掉
+$consumer
+[k?n'sju:m?(r)]
+n.用户，消费者
+$consumption
+[k?n's?mp?n]
+n.消费，消耗；消费额，消耗量；肺病
+$contact
+['k?nt?kt]
+n.接触；联络员；带菌者 v.接触，联系
+$contain
+[k?n'te?n]
+vt.包含，含有；克制，抑制
+$container
+[k?n'te?n?(r)]
+n.容器；集装箱
+$contemporary
+[k?n'tempr?r?]
+a.当代的；同龄的 n.同代人，同龄人
+$content
+['k?ntent]
+n.(pl.)目录；满足 a.满足的 vt.使满足
+$contest
+['k?ntest]
+n.竞争，比赛 v.竞争，比赛；争论，争辩
+$context
+['k?ntekst]
+n.上下文；(事情等的)前后关系，情况
+$continent
+['k?nt?n?nt]
+a.不停的，频频的
+$continual
+[k?n't?nj??l]
+a.不断的；频繁的
+$continue
+[k?n't?nju:]
+v.持续，继续
+$continuous
+[k?n't?nj??s]
+a.连续的，不间断的
+$contract
+['k?ntr?kt]
+n.契约，合同 v.订约；(使)收缩
+$contradiction
+[Xk?ntr?'d?k?n]
+n.矛盾；反驳
+$contrary
+['k?ntr?r?]
+a.相反的 n.相反(的事物)；对立面
+$contrast
+['k?ntrɑ:st]
+n.对照，对比；对立面；反差 vt.使对照
+$contribute
+[k?n'tr?bju:t]
+v.捐献，贡献，捐款；投(稿)；起一份作用
+$contribution
+[Xk?ntr?'bju:?n]
+n.贡献，捐献；捐献物；投稿
+$control
+[k?n'tr??l]
+vt./n.控制；抑制，支配
+$controversial
+[Xk?ntr?'v?:??l]
+a.引起争论的，有争议的
+$controversy
+['k?ntr?v?:s?]
+n.争论，争议
+$convenience
+[k?n'vi:n??ns]
+n.方便，便利；有益的工具；便利设备；公厕
+$convenient
+[k?n'vi:n??nt]
+a.方便的
+$convention
+[k?n'ven?n]
+n.会议，大会；惯例，习俗；公约，协定
+$conventional
+[k?n'ven??nl]
+a.普通的，常见的；习惯的，常规的
+$conversation
+[Xk?nv?'se??n]
+n.会话，谈话
+$conversely
+['k?nv?:sl?]
+ adv. 1 相反地
+$convert
+[k?n'v?:t]
+vt.使转变(转化) vi.改变信仰 n.皈依者
+$convey
+[k?n've?]
+vt.传达，表达；传送，运输
+$convict
+[k?n'v?kt]
+vt.证明…有罪；使…知罪 n.罪犯
+$conviction
+[k?n'v?k?n]
+n.确信，信服；坚信，坚定的信念
+$convince
+[k?n'v?ns]
+vt.使确信，使相信
+$cook
+[k?k]
+vi.煮，烧(食物) vi.做饭 n.厨师
+$cool
+[ku:l]
+a.凉的；沉着的 v.(使)冷却；(使)冷静
+$cooperate
+[k??'?p?re?t]
+vi.合作，协作
+$coordinate
+[k??'?:d?ne?t]
+a.同等的，协调的 n.同等者 vt.协作，协调
+$cop
+[k?p]
+n.警察
+$cope
+[k??p]
+"vi.竞争；应付, 处理
+$copper
+['k?p?(r)]
+n.铜；铜币；铜器 a.铜(制)的；(紫)铜色的
+$copy
+['k?p?]
+n.抄本；(书的)一册 v.抄写；复印；复制
+$copyright
+['k?p?ra?t]
+n.版权，著作权
+$cord
+[k?:d]
+n.绳，线；纺织品；小电线；腱
+$core
+[k?:(r)]
+n.果心；核心，要点
+$corn
+[k?:n]
+n.谷物；(美)玉米；(英)小麦
+$corner
+['k?:n?(r)]
+n.角落；街角；困境
+$corporation
+[Xk?:p?'re??n]
+n.公司；市政府
+$correct
+[k?'rekt]
+a.正确的，合适的 vt.改正
+$correspond
+[Xk?r?'sp?nd]
+vi.对应于；符合；通信
+$correspondence
+[Xk?r?'sp?nd?ns]
+n.通信，信件；符合，一致；相当，相应
+$correspondent
+[Xk?r?'sp?nd?nt]
+n.通信者；记者，通信员；对应物
+$corresponding
+[Xk?r?'sp?nd??]
+a.相应的，相当的
+$corridor
+['k?r?d?:(r)]
+n. 走廊，通道
+$cost
+[k?st]
+n.成本；代价 v.花费；使失去(生命等)
+$costly
+['k?stl?]
+a.昂贵的，浪费的
+$cottage
+['k?t?d?]
+n.农舍，小屋；小型别墅
+$cotton
+['k?tn]
+n.棉，棉花；棉线，棉制品
+$cough
+[k?f]
+n.&vi.咳嗽，咳出
+$could
+[k?d]
+aux.v.can的过去式；可能；用来表示请求
+$council
+['ka?nsl]
+n.委员会，理事会
+$counsel
+['ka?nsl]
+n.忠告，劝告；辩护人 vt.忠告，劝告
+$count
+[ka?nt]
+v.数，计算；认为；有价值 n.计数，总数
+$counter
+['ka?nt?(r)]
+n.柜台 a.相反的 vt.反对 ad.反方向地
+$country
+['k?ntr?]
+n.&a.国家(的)；农村(的)
+$countryside
+['k?ntr?sa?d]
+n.乡村
+$county
+['ka?nt?]
+n.(英国)县或郡，(美)州以下最大的行政区
+$couple
+['k?pl]
+n.一对，夫妇；两三个 vt.连接，结合
+$courage
+['k?r?d?]
+n.勇气，胆量
+$course
+[k?:(r)s]
+n.过程，进程；(一)道(菜)；课程，教程
+$court
+[k?:t]
+n.法院，法庭；球场；朝廷；院子
+$courtyard
+['k?:tjɑ:d]
+n.庭院，天井
+$cousin
+['k?zn]
+n.堂(表)弟，堂(表)姐妹；同种同族
+$cover
+['k?v?(r)]
+vt.覆盖；涉及；经过 n.覆盖物；掩护物；罩
+$cow
+[ka?]
+n.母牛，奶牛
+$crack
+[kr?k]
+n.破裂声；裂缝 vi.发出爆裂声 vt.使破裂
+$craft
+[krɑ:ft]
+n.工艺，手艺；船，航空器
+$crane
+[kre?n]
+n.起重机；鹤 v.引颈，伸长(脖子)
+$crash
+[kr??]
+v.碰；坠毁；横冲直撞；破产 n.碰撞；失败
+$crawl
+[kr?:l]
+n.&vi.爬行，伏地行进
+$crazy
+['kre?z?]
+a.疯的；荒唐的；狂热的，着迷的
+$cream
+[kri:m]
+n.奶油；精华；淡黄色 vt.搅拌成奶油状
+$create
+[kr?'e?t]
+v.创造；产生
+$creative
+[kr?'e?t?v]
+a.创造性的，有创造力的
+$creature
+['kri:t??(r)]
+n.生物，动物，人
+$credit
+['kred?t]
+n.信用；赊欠；学分 vt.信任；把…记入贷方
+$creep
+[kri:p]
+n.爬，蠕动 v.爬，蔓延，潜行
+$crew
+[kru:]
+n.(全体)船员，机组人员，乘务员
+$crime
+[kra?m]
+n.罪，犯罪
+$criminal
+['kr?m?nl]
+a.刑事的，犯罪的 n.罪犯，刑事犯
+$crisis
+['kra?s?s]
+n.危机(关头)
+$critic
+['kr?t?k]
+n.批评家，评论家
+$critical
+['kr?t?kl]
+a.批评的，批判的；危急的，关键的；苛求的
+$criticise
+['kr?t?sa?z]
+v.批评，评论；非难
+$criticism
+['kr?t?s?z?m]
+n.批评，评论
+$criticize
+['kr?t?sa?z]
+v.批评；评论；非难
+$crop
+[kr?p]
+n.庄稼；收成；一批 vt.收割 vi.收成，耕种
+$cross
+[kr?s]
+n.十字架；交叉路 v.穿越；相交；划横线
+$crossing
+['kr?s??]
+n.横渡(大海，河流等)；(河流)渡口
+$crowd
+[kra?d]
+n.群，人群，群众 vt.挤满 vi.聚集，群集
+$crown
+[kra?n]
+n.王冠；王权；顶部 vt.给…加冕；覆盖
+$crucial
+['kru:?l]
+a.关键的，决定性的
+$crude
+[kru:d]
+a.天然的；粗鲁的；粗糙的 n.原油
+$cruel
+['kru:?l]
+a.残酷的，残忍的，痛苦的
+$cruise
+[kru:z]
+v./n.巡航，巡游
+$crush
+[kr??]
+v./n.压碎，榨
+$crust
+[kr?st]
+n. 硬皮
+$cry
+[kra?]
+n.&v.叫，喊，哭；(鸟兽)叫，啼，鸣，嗥
+$crystal
+['kr?stl]
+n.水晶；石英晶体，晶粒 a.水晶的
+$cube
+[kju:b]
+n.立方体，立方形；立方 vt.使自乘两次
+$cue
+[kju:]
+n.(给演员等所作的)提示，提词；暗示，指引
+$cultivate
+['k?lt?ve?t]
+vt.耕作；培养；种植
+$culture
+['k?lt??(r)]
+n.文化；教养，修养
+$cup
+[k?p]
+n.杯子；奖杯；一杯(的容量)；高尔夫球球洞
+$cupboard
+['k?b?d]
+n.食橱，碗橱
+$cure
+[kj??(r)]
+v.&n.治愈，治疗
+$curiosity
+[Xkj??r?'?s?t?]
+n.好奇(心)
+$curious
+['kj??r??s]
+a.好奇的
+$curl
+[k?:l]
+v.(使)卷曲 n.卷发；卷曲物
+$currency
+['k?r?ns?]
+n.通货，货币；流通，流行
+$current
+['k?r?nt]
+a.现时的；通用的 n.(水、气、电)流；趋势
+$curriculum
+[k?'r?kj?l?m]
+n.(学校、专业的)全部课程；必修课程
+$curse
+[k?:s]
+n.诅咒；祸因；骂人的话 v.诅咒；遭受…苦
+$curtain
+['k?:tn]
+n.(窗、门)帘；(舞台的)幕
+$curve
+[k?:v]
+n.曲线，弯曲 v.弄弯，弯曲
+$cushion
+['k??n]
+n.垫子，坐垫
+$custom
+['k?st?m]
+n.习惯；(the Customs)海关，(pl.)关税
+$customer
+['k?st?m?(r)]
+n.顾客, 主顾
+$cut
+[k?t]
+v.&n.切，割；削减
+$cycle
+['sa?kl]
+n.循环；周期；自行车 v.(使)轮转
+$daily
+['de?l?]
+a.每日(的) n.日报
+$dairy
+['de?r?]
+n.牛奶场，乳品店；乳制品 a.牛奶的
+$dam
+[d?m]
+n.堤，坝 vt.筑坝
+$damage
+['d?m?d?]
+n.损坏，毁坏；(pl.)赔偿金 vt.损坏，毁坏
+$damn
+[d?m]
+int.该死 vt.遣责；使失败 a.十足的 ad.极
+$damp
+[d?mp]
+n./a.潮湿(的) v.打湿
+$dance
+[dɑ:ns]
+vi.跳舞 n.舞蹈；舞会
+$danger
+['de?nd??(r)]
+n.危险；危险物，威胁
+$dangerous
+['de?nd??r?s]
+a.危险的
+$dare
+[de?(r)]
+vt.敢，竟敢；向…挑战，激 aux.v.胆敢，敢
+$dark
+[dɑ:k]
+a.黑暗的；深色的；秘密的 n.黑暗，暗处
+$darling
+['dɑ:l??]
+a.可爱的；有魅力的 n.心爱的人，乖乖
+$dash
+[d??]
+vt.猛冲 vi.猛冲 n.猛冲；短跑；破折号
+$data
+['de?t?]
+n.资料，数据
+$date
+[de?t]
+n.日期；约会 vt.给…注明日期 vi.(from)起
+$daughter
+['d?:t?(r)]
+n.女儿
+$dawn
+[d?:n]
+n.黎明；开始 vi.破晓；开始出现
+$day
+[de?]
+n.一日；白天
+$daylight
+['de?la?t]
+n.日光，白昼，黎明
+$dead
+[ded]
+a.死的；无知觉的；无声响的 ad.完全地
+$deadline
+['dedla?n]
+n.截止时间，截止日期
+$deaf
+[def]
+a.聋的；不愿听的
+$deal
+[di:l]
+vt.处理，对付；分给，给予 n.交易
+$dear
+[d??(r)]
+a.亲爱的；珍贵的；昂贵的 int.啊 n.亲爱的
+$death
+[deθ]
+n.死亡
+$debate
+[d?'be?t]
+n.辩论，争论 v.辩论，争论；考虑，思考
+$debt
+[det]
+n.债务
+$decade
+['deke?d]
+n.十年，十
+$decay
+[d?'ke?]
+n.衰退，腐败 v.(使)衰退，(使)腐败
+$deceive
+[d?'si:v]
+v.欺骗，蒙骗
+$December
+[d?'semb?(r)]
+n.十二月
+$decent
+['di:snt]
+a.庄重的，正派的，大方的；(服装等)相称的
+$decide
+[d?'sa?d]
+v.决定，决心；裁决，解决，选定
+$decision
+[d?'s??n]
+n.决定，决心
+$deck
+[dek]
+n.甲板；桥面，层面
+$declaration
+[Xdekl?'re??n]
+n.宣布，宣告，宣言
+$declare
+[d?'kle?(r)]
+v.宣告，宣布；声明，断言；申报(纳税物品)
+$decline
+[d?'kla?n]
+v.下降，倾斜；衰败；拒绝 n.衰落，下降
+$decorate
+['dek?re?t]
+v.装饰，布置；授…以殊荣
+$decrease
+[d?'kri:s]
+v.&n.减少，减弱，降低
+$deed
+[di:d]
+n.行为，行动；功绩，事迹；契约，证书
+$deep
+[di:p]
+a.深的；深刻的；深奥的；强烈的 ad.深深地
+$deer
+[d??(r)]
+n.鹿
+$defeat
+[d?'fi:t]
+n.战胜，挫败 vt.击败，战胜
+$defect
+['di:fekt]
+n.缺点，缺陷 vi.变节，投敌，脱党
+$defence
+[d?'fens]
+n.保护，保卫；防御工事；答辩
+$defend
+[d?'fend]
+vt.保卫，防卫；为…辩护
+$defense
+[d?'fens]
+n.保护，保卫；防御工事；答辩
+$define
+[d?'fa?n]
+vt.解释，给…下定义；限定
+$definite
+['def?n?t]
+a.明确的；肯定的
+$definitely
+['def?n?tl?]
+ad.一定地，肯定地；明确地，确切地
+$definition
+[Xdef?'n??n]
+n.定义，解释；(轮廓等的)清晰
+$degree
+[d?'gri:]
+n.度数；程度；学位
+$delay
+[d?'le?]
+n.&v.推迟，耽误
+$delegate
+['del?g?t]
+n.代表；授(权)，委托
+$delete
+[d?'li:t]
+vt.删除
+$deliberate
+[d?'l?b?r?t]
+a.故意的；深思熟虑的 v.仔细考虑
+$delicate
+['del?k?t]
+a.巧妙的，优雅的；精致的，微妙的
+$delicious
+[d?'l???s]
+a.美味可口的；芬芳的；有趣味的，妙的
+$delight
+[d?'la?t]
+n.欣喜，愉快；嗜好 vt.(使)喜悦
+$deliver
+[d?'l?v?(r)]
+vt.救出；投递
+$delivery
+[d?'l?v?r?]
+n.投递，送交；交付，交货；分娩
+$demand
+[d?'mɑ:nd]
+v./n.要求；需要
+$democracy
+[d?'m?kr?s?]
+n.民主政治；民主国家
+$democratic
+[Xdem?'kr?t?k]
+a.民主政体的，民主作风的；民众的
+$demonstrate
+['dem?nstre?t]
+vt.论证，说明；表示(感情)；演示 vi.示威
+$dense
+[dens]
+a.密集的，稠密的；(烟、雾等)浓密的
+$density
+['dens?t?]
+n.密度，稠密度
+$dental
+['dentl]
+a.牙齿的，牙科的
+$deny
+[d?'na?]
+vt.否认；拒绝给予
+$depart
+[d?'pɑ:t]
+v.离开，出发；(火车等)开行
+$department
+[d?'pɑ:tm?nt]
+n.部，部门，系
+$departure
+[d?'pɑ:t??(r)]
+n.离开，出发
+$depend
+[d?'pend]
+vi.(on,upon)取决于，靠；依赖，信任
+$dependent
+[d?'pend?nt]
+a.依靠的；从属的
+$deposit
+[d?'p?z?t]
+v.存放；储蓄；(使)沉淀；放下 n.存款
+$depress
+[d?'pres]
+vt.使沮丧，使低沉；降低，压低；使萧条
+$depression
+[d?'pre?n]
+n.抑郁，沮丧；萧条(期)；洼地；低压(地区)
+$depth
+[depθ]
+n.深度，深厚
+$deputy
+['depj?t?]
+n.代理人；代表；副…
+$derive
+[d?'ra?v]
+vi.起源 vt.得自
+$descend
+[d?'send]
+vi.下来，下降
+$describe
+[d?'skra?b]
+vt.描绘，描写；形容，把…说成
+$description
+[d?'skr?p?n]
+n.描写，描述；说明书；作图
+$desert
+['dez?t]
+n.沙漠，不毛之地 vt.离弃，擅离 vi.开小差
+$deserve
+[d?'z?:v]
+vt.应受到，值得
+$design
+[d?'za?n]
+vt.设计；计划 n.图纸；设计，构思；图案
+$desirable
+[d?'za??r?bl]
+a.称心如意的；值得向往的
+$desire
+[d?'za??(r)]
+v.&n.愿望, 欲望；要求
+$desk
+[desk]
+n.书桌，服务台
+$despair
+[d?'spe?(r)]
+n.&vi.绝望
+$desperate
+['desp?r?t]
+a.不顾一切的；绝望的
+$despite
+[d?'spa?t]
+prep.不管，尽管，不论
+$dessert
+[d?'z?:t]
+n.甜食，点心
+$destination
+[Xdest?'ne??n]
+n.目的地
+$destroy
+[d?'str??]
+vt.毁坏，毁灭；消灭
+$destruction
+[d?'str?k?n]
+n.毁坏；消灭
+$detail
+['di:te?l]
+n.细节，详情；枝节 vt.详述，详细说明
+$detect
+[d?'tekt]
+vt.察觉，发现；侦察
+$detection
+[d?'tek?n]
+n.察觉，发觉；侦察，探测
+$detective
+[d?'tekt?v]
+a.侦察(用)的 n.侦探
+$determination
+[d?Xt?:m?'ne??n]
+n.决心，决定；测定；诉讼的终止
+$determine
+[d?'t?:m?n]
+v.决定；决心；测定，确定
+$develop
+[d?'vel?p]
+v.(使)发达；开发，研制；(使)显影；发育
+$development
+[d?'vel?pm?nt]
+n.发展；新事物，开发，研制
+$device
+[d?'va?s]
+n.设计，手段；谋略，诡计；装置，设备
+$devil
+['devl]
+n.魔鬼
+$devise
+[d?'va?z]
+vt.设计，发明
+$devote
+[d?'v??t]
+vt.把…奉献(给)，致力于
+$diagram
+['da??gr?m]
+n.图解，图表
+$dial
+['da??l]
+n.(钟表等的)针盘；刻度盘 v.拨(电话号码)
+$dialect
+['da??lekt]
+n.方言
+$dialog
+['da??l?g]
+n.问答，对话
+$dialogue
+['da??l?g]
+n.问答，对话
+$diameter
+[da?'?m?t?(r)]
+n.直径
+$diamond
+['da??m?nd]
+n.钻石，金刚石；菱形；(纸牌)红方块
+$diary
+['da??r?]
+n.日记簿，日记
+$dictate
+[d?k'te?t]
+v.(使)听写；口授，口述
+$dictation
+[d?k'te??n]
+n.口授笔录，听写
+$dictionary
+['d?k??nr?]
+n.词典，字典
+$die
+[da?]
+vi.死，死亡；(草木)枯萎，凋谢；渴望
+$diet
+['da??t]
+n.饮食，食物；规定饮食 v.(使)节食
+$differ
+['d?f?(r)]
+vi.不同；意见不同
+$difference
+['d?fr?ns]
+n.差异，差别；争论，不和
+$different
+['d?fr?nt]
+a.不同的，各种的
+$difficult
+['d?f?k?lt]
+a.困难的，艰难的；难应付的，难满足的
+$difficulty
+['d?f?k?lt?]
+n.困难，难事；困境
+$dig
+[d?g]
+v.挖，探究 n.捅；发掘的地点或遗迹
+$digest
+[da?'d?est]
+n.文摘，摘要 vt.消化；吸收，领会
+$digital
+['d?d??tl]
+a.数字的
+$dim
+[d?m]
+a.昏暗；模糊不清的 vt.使暗淡
+$dimension
+[da?'men?n]
+n.尺寸，维度；面积；体积
+$dinner
+['d?n?(r)]
+n.正餐，宴会
+$dip
+[d?p]
+vt.浸，泡 vi.浸；沉落；浏览
+$diplomatic
+[Xd?pl?'m?t?k]
+a.外交的，外交工作的
+$direct
+[d?'rekt]
+a./ad.直接的(地) vt.指示；导演
+$direction
+[d?'rek?n]
+n.方向，方位；指导，指挥；用法说明
+$directly
+[d?'rektl?]
+ad.直接地；马上
+$director
+[d?'rekt?(r)]
+n.指导者，董事，校长；指挥；导演
+$dirt
+[d?:t]
+n.尘，土，污物；下流话，脏话
+$dirty
+['d?:t?]
+a.脏的；(手段等)卑鄙的；下流的 v.弄脏
+$disappear
+[Xd?s?'p??(r)]
+vi.消失，不见；消亡，失踪
+$disappoint
+[Xd?s?'p??nt]
+vt.使失望；使(计划等)落空
+$disaster
+[d?'zɑ:st?(r)]
+n.灾难，灾祸
+$disc
+[d?sk]
+n.圆盘，唱片，磁盘，圆面；盘状软骨
+$discard
+[d?s'kɑ:d]
+vt.抛弃，扔掉
+$discharge
+[d?s't?ɑ:d?]
+v./n.排出，放出；允许…离开，释放；放电
+$discipline
+['d?s?pl?n]
+n.纪律；训练；学科 vt.训练；惩罚
+$discount
+['d?ska?nt]
+n.折扣 vt.对…打折；认为…不足轻重
+$discourage
+[d?s'k?r?d?]
+vt.使泄气；劝阻
+$discover
+[d?'sk?v?(r)]
+vt.发现，看出；暴露，显示
+$discovery
+[d?'sk?v?r?]
+n.发现
+$discuss
+[d?'sk?s]
+vt.讨论，商议，议论，详述
+$discussion
+[d?'sk??n]
+n.讨论，议论
+$disease
+[d?'zi:z]
+n.疾病
+$disguise
+[d?s'ga?z]
+n.假装；化装服 vt.假装，扮作；隐瞒
+$disgust
+[d?s'g?st]
+n.讨厌 vt.使讨厌，使恶心
+$dish
+[d??]
+n.碟，盘；菜肴，一道菜
+$disk
+[d?sk]
+n.圆盘，唱片；磁盘
+$dislike
+[d?s'la?k]
+n.不喜欢 vt.不喜欢，厌恶
+$dismiss
+[d?s'm?s]
+vt.解雇；解散 vi.解散
+$disorder
+[d?s'?:d?(r)]
+n.混乱，杂乱；骚动；疾病 vt.使紊乱
+$display
+[d?'sple?]
+n.&vt.显示，表现；陈列，展览
+$disposal
+[d?'sp??zl]
+n.配置，布置，排列；处置，处理
+$dispose
+[d?'sp??z]
+v.配置，布置；处理，处置，支配；除掉
+$dispute
+[d?'spju:t]
+v./n.争论，争吵
+$dissolve
+[d?'z?lv]
+v.(使)溶解，融化；解放，取消；(使)衰弱
+$distance
+['d?st?ns]
+n.距离
+$distant
+['d?st?nt]
+a.在远处的；久远的
+$distinct
+[d?'st??kt]
+a.不同的；明显的，清楚的
+$distinction
+[d?'st??k?n]
+n.差别，不同；区分，辨别；清晰度
+$distinguish
+[d?'st??gw??]
+v.区别，分清；表现突出，显出特色
+$distress
+[d?'stres]
+n.苦恼，痛苦，不舒适；不幸 vt.使悲痛
+$distribute
+[d?'str?bju:t]
+v.分配，分发，分送；分布
+$distribution
+[Xd?str?'bju:?n]
+n.分发，分配；散布，分布
+$district
+['d?str?kt]
+n.区，地区，行政区
+$disturb
+[d?'st?:b]
+v.搅乱，打扰，使不安
+$ditch
+[d?t?]
+n.沟，渠道 vt.在…上开沟；摆脱，抛弃
+$dive
+[da?v]
+n.跳水；潜水；俯冲；低级夜总会 vi.跳水
+$diverse
+[da?'v?:s]
+a.不同的；多种多样的
+$divide
+[d?'va?d]
+v.划分，分开；分配；分裂；除
+$division
+[d?'v??n]
+n.分，分开；分配；隔开；部门
+$divorce
+[d?'v?:s]
+n./v.离婚；分离，脱离
+$do
+[du:]
+aux.v.构成疑、否句 vt.做；学习 vi.做
+$doctor
+['d?kt?(r)]
+n.医生；博士
+$document
+['d?kj?m?nt]
+n.公文，文件，文档
+$dog
+[d?g]
+n.狗，雄兽 vt.尾随，跟踪
+$doll
+[d?l]
+n.玩偶，玩具娃娃 vt.把…打扮得花技招展
+$dollar
+['d?l?(r)]
+n.美元，元
+$domestic
+[d?'mest?k]
+a.国内的；家(庭)的，家用的；驯养的
+$dominant
+['d?m?n?nt]
+a.支配的，统治的；占优势的
+$dominate
+['d?m?ne?t]
+vt.支配，统治；高出于 vi.居支配地位
+$donation
+[d??'ne??n]
+n.捐赠，赠送；捐赠物；捐款
+$donkey
+['d??k?]
+n.驴，笨蛋
+$door
+[d?:(r)]
+n.门，入口
+$dorm
+[d?:m]
+n.宿舍
+$dormitory
+['d?:m?tr?]
+n.(集体)宿舍
+$dose
+[d??s]
+n.(药的)剂量，一服 v.给(药)；(给…)服药
+$dot
+[d?t]
+n.点，小数点 vt.打点于，好缀；敲打
+$double
+['d?bl]
+a.两倍的；双(人)的 v.(使)加倍
+$doubt
+[da?t]
+n.怀疑；不一定，未肯定 v.怀疑；不相信
+$doubtful
+['da?tfl]
+a.怀疑的，可疑的；难料的
+$down
+[da?n]
+ad.向下 prep.沿着…往下 a.向下(方)的
+$downstairs
+[Xda?n'ste?z]
+ad.在楼下 a.楼下的
+$downtown
+[da?n'ta?n]
+ad.&a.往或在城镇中心区/闹市区(的)
+$downward
+['da?nw?d]
+a.向下的，下行的
+$dozen
+['d?zn]
+n.一打，十二个
+$draft
+[drɑ:ft]
+n.草稿；草图；汇票 v.起草，草拟
+$drag
+[dr?g]
+n.拖，拉 v.拖；缓慢地移动；故意拖延
+$dragon
+['dr?g?n]
+n.龙
+$drain
+[dre?n]
+v.排(水)；(使)流出 n.排水管；水沟；消耗
+$drama
+['drɑ:m?]
+n.戏剧；剧本
+$dramatic
+[dr?'m?t?k]
+a.戏剧的；引人注目的，给人留下深刻印象的
+$draught
+[drɑ:ft]
+n. 气流,草稿,汇票,牵引,拉,通风
+$draw
+[dr?:]
+v.画；抽取；汲取；拉 n.平局；图画；绘画
+$drawer
+[dr?:(r)]
+n.抽屉
+$drawing
+['dr?:??]
+n.图画，素描
+$dream
+[dri:m]
+n.梦，梦想 v.做梦，幻想
+$dress
+[dres]
+v.穿衣，打扮 n.衣服，女装
+$drift
+[dr?ft]
+n.漂流；意见；堆积物；冲洗 v.(使)漂流
+$drill
+[dr?l]
+n.&v.钻，钻孔，操练
+$drink
+[dr??k]
+n.饮料，酒 v.饮料；喝；喝酒
+$drip
+[dr?p]
+vi.滴下，漏水 n.水滴
+$drive
+[dra?v]
+vt.驾驶；用车送 vi.驾驶 n.驾驶；驱动(器)
+$driver
+['dra?v?(r)]
+n.驾驶员，司机
+$drop
+[dr?p]
+n.滴；下降；微量；落差 v.(使)滴下；下降
+$drown
+[dra?n]
+v.淹死，淹没
+$drug
+[dr?g]
+n.药品；麻醉品，毒品 vt.用药麻醉
+$drum
+[dr?m]
+n.鼓(声)；鼓状物；鼓膜
+$drunk
+[dr??k]
+a.(酒)醉的
+$dry
+[dra?]
+a.干的；口渴的；干巴巴的 v.(使)变干
+$duck
+[d?k]
+n.鸭，鸭肉
+$due
+[dju:]
+a.预定的；应得的，应有的；到期的
+$dull
+[d?l]
+a.枯燥的；迟钝的；(天气等)阴郁的
+$dumb
+[d?m]
+a.哑的；沉默的；笨的
+$dump
+[d?mp]
+vt.倾倒；(向国外市场)倾销 n.垃圾场
+$durable
+['dj??r?bl]
+a.耐久的，持久的
+$duration
+[dj?'re??n]
+n.持续，持久；期间
+$during
+['dj??r??]
+prep.在…的期间
+$dusk
+[d?sk]
+n.黄昏
+$dust
+[d?st]
+n.尘土 v.去掉灰土
+$duty
+['dju:t?]
+n.职责；义务；税，关税
+$dye
+[da?]
+n.颜料，染料 vt.染，染色
+$dynamic
+[da?'n?m?k]
+a.有生气的，能活动的，有力的；动力的
+$each
+[i:t?]
+a.各自的，每 pron.每个，各自
+$eager
+['i:g?(r)]
+a.热切的，渴望的
+$eagle
+['i:gl]
+n.鹰
+$ear
+[??(r)]
+n.耳朵，耳状物；听力，听觉
+$early
+['?:l?]
+ad.早，在初期；最早 a.早期的；早熟的
+$earn
+[?:n]
+vt.挣得，获得
+$earnest
+['?:n?st]
+a.认真的
+$earth
+[?:θ]
+n.地球；土地，陆地；土，泥
+$earthquake
+['?:θkwe?k]
+n.地震
+$ease
+[i:z]
+n.容易；安逸，安心 v.缓和，减轻
+$east
+[i:st]
+n.&a.东，东方 ad.在东方，向东方
+$eastern
+['i:st?n]
+a.东方的，东部的
+$easy
+['i:z?]
+a.容易的；舒适的，安逸的
+$eat
+[i:t]
+v.吃
+$echo
+['ek??]
+n./v.回声，回响；共鸣
+$economic
+[Xi:k?'n?m?k]
+a.经济学的，经济(上)的
+$economical
+[Xi:k?'n?m?kl]
+a.节省的；经济学的
+$economy
+[?'k?n?m?]
+n.经济；节约
+$edge
+[ed?]
+n.边，边缘；刀口，刃
+$edit
+['ed?t]
+vt.编辑
+$edition
+[?'d??n]
+n.版，版本
+$editor
+['ed?t?(r)]
+n.编者，编辑
+$editorial
+[Xed?'t?:r??l]
+n.社论
+$educate
+['ed??ke?t]
+vt.教育，培养，训练
+$education
+[Xed??'ke??n]
+n.教育，培养
+$effect
+[?'fekt]
+n.结果；效果；影响 vt.产生，招致
+$effective
+[?'fekt?v]
+a.有效的，卓有成效的
+$efficiency
+[?'f??ns?]
+a.有效的，生效的
+$efficient
+[?'f??nt]
+a.有效率的，生效的
+$effort
+['ef?t]
+n.努力，尝试
+$egg
+[eg]
+n.蛋，卵，鸡蛋
+$eight
+[e?t]
+num.八(个)
+$eighteen
+[Xe?'ti:n]
+num.十八
+$eighth
+[e?tθ]
+num.第八
+$eighty
+['e?t?]
+num.八十
+$either
+['a?e?, 'i:e?]
+a.(两者中)任一的 pron.任一个 ad.也不
+$either...or
+[]
+或者…或者，不是…就是
+$elaborate
+[?'l?b?re?t]
+a.精细的，详尽的
+$elastic
+[?'l?st?k]
+a.弹性的；灵活的，易顺应的 n.橡皮圈
+$elbow
+['elb??]
+n.肘 v.用肘推，挤进
+$elder
+['eld?(r)]
+a.年龄较大的，年长的 n.(pl.)长者；较大者
+$elderly
+['eld?l?]
+a.上了年纪的，垂老的
+$elect
+[?'lekt]
+vt.选举；选择 a.侯选的
+$election
+[?'lek?n]
+n.选举
+$electric
+[?'lektr?k]
+a.电的，带电的；电动的；刺激的
+$electrical
+[?'lektr?kl]
+a.与电有关的，电气的，用电的
+$electricity
+[?Xlek'tr?s?t?]
+n.电
+$electron
+[?'lektr?n]
+n.电子
+$electronic
+[?Xlek'tr?n?k]
+a.电子(学)的
+$elegant
+['el?g?nt]
+a.优雅的，优美的；精致的
+$element
+['el?m?nt]
+n.成分，要素；元素
+$elementary
+[Xel?'mentr?]
+a.初等的，基本的；容易回答的
+$elephant
+['el?f?nt]
+n.大象
+$elevator
+['el?ve?t?(r)]
+n.电梯，升降机(美语)
+$eleven
+[?'levn]
+num.十一
+$eliminate
+[?'l?m?ne?t]
+vt.消灭，除去，排出
+$else
+[els]
+ad.&a.其它(的)，另外(的)
+$elsewhere
+[Xels'we?(r)]
+ad.在别处，到别处
+$E-mail
+['i:me?l]
+n.电子邮件
+$email
+['i:me?l]
+电子信箱
+$embarrass
+[?m'b?r?s]
+vt.使窘迫；使为难
+$embassy
+['emb?s?]
+n.大使馆
+$embrace
+[?m'bre?s]
+v./n.拥抱；包含
+$emerge
+[?'m?:d?]
+vi.出现，浮出；(问题)冒出，(事实)暴露
+$emergency
+[?'m?:d??ns?]
+n.紧急情况，突发事件
+$emit
+[?'m?t]
+vt.散发，发射
+$emotion
+[?'m????n]
+n.感情，情绪；激动
+$emotional
+[?'m????nl]
+a.感情的，情绪的；情绪化的
+$emperor
+['emp?r?(r)]
+n.皇帝
+$emphasis
+['emf?s?s]
+n.加强语气，强调，重点
+$emphasise
+['emf?sa?z]
+vt.加强…的语气，强调，着重
+$emphasize
+['emf?sa?z]
+vt.加强…的语气，强调，着重
+$empire
+['empa??(r)]
+n.帝国
+$employ
+[?m'pl??]
+vt./n.使用；雇用
+$employee
+[?m'pl??i:]
+n.雇员，受雇者
+$employer
+[?m'pl???(r)]
+n.雇用者，雇主
+$employment
+[?m'pl??m?nt]
+n.工作；雇用；使用
+$empty
+['empt?]
+a.空的；空洞的；空虚的 vt.倒空 n.空箱
+$enable
+[?'ne?bl]
+vt.使能够用
+$enclose
+[?n'kl??z]
+vt.围住；封入，附上
+$encounter
+[?n'ka?nt?(r)]
+v.遭遇到；偶遇 n.遭遇
+$encourage
+[?n'k?r?d?]
+vt.鼓励，激励，支持
+$end
+[end]
+n.端，末梢；目标；结束 vt.终止，结束
+$ending
+['end??]
+n.结尾，结局
+$endless
+['endl?s]
+a.无止境的，无穷的，没完没了的
+$endure
+[?n'dj??(r)]
+v.忍耐, 忍受
+$enemy
+['en?m?]
+n.敌人，敌军，仇人；危害物
+$energy
+['en?d??]
+n.活力；精力，能力；能，能量
+$enforce
+[?n'f?:s]
+vt.实施，执行；强制，强迫；加强，坚持
+$engage
+[?n'ge?d?]
+vt.使从事于；占用(时间) vi.(in)从事
+$engine
+['end??n]
+n.发动机，引擎；火车头
+$engineer
+[Xend??'n??(r)]
+n.工程师，技师；(船上的)轮机手
+$engineering
+[Xend??'n??r??]
+n.工程(学)
+$enhance
+[?n'hɑ:ns]
+vt.提高；增强
+$enjoy
+[?n'd???]
+vt.享受…之乐，欣赏；享有
+$enlarge
+[?n'lɑ:d?]
+vt.扩大，扩展，扩充；放大
+$enormous
+[?'n?:m?s]
+a.巨大的，庞大的
+$enough
+[?'n?f]
+a./ad.充足的(地)，足够的(地) n.足够
+$enquire
+[?n'kwa??(r)]
+v.询问
+$enquiry
+[?n'kwa??r?]
+n.询问
+$ensure
+[?n'???(r)]
+vt.保证，担保，确保
+$enter
+['ent?(r)]
+v.进入；加入，参加
+$enterprise
+['ent?pra?z]
+n.企(事)业单位；事业心，进取心，冒险精神
+$entertain
+[Xent?'te?n]
+vt.使感兴趣；招待；持有(意见，见解等)
+$entertainment
+[Xent?'te?nm?nt]
+n.招待，款待；娱乐，表演节目
+$enthusiasm
+[?n'θju:z??z?m]
+n.热情，热心，积极性
+$entire
+[?n'ta??(r)]
+a.全部的，完整的
+$entitle
+[?n'ta?tl]
+vt.给(书、文章等)题名；给予…以权利
+$entrance
+['entr?ns]
+n.进入，入口，门口；入场，入会，入学
+$entry
+['entr?]
+n.进入；入口，通道；登记
+$envelope
+['env?l??p]
+n.信封
+$environment
+[?n'va?r?nm?nt]
+n.环境
+$envy
+['env?]
+vt./n.妒忌，羡慕
+$episode
+['ep?s??d]
+n.插曲，片段
+$equal
+['i:kw?l]
+a.相等的；胜任的 n.同辈 vt.比得上
+$equality
+[?'kw?l?t?]
+n.同等，平等；等式
+$equation
+[?'kwe??n]
+n.方程式
+$equip
+[?'kw?p]
+vt.装备，配备
+$equipment
+[?'kw?pm?nt]
+n.设备，器材
+$equivalent
+[?'kw?v?l?nt]
+a.相等的；等价的 n.同等物，等价物
+$era
+['??r?]
+n.纪元，时代，年代
+$erect
+[?'rekt]
+a.直立的；笔直的 vt.使竖立；树立
+$error
+['er?(r)]
+n.错误，谬误
+$escape
+[?'ske?p]
+n.逃跑 vi.逃跑，逃脱，被…忘掉 vt.逃避
+$especially
+[?'spe??l?]
+ad.特别，尤其，格外
+$essay
+['ese?]
+n.小品文，随笔，文章
+$essential
+[?'sen?l]
+a.根本的；必要的 n.(pl.)本质，要点
+$establish
+[?'st?bl??]
+vt.建立，设立；确定，使确认；安顿
+$establishment
+[?'st?bl??m?nt]
+n.创建，制定，设施，公司
+$estate
+[?'ste?t]
+n.房地产，地产，个人财产，遗产；阶层
+$estimate
+['est?m?t]
+vt./n.估计，评价，判断
+$evaluate
+[?'v?lj?e?t]
+vt.评价，评估
+$eve
+[i:v]
+n.(节日的)前夜，前夕
+$even
+['i:vn]
+ad.甚至，更加 a.平坦的；对等的；偶数的
+$evening
+['i:vn??]
+n.晚上，傍晚
+$event
+[?'vent]
+n.事件，大事
+$eventually
+[?'vent???l?]
+ad.终于，最后
+$ever
+['ev?(r)]
+ad.总是；在任何时候；究竟
+$every
+['evr?]
+a.每，每个，每隔…的
+$everybody
+['evr?b?d?]
+pron.每个人，人人
+$everyday
+['evr?de?]
+a.每天的，日常的
+$everyone
+['evr?w?n]
+pron.每个人；大家
+$everything
+['evr?θ??]
+pron.一切事，每件事
+$everywhere
+['evr?we?(r)]
+ad.处处，无论何处
+$evidence
+['ev?d?ns]
+n.根据，证据；迹象
+$evident
+['ev?d?nt]
+a.明显的，明白的
+$evidently
+['ev?d?ntl?]
+ad.明显地，显而易见
+$evil
+['i:vl]
+n.邪恶，罪恶 a.邪恶的，罪恶的
+$evolution
+[Xi:v?'lu:?n]
+n.进化，演化
+$evolve
+[?'v?lv]
+v.(使)发展，(使)进化
+$exact
+[?g'z?kt]
+a.确切的，精确的
+$exaggerate
+[?g'z?d??re?t]
+v.夸张，夸大
+$exam
+[?g'z?m]
+n.考试；检查
+$examination
+[?gXz?m?'ne??n]
+n.考试，测试；检查，检验
+$examine
+[?g'z?m?n]
+n.检查；对…考查(考试)；调查
+$example
+[?g'zɑ:mpl]
+n.例子，例证，范例，榜样
+$exceed
+[?k'si:d]
+v.超过(限度，范围)，比…大，胜过
+$exceedingly
+[?k'si:d??l?]
+adv.过份地
+$excellent
+['eks?l?nt]
+a.优秀的，杰出的
+$except
+[?k'sept]
+prep.除…之外 vt.把…除外，不计
+$exception
+[?k'sep?n]
+n.例外，除外
+$excess
+[?k'ses]
+n.超越，超过，超额量 a.过量的，额外的
+$excessive
+[?k'ses?v]
+a.过多的，过分的，极度的
+$exchange
+[?ks't?e?nd?]
+v./n.兑换，调换，交换
+$excite
+[?k'sa?t]
+vt.(使)激动；激发
+$excitement
+[?k'sa?tm?nt]
+n.激动，兴奋(状态)
+$exciting
+[?k'sa?t??]
+a.令人兴奋的，使人激动的
+$exclaim
+[?k'skle?m]
+v.大叫，呼喊，大声叫
+$exclude
+[?k'sklu:d]
+vt.把…除外，排斥
+$exclusive
+[?k'sklu:s?v]
+n.独家新闻 a.排外的；专有的，独占的
+$excursion
+[?ks'k?:??n]
+n.远足，集体游览；短途旅行
+$excuse
+[?k'skju:s]
+vt.原谅；免除(某人的)责任 n.借口，理由
+$execute
+['eks?kju:t]
+vt.处决；实施，执行
+$executive
+[?g'zekj?t?v]
+a.实行的 n.行政部门；行政官
+$exercise
+['eks?sa?z]
+n.练习；锻炼 vt.实施；锻炼 vi.练习，锻炼
+$exert
+[?g'z?:t]
+vt.尽(力)，发挥，施加
+$exhaust
+[?g'z?:st]
+vt.用尽 vi.气体等排出 n.排气 a.用不完的
+$exhibit
+[?g'z?b?t]
+vt.显示，呈现；展示，陈列 n.展品；呈现
+$exhibition
+['eks?'b???n]
+n.展览；展览会(品)
+$exist
+[?g'z?st]
+vi.存在；生存
+$existence
+[?g'z?st?ns]
+n.存在，生存
+$exit
+['eks?t]
+n.出口，安全门；(演员)退场，退出 vt.退出
+$expand
+[?k'sp?nd]
+v.扩大，展开，扩张
+$expansion
+[?k'sp?n?n]
+n.伸展，扩张，膨胀
+$expect
+[?k'spekt]
+vt.期待，预期，盼望；认为，指望，希望?
+$expectation
+[Xekspek'te??n]
+n.期待，期望
+$expense
+[?k'spens]
+n.花费；(pl.)费用
+$expensive
+[?k'spens?v]
+a.昂贵的，奢侈的
+$experience
+[?k'sp??r??ns]
+n.经验；阅历，经历，体验 vt.体验；感受
+$experiment
+[?k'sper?m?nt]
+n.试验，实验 vi.(on,in,with)做实验
+$experimental
+[?kXsper?'mentl]
+a.实验(上)的，经验(上)的
+$expert
+['eksp?:t]
+n.专家，能手 a.熟练的；内行的
+$explain
+[?k'sple?n]
+v.解释，说明；可作解释的事物
+$explanation
+[Xekspl?'ne??n]
+n.解释，说明
+$explode
+[?k'spl??d]
+vt.使爆炸 vi.爆发，爆炸
+$exploit
+[?k'spl??t]
+vt.剥削；开拓，开发；利用
+$explore
+[?k'spl?:(r)]
+v.勘探，探险；调查
+$explosion
+[?k'spl???n]
+n.爆炸，爆发；激增
+$explosive
+[?k'spl??s?v]
+a.爆炸(性)的 n.炸药；易爆炸物
+$export
+['eksp?:t]
+n.出口商品；出口，输出 v.出口，输出
+$expose
+[?k'sp??z]
+vt.使暴露，使面临；使感光，使曝光；揭露
+$exposure
+[?k'sp????(r)]
+n.暴露，面临；揭露，揭发；曝光
+$express
+[?k'spres]
+vt.表示，表达 n.快递(业务)；快车
+$expression
+[?k'spre?n]
+n.表达，表示，表现；措辞，词句；表情
+$extend
+[?k'stend]
+v.延伸，延长；扩充；给予；伸出，伸展
+$extension
+[?k'sten?n]
+n.伸展(部分)，延伸(部分)；(电话的)分机
+$extensive
+[?k'stens?v]
+a.广泛的，广阔的，广大的
+$extent
+[?k'stent]
+n.范围，广度，范围
+$exterior
+[?k'st??r??(r)]
+a.外部的，外在的；表面的
+$external
+[eks't?:nl]
+a.外部的，外面的 n.外部，外面
+$extra
+['ekstr?]
+a.额外的 ad.特别地 n.额外的事物
+$extraordinary
+[?k'str?:dnr?]
+a.异常的，非凡的
+$extreme
+[?k'stri:m]
+a.极端的；尽头的 n.极端；(pl.)两极端
+$eye
+[a?]
+n.眼睛；眼力，鉴赏力
+$eyesight
+['a?sa?t]
+n.视力
+$fabric
+['f?br?k]
+n.编织物；结构，组织
+$face
+[fe?s]
+n.脸；外观；(器具的)使用面；票面 v.面对
+$facility
+[f?'s?l?t?]
+n.(pl.)便利，设备；熟练，灵巧；方便
+$fact
+[f?kt]
+n.事实；真相，事情
+$factor
+['f?kt?(r)]
+n.因素
+$factory
+['f?ktr?]
+n.工厂
+$faculty
+['f?klt?]
+n.能力，才能；学科，系；(院系)全体教职工
+$fade
+[fe?d]
+vi.褪色；逐渐消失
+$fail
+[fe?l]
+vi.失败；衰退 vt.使失望；使不及格
+$failure
+['fe?lj?(r)]
+n.失败；失灵，故障；失败的人或事；没做到
+$faint
+[fe?nt]
+a.微弱的，微小的，暗淡的 vi.晕倒，昏厥
+$fair
+[fe?(r)]
+n.定期集市；交易会 a.公平的；晴朗的
+$fairly
+['fe?l?]
+ad.相当地，公正地
+$fairy
+['fe?r?]
+n.妖精；仙女
+$faith
+[fe?θ]
+n.信任，信念，信仰；忠实
+$faithful
+['fe?θfl]
+a.忠实的，如实的
+$fall
+[f?:l]
+n.落下；秋季；瀑布 vi.落下；下降；倒
+$false
+[f?:ls]
+a.不正确的；假的，伪造的；虚伪的
+$fame
+[fe?m]
+n.名誉，声望
+$familiar
+[f?'m?l??(r)]
+a.熟悉的，熟知的
+$family
+['f?m?l?]
+n.家，家庭；家族，氏族；(尤指动植物的)系
+$famine
+['f?m?n]
+n.饥荒
+$famous
+['fe?m?s]
+a.著名的
+$fan
+[f?n]
+n.扇子，风扇；爱好者 vt.扇；成扇形展开
+$fancy
+['f?ns?]
+n.想象(力)；爱好 a.别致的 vt.想象；想要
+$fantastic
+[f?n't?st?k]
+a.奇异的，怪诞的；异想天开的
+$fantasy
+['f?nt?s?]
+n.想象，幻想；想象的产物
+$far
+[fɑ:(r)]
+a.远的，久远的，遥远的 ad.远；到…程度
+$fare
+[fe?(r)]
+n.车费，票价；食物 vi.过活，生活；进展
+$farewell
+['fe?'wel]
+int.再会 a.告别；欢送会
+$farm
+[fɑ:m]
+n.农场，农庄；饲养场 vt.耕种 vi.种地
+$farmer
+['fɑ:m?(r)]
+n.农夫，农场主
+$farther
+['fɑ:e?(r)]
+ad.更远地 a.更远的
+$fascinating
+['f?s?ne?t??]
+a.迷人的
+$fashion
+['f??n]
+n.时尚，时装；风格，式样
+$fashionable
+['f??n?bl]
+a.流行的，时髦的
+$fast
+[fɑ:st]
+a.快的；坚固的 ad.紧紧地 n./v.禁食，斋戒
+$fasten
+['fɑ:sn]
+v.(使)固定，系牢，绑紧，扣紧
+$fat
+[f?t]
+n.脂肪 a.肥胖的，脂肪多的
+$fatal
+['fe?tl]
+a.致命的
+$fate
+[fe?t]
+n.命运；结局，结果；将来，前景
+$father
+['fɑ:e?(r)]
+n.父亲；创始人；(Father)神父，上帝
+$fatigue
+[f?'ti:g]
+n./v.疲劳，疲乏
+$fault
+[f?:lt]
+n.过失，缺点；故障
+$faulty
+['f?:lt?]
+a.有错误的，不完善的
+$favor
+['fe?v?]
+n.好感；赞成；恩惠 vt.喜爱；支持
+$favorable
+['fe?v?r?bl]
+a.有利的；赞同的，满意的
+$favorite
+['fe?v?r?t]
+a.最喜爱的 n.最喜爱的人或物
+$favour
+['fe?v?(r)]
+n.赞赏；偏袒；恩惠 vt.偏爱，赞同
+$favourable
+['fe?v?r?bl]
+a.有利的；赞同的，满意的
+$favourite
+['fe?v?r?t]
+a.心爱的 n.特别受人喜欢的人(物)
+$fax
+[f?ks]
+n.传真
+$fear
+[f??(r)]
+n.恐惧 v.害怕，担心
+$fearful
+['f??f?l]
+a.可怕的，担心的
+$feasible
+['fi:z?bl]
+a.可行的，可能的
+$feather
+['fee?(r)]
+n.羽毛
+$feature
+['fi:t??(r)]
+n.特征，特色；五官之一；(报纸的)特写
+$February
+['febr??r?]
+n.二月
+$federal
+['fed?r?l]
+a.联邦的
+$fee
+[fi:]
+n.酬金，费(如学费、手续费等)
+$feed
+[fi:d]
+vt.喂养 vi.吃饲料 n.(动物、婴儿的)一餐
+$feedback
+['fi:db?k]
+n.反馈，反应
+$feel
+[fi:l]
+v.触，摸；认为，以为 vi.摸索；觉得
+$feeling
+['fi:l??]
+n.感情；感觉，知觉
+$fellow
+['fel??]
+n.人，家伙；同伴，同事 a.同伴的，同类的
+$female
+['fi:me?l]
+a.雌性的；女(性)的 n.女子；雌性的动物
+$fence
+[fens]
+n.栅栏；击剑 vt.用栅栏…围起来 vi.击剑
+$fertile
+['f?:ta?l]
+a.肥沃的；能繁殖的
+$fertilizer
+['f?:t?la?z?(r)]
+n.化肥
+$festival
+['fest?vl]
+n.节日；音乐节
+$fetch
+[fet?]
+vt.拿来；找来
+$fever
+['fi:v?(r)]
+n.发烧；热病；狂热 vt.使发烧；使发狂
+$few
+[fju:]
+n.&a.很少(的)，几乎没有(的)
+$fiber
+['fa?b?]
+n.纤维，纤维质；质地，结构
+$fibre
+['fa?b?(r)]
+a.纤维，光纤
+$fiction
+['f?k?n]
+n.小说；虚构、杜撰
+$field
+[fi:ld]
+n.田野；运动场；领域
+$fierce
+[f??s]
+a.狂暴的，凶猛的，残酷的；巨大的，强烈的
+$fifteen
+[Xf?f'ti:n]
+num.十五
+$fifth
+[f?fθ]
+num.第五 n.五分之一
+$fifty
+['f?ft?]
+num.五十
+$fight
+[fa?t]
+n.战斗；斗争；战斗力 v.打仗；斗争；争论
+$figure
+['f?g?]
+v.扮演角色；认为 n.数字；外形；人物
+$file
+[fa?l]
+n.档案；(计算机)文件 vt.把…归档
+$fill
+[f?l]
+v.(使)充满；占据，补缺
+$film
+[f?lm]
+n.影片；胶卷；薄层 v.把…拍成电影
+$filter
+['f?lt?(r)]
+n.滤纸，过滤器 vt.过滤
+$final
+['fa?nl]
+a.最后的，决定性的 n.(pl.)决赛
+$finally
+['fa?n?l?]
+ad.最后，终于；不可更改地；完全地
+$finance
+['fa?n?ns]
+n.财政，金融 vt.为…提供资金
+$financial
+[fa?'n?n?l]
+a.财政的，金融的
+$find
+[fa?nd]
+v.找到；发展；达到
+$finding
+['fa?nd??]
+n.发现(物)；(常用复数)研究结果
+$fine
+[fa?n]
+a.美好的；纤细的 n.罚款 vt.罚…的款
+$finger
+['f??g?(r)]
+n.手指；指状物
+$finish
+['f?n??]
+vt.完成；磨光 vi.终了 n.最后阶段；完成
+$fire
+['fa??(r)]
+n.火；射击 v.解雇；着火；射击
+$fireman
+['fa??m?n]
+n.消防队员
+$firm
+[f?:m]
+a.结实的；坚定的 n.商行，公司
+$first
+[f?:st]
+num.第一 a.最初的 n.最初；(pl.)一级品?
+$fish
+[f??]
+n.鱼 v.钓鱼，捕鱼
+$fisherman
+['f???Xm?n]
+n.渔夫
+$fist
+[f?st]
+n.拳，拳头
+$fit
+[f?t]
+a.适当的；健康的 v.使适合；安装 n.病发作
+$five
+[fa?v]
+num.五(个)
+$fix
+[f?ks]
+vt.使固定；安排；修理；准备(食物等)
+$flag
+[fl?g]
+n.旗(帜)
+$flame
+[fle?m]
+n.火焰；热情 v.发火焰，燃烧；(感情)爆发
+$flash
+[fl??]
+n.闪光；(简短的)新闻电讯 v.闪光；飞驰
+$flat
+[fl?t]
+a.平的；单调的 n.一套房间 ad.完全地
+$flavor
+['fle?v?]
+n.味道，风味 vt.给…调味
+$flavour
+['fle?v?(r)]
+vt.给…调味
+$flee
+[fli:]
+vi.逃走；消散 vt.逃离；逃避
+$fleet
+[fli:t]
+n.舰队，港湾，小河
+$flesh
+[fle?]
+n.肉，果子肉；肉体，肌肤
+$flexible
+['fleks?bl]
+a.易弯曲的；灵活的
+$flight
+[fla?t]
+n.飞行；航班；一段楼梯；逃跑
+$float
+[fl??t]
+n.漂浮物；储备金 v.使漂浮
+$flock
+[fl?k]
+n.兽群，鸟群
+$flood
+[fl?d]
+n.洪水 vt.淹没；灌溉 vi.泛滥；大量涌到
+$floor
+[fl?:(r)]
+n.地板；楼层；发言权 vt.在…上铺地板
+$flour
+['fla??(r)]
+n.面粉
+$flourish
+['fl?r??]
+vi.繁荣，兴旺；挥舞，挥动 n.炫耀，挥舞
+$flow
+[fl??]
+n.流，流量(速)；涨潮；泛滥洪水 v.流动
+$flower
+['fla??(r)]
+n.花；精华，精粹，精英；盛时 vi.开花
+$fluent
+['flu:?nt]
+a.流利的，流畅的
+$fluid
+['flu:?d]
+n.液体，流体 a.流动的；易变的；流体的
+$fly
+[fla?]
+n.苍蝇，飞行 vi.飞；乘飞机 vt.驾驶(飞机)
+$focus
+['f??k?s]
+v.(使)聚焦，(使)集中 n.焦点
+$fog
+[f?g]
+n.雾气，雾 v.以雾笼罩，被雾笼罩
+$fold
+[f??ld]
+v.折叠 n.褶(痕)，折页，折叠处
+$folk
+[f??k]
+n.人们 a.民间的
+$follow
+['f?l??]
+vt.跟随；沿着…前进 vi.跟随，紧接
+$following
+['f?l????]
+a.接着的，下列的 n.下列，下述
+$fond
+[f?nd]
+a.喜欢的
+$food
+[fu:d]
+n.食物
+$fool
+[fu:l]
+n.蠢人 vt.愚弄
+$foolish
+['fu:l??]
+a.愚蠢的，可笑的
+$foot
+[f?t]
+n.足；底部；英尺
+$football
+['f?tb?:l]
+n.足球(比赛)
+$footstep
+['f?tstep]
+n.脚步(声)
+$for
+[f?(r)]
+prep.为了；给；代替；向；支持 conj.因为?
+$forbid
+[f?'b?d]
+vt.禁止；阻止
+$force
+[f?:s]
+n.力(量、气)；压力；(pl.)军队 vt.强制
+$forecast
+['f?:kɑ:st]
+n.预测，预报 vt.预测，预报
+$forehead
+['f?r?d]
+n.前额
+$foreign
+['f?r?n]
+a.对外的；无关的；外来的；非…的本性的
+$foreigner
+['f?r?n?(r)]
+n.外国人
+$forest
+['f?r?st]
+n.森林
+$forever
+[f?r'ev?(r)]
+ad.永远
+$forge
+[f?:d?]
+v.打(铁等)；锻造；伪造
+$forget
+[f?'get]
+vt.遗忘；忘却，忘掉；编造(谎言) vi.忘记
+$forgive
+[f?'g?v]
+vt.原谅；免除(债务等)
+$fork
+[f?:k]
+n.叉；分岔
+$form
+[f?:m]
+n.形式；类型；格式 v.形成
+$formal
+['f?:ml]
+a.正式的，规格化的，礼仪上的
+$format
+['f?:m?t]
+n.样式；(书刊的)版式 v.为(书刊)安排版式
+$formation
+[f?:'me??n]
+n.组织，形成物；构成；地岩层
+$former
+['f?:m?(r)]
+a.以前的；在前的
+$formula
+['f?:mj?l?]
+n.公式；配方，外方；规则，一定的做法
+$forth
+[f?:θ]
+ad.向前；以后
+$fortnight
+['f?:tna?t]
+n.两星期
+$fortunate
+['f?:t??n?t]
+a.幸运的
+$fortunately
+['f?:t??n?tl?]
+ad.幸运地，幸亏
+$fortune
+['f?:t?u:n]
+n.命运，运气；财产
+$forty
+['f?:t?]
+num.四十
+$forward
+['f?:w?d]
+a.向前的；进步的 ad.向前 vt.促进；转交
+$found
+[fa?nd]
+vt.奠定…基础，创办
+$foundation
+[fa?n'de???n]
+n.建设；基础；基金(会)
+$fountain
+['fa?nt?n]
+n.喷泉
+$four
+[f?:(r)]
+num.四(个)
+$fourteen
+[Xf?:'ti:n]
+num.十四(个)
+$fox
+[f?ks]
+n.狐狸；狡猾的人
+$fraction
+['fr?k?n]
+n.微量；碎片；分数
+$fragment
+['fr?gm?nt]
+n.碎屑，片断
+$frame
+[fre?m]
+n.构架，骨架；身躯，骨骼；(门、窗)框
+$framework
+['fre?mw?:k]
+n.支架；框架；基本结构
+$frank
+[fr??k]
+a.直率的
+$free
+[fri:]
+a.自由的；免费的 vt.(from,of)使自由"
+$freedom
+['fri:d?m]
+n.自由
+$freeze
+[fri:z]
+vt.使结冰，冻结(存款、工资、物价等)
+$freight
+[fre?t]
+n.货运(费) vt.运输；装货于
+$frequency
+['fri:kw?ns?]
+n.屡次，频繁；频率，周率；发生次数
+$frequent
+['fri:kw?nt]
+a.频繁的，时常发生的；常见的，经常的
+$fresh
+[fre?]
+a.新的；新鲜的；(水)淡的；清新的；另外的
+$Friday
+['fra?de?]
+n.星期五
+$fridge
+[fr?d?]
+=refrigerator n.冰箱
+$friend
+[frend]
+n.朋友，友人；支持者，同情者
+$friendly
+['frendl?]
+a.友善的，友谊的
+$friendship
+['frend??p]
+n.友谊，友情，友好
+$frighten
+['fra?tn]
+vt.使惊吓，吓唬 vi.惊恐，害怕
+$frog
+[fr?g]
+n.蛙
+$from
+[fr?m]
+prep.从…起；由于，因为；离；从，由
+$front
+[fr?nt]
+n.正面 a.前面的
+$frontier
+['fr?nt??(r)]
+n.国境，边境；边疆；尖端，新领域
+$frost
+[fr?st]
+n.冰冻，严寒；霜，结霜 v.(使)结霜，下霜
+$frown
+[fra?n]
+vi.皱眉头
+$fruit
+[fru:t]
+n.水果，果实；成果，结果
+$fruitful
+['fru:tfl]
+a.多产的；有成效的
+$frustrate
+[fr?'stre?t]
+vt.破坏，阻挠；使失败，使泄气
+$fry
+[fra?]
+v.油煎，油炸
+$fuel
+['fju:?l]
+n.燃料；养料 v.(给)…加燃料；刺激；推动
+$fulfil
+[f?l'f?l]
+vt.履行(诺言等)；完成(计划等)；达到
+$fulfill
+[f?l'f?l]
+vt.履行(诺言、责任等)；完成；达到
+$full
+[f?l]
+n.全部，充分 ad.正好 a.满的；完全的
+$fun
+[f?n]
+n.娱乐，乐趣；嬉戏，顽皮；有趣的人或事物
+$function
+['f??k?n]
+n.功能；职务；函数 vi.(机器)运行
+$fund
+[f?nd]
+n.资金；(pl.)存款；(物质资源的)储备
+$fundamental
+[Xf?nd?'mentl]
+a.基本的，根本的，重要的 n.基本原则
+$funeral
+['fju:n?r?l]
+n./a.葬礼(的)
+$funny
+['f?n?]
+a.滑稽的，好笑的；古怪的，稀奇的
+$fur
+[f?:(r)]
+n.软毛；皮毛；(pl.)皮衣
+$furnace
+['f?:n?s]
+n.火炉，熔炉
+$furnish
+['f?:n??]
+v.提供，供应；装备，布置
+$furniture
+['f?:n?t??(r)]
+n.家具，器具；装置，设备
+$further
+['f?:e?(r)]
+ad.更远地；而且 a.另外的；更远的
+$furthermore
+['f?:e?'m?:]
+ad.而且，此外
+$fuss
+[f?s]
+n.大惊小怪，小题大作；忙乱
+$future
+['fju:t??(r)]
+n.未来；前途，远景
+$gain
+[ge?n]
+vt.获得；(钟表)走快 vi.受益 n.增加；收益
+$gallery
+['g?l?r?]
+n.长廊；画廊；(矿坑中的)地下坑道
+$gallon
+['g?l?n]
+n.加仑(液量单位)
+$game
+[ge?m]
+n.游戏；比赛(项目)；(pl.)运动会
+$gang
+[g??]
+n.一群，一伙
+$gaol
+[d?e?l,d?el]
+=jail n.监狱 vt.使…坐牢
+$gap
+[g?p]
+n.缺口，裂口；间隔，空白；差距
+$garage
+['g?rɑ:?]
+n.车库；(常兼汽车修理、销售业务的)加油站
+$garbage
+['gɑ:b?d?]
+n.垃圾，废料
+$garden
+['gɑ:dn]
+n.花园，庭园 v.从事园艺活动
+$gardener
+['gɑ:dn?(r)]
+n.花匠，园艺工
+$garlic
+['gɑ:l?k]
+n.大蒜
+$gas
+[g?s]
+n.煤气，可燃气；气体；汽油
+$gasoline
+['g?s?li:n]
+=petrol n.(美语)汽油
+$gate
+[ge?t]
+n.大门；阀门，闸门
+$gather
+['g?e?(r)]
+v.集合，聚集；采集，收集；逐渐增加；推测
+$gay
+[ge?]
+a.快乐的；鲜艳的；同性恋的 n.同性恋者
+$gaze
+[ge?z]
+vi./n.凝视，注视
+$gear
+[g??(r)]
+n.齿轮，传动装置；用具，装备 v.开动
+$gene
+[d?i:n]
+n.基因，遗传因子
+$general
+['d?enr?l]
+a.总的；普遍的；首席的 n.将军，上将
+$generally
+['d?enr?l?]
+ad.通常地；普遍地；大体上
+$generate
+['d?en?re?t]
+vt.使发生，产生(光、热、电等)；引起
+$generation
+[Xd?en?'re??n]
+n.一代(人)；发生，产生；生育
+$generator
+['d?en?re?t?(r)]
+n.发电器，发电机
+$generous
+['d?en?r?s]
+a.慷慨的，大方的；丰富的
+$genius
+['d?i:n??s]
+n.天才，天赋；有天才的人
+$gentle
+['d?entl]
+a.温柔的；文雅的；柔和的；高尚的
+$gentleman
+['d?entlm?n]
+n.有身份的，先生，绅士
+$genuine
+['d?enj??n]
+a.真实的，真正的；真心的，真诚的
+$geography
+[d??'?gr?f?]
+n.地理(学)
+$geometry
+[d??'?m?tr?]
+n. 几何学
+$germ
+[d??:m]
+n.微生物，细菌
+$gesture
+['d?est??(r)]
+n.手势；姿态，表示 vi.做手势
+$get
+[get]
+vt.获得；使得；感染(疾病) vi.到达
+$ghost
+[g??st]
+n.鬼，鬼魂，幽灵
+$giant
+['d?a??nt]
+n.巨人，巨大生物 a.巨人般的，巨大的
+$gift
+[g?ft]
+n.赠品，礼物；天赋，才能
+$girl
+[g?:l]
+n.少女，女孩，姑娘
+$give
+[g?v]
+v.给予；传递(消息)；发布(命令)；赠送
+$given
+['g?vn]
+prep.考虑到 a.特定的，规定的
+$glad
+[gl?d]
+a.高兴的；情愿的
+$glance
+[glɑ:ns]
+v.扫视，匆匆一看 n.一瞥，扫视
+$glass
+[glɑ:s]
+n.玻璃，玻璃杯；(pl.)眼镜；玻璃制品
+$glimpse
+[gl?mps]
+n.一瞥，一看 v.瞥见
+$global
+['gl??b?l]
+a.地球的，全球的，环球的，全局的
+$globe
+[gl??b]
+n.地球；地球仪；球形物体
+$glorious
+['gl?:r??s]
+a.辉煌的，壮丽的；光荣的
+$glory
+['gl?:r?]
+n.光荣，荣誉；壮丽，壮观
+$glove
+[gl?v]
+n.手套
+$glow
+[gl??]
+vi.发白热光；(身体)发热 n.白热光；激情
+$glue
+[glu:]
+n.胶，胶水 vt.用胶水粘合
+$go
+[g??]
+vi.离开；变成；运行；被放置；流通
+$goal
+[g??l]
+n.目标，目的地；球门；进球得分
+$goat
+[g??t]
+n.山羊
+$god
+[g?d]
+n.神；上帝
+$gold
+[g??ld]
+n.黄金，金币 a.金的，金制的，金色的
+$golden
+['g??ld?n]
+a.金色的；黄金的，金制的；极好的
+$golf
+[g?lf]
+n.高尔夫球
+$good
+[g?d]
+a.好的 n.善行；利益
+$goodby(e)
+[]
+int.再见
+$goodness
+['g?dn?s]
+n.善良，仁慈；美德，善行 int.天哪
+$goose
+[gu:s]
+n.鹅
+$govern
+['g?vn]
+v.统治，治理；支配，决定
+$government
+['g?v?nm?nt]
+n.政府；管理；支配
+$governor
+['g?v?n?(r)]
+n.州长，总督；统治者；主管，理事
+$grab
+[gr?b]
+n./v.强夺，摄取，抓取
+$grace
+[gre?s]
+n.优美，雅致；(pl.)风度，魅力
+$graceful
+['gre?sfl]
+a.优美的，优雅的；得体的，适度的
+$grade
+[gre?d]
+n.等级；成绩 vt.给…分等级；给…评分
+$gradual
+['gr?d???l]
+a.逐渐的，逐步的
+$graduate
+['gr?d???t]
+n.(大学)毕业生，研究生 v.毕业；授予学位
+$grain
+[gre?n]
+n.谷物，谷类；颗粒，细粒
+$gram
+[gr?m]
+n.克
+$grammar
+['gr?m?(r)]
+n.语法(书)
+$gramme
+[gr?m]
+n.克
+$grand
+[gr?nd]
+a.重大的；雄伟的；庄重的；豪华的
+$grandfather
+['gr?nfɑ:e?(r)]
+n.祖父，外祖父
+$grandmother
+['gr?nm?e?(r)]
+n.(外)祖母
+$grant
+[grɑ:nt]
+n.拨款；准许 v.准许，授予，同意
+$grape
+[gre?p]
+n.葡萄
+$graph
+[gr?f]
+n.曲线图，图表
+$grasp
+[grɑ:sp]
+v./n.抓紧，抓牢；领会，理解
+$grass
+[grɑ:s]
+n.草，草地
+$grateful
+['gre?tfl]
+a.感激的，感谢的；令人愉快的
+$gratitude
+['gr?t?tju:d]
+a.感激，感谢
+$grave
+[gre?v]
+a.严重的；严肃的，庄严的 n.墓穴，坟墓
+$gravity
+['gr?v?t?]
+n.地心引力，重力；庄重，严肃；严重
+$gray
+[gre?]
+n.&a.灰色(的)
+$great
+[gre?t]
+a.伟大的，重要的；巨大的；十足的
+$greedy
+['gri:d?]
+"a.贪吃的，贪婪的；(for,after,of)渴望的
+$green
+[gri:n]
+a.绿色的；幼稚的 n.绿色；草地
+$greenhouse
+['gri:nha?s]
+n.温室
+$greet
+[gri:t]
+v.欢迎，迎接
+$greeting
+['gri:t??]
+n.问候，招呼
+$grey
+[gre?]
+n./a.灰色(的)
+$grind
+[gra?nd]
+v.磨，碾碎
+$grip
+[gr?p]
+v.牢牢抓紧；强烈吸引 n.抓紧；掌握，控制
+$grocer
+['gr??s?(r)]
+n.食品，杂货商
+$gross
+[gr??s]
+a.总的，毛重的；粗俗的，唐突的；过肥的
+$ground
+[gra?nd]
+n.地(面)；场地；理由，根据
+$group
+[gru:p]
+n.组；类 vt.集合，配合；把…分类
+$grow
+[gr??]
+vi.生长；发展；变得 vt.种(花、庄稼等)
+$growth
+[gr??θ]
+n.生长，发育；增加，扩大
+$guarantee
+[Xg?r?n'ti:]
+n.保修(期)；保证(人或物) vt.保证，担保
+$guard
+[gɑ:d]
+v.保卫，守卫 n.看守；防护装置
+$guess
+[ges]
+v.猜测；想，认为 n.猜测，推测；猜想
+$guest
+[gest]
+n.客人；特邀演员，客串演员；旅客，宿客
+$guidance
+['ga?dns]
+n.帮助，指导；控制，遥控；导航
+$guide
+[ga?d]
+n.指南；导游 v.给…领路；指导
+$guideline
+['ga?dla?n]
+n.指南，方针
+$guilty
+['g?lt?]
+a.有罪的，内疚的
+$guitar
+[g?'tɑ:(r)]
+n.吉它，六弦琴
+$gulf
+[g?lf]
+n.海湾；隔阂，鸿沟
+$gum
+[g?m]
+n.口香糖
+$gun
+[g?n]
+n.枪，炮
+$guy
+[ga?]
+n.(男)人，家伙
+$gym
+[d??m]
+n.体育馆；健身房
+$gymnasium
+[d??m'ne?z??m]
+n.体育馆；健身房
+$habit
+['h?b?t]
+n.习惯，习性
+$hair
+[he?(r)]
+n.头发，毛发
+$half
+[hɑ:f]
+n.&ad.&a.一半(地/的)
+$hall
+[h?:l]
+n.门厅，过道；礼堂，会堂；办公大楼
+$halt
+[h?:lt]
+n./v.停住，停止
+$ham
+[h?m]
+n.火腿；无线电收发报业余爱好者
+$hammer
+['h?m?(r)]
+n.锤子；(钢琴等的)音锤 v.敲，锤打
+$hand
+[h?nd]
+n.手；指针；(工具等的)把手 v.交，递，给
+$handbag
+['h?ndb?g]
+n.女用手提包，旅行用手提包
+$handful
+['h?ndf?l]
+n.一把，少量；少数人
+$handkerchief
+['h??k?t??f]
+n.手帕
+$handle
+['h?ndl]
+n.触；处理；搬；操纵 n.柄，把手
+$handsome
+['h?ns?m]
+a.(男子)漂亮的；(女子)端庄的；慷慨的
+$handwriting
+['h?ndra?t??]
+n.书写，笔迹
+$handy
+['h?nd?]
+a.方便的；附近的；手巧的，寻巧的
+$hang
+[h??]
+v.悬挂；绞死；风干；贴(墙纸)
+$happen
+['h?p?n]
+vi.(偶然)发生；碰巧，不巧
+$happy
+['h?p?]
+a.幸福的；快乐的；合适的
+$harbor
+['hɑ:b?]
+n.港口，海港
+$harbour
+['hɑ:b?(r)]
+n.港口；避乱所 vt.窝藏；怀有
+$hard
+[hɑ:d]
+a.坚硬的；辛苦的 ad.努力地
+$harden
+['hɑ:dn]
+v.(使)变硬；(使)变得坚强
+$hardly
+['hɑ:dl?]
+ad.几乎不
+$hardship
+['hɑ:d??p]
+n.艰难，困苦
+$hardware
+['hɑ:dwe?(r)]
+n.硬件；金属制品
+$harm
+[hɑ:m]
+n.损害，危害 vt.伤害，危害
+$harmony
+['hɑ:m?n?]
+n.协调，融洽；(声)谐调，和声学
+$harness
+['hɑ:n?s]
+vt.治理，利用
+$harsh
+[hɑ:?]
+a.粗糙的；严厉的；刺耳(目)的
+$harvest
+['hɑ:v?st]
+n.收割，收获，收成 v.收割，收获
+$haste
+[he?st]
+n.匆忙，赶快 vi.赶紧，赶快
+$hat
+[h?t]
+n.帽子
+$hate
+[he?t]
+v.恨，不愿 n.憎恨，厌恶 vt.憎恨；讨厌
+$hatred
+['he?tr?d]
+n.憎恶，憎恨，怨恨
+$have
+[h?v]
+n.有；得到；吃；从事；享有；允许；雇用
+$hay
+[he?]
+n.干草
+$hazard
+['h?z?d]
+n.危险，危害 vt.冒险；使冒危险
+$he
+[h?]
+pron.他
+$head
+[hed]
+n.头；领导；顶部 v.当…的首领；开往
+$headache
+['hede?k]
+n.头痛
+$heading
+['hed??]
+n.标题
+$headline
+['hedla?n]
+n.大字标题；(pl.)新闻提要
+$headmaster
+[Xhed'mɑ:st?(r)]
+n.(中小学的)校长
+$headquarters
+['hed'kw?:t?z]
+n.司令部，指挥部；总部
+$heal
+[hi:l]
+v.(特别指创伤)治愈；(伤口)愈合
+$health
+[helθ]
+n.健康(状况)
+$healthy
+['helθ?]
+a.健康的，健壮的，有益健康的
+$heap
+[hi:p]
+n.(一)堆；许多 vt.使成堆，堆起
+$hear
+[h??(r)]
+vt.听见；得知；倾听；审讯，听证
+$hearing
+['h??r??]
+n.听，听力；审讯
+$heart
+[hɑ:t]
+n.心，心脏；内心；要点
+$heat
+[hi:t]
+n.热量；体温；热烈 vt.(使)变热，加热
+$heave
+[hi:v]
+vt.(用力地)举起；抛
+$heaven
+['hevn]
+n.天堂，天国；(pl.)天，天空
+$heavy
+['hev?]
+a.重的；大量的 ad.沉闷地
+$hedge
+[hed?]
+n.树篱；防护(物) v.用树篱围住；避免回答
+$heel
+[hi:l]
+n.脚后跟
+$height
+[ha?t]
+n.高，高度；高处，高地；顶点
+$helicopter
+['hel?k?pt?(r)]
+n.直升飞机
+$hell
+[hel]
+n.地狱；苦境
+$hello
+[h?'l??]
+int.(招呼用语)喂；哟(表示惊讶)；问候声
+$help
+[help]
+n.求助；帮手；佣人 v.援助；避免
+$helpful
+['helpfl]
+a.给人以帮助的；有益的
+$helpless
+['helpl?s]
+a.无助的，孤立无援的；无效的
+$hen
+[hen]
+n.母鸡，雌禽
+$hence
+[hens]
+ad.今后；因此
+$her
+[h?(r)]
+pron.
+[she?????????????]
+她的
+$herd
+[h?:d]
+n.牛群，兽群
+$here
+[h??(r)]
+ad.(在)这里；在这一点上；这时
+$hero
+['h??r??]
+n.男主角，男主人公；英雄
+$heroic
+[h?'r???k]
+a.英雄的，英勇的
+$hers
+[h?:z]
+pron.
+[she??????????]
+她的(所有物)
+$herself
+[h?:'self]
+pron.她自己，她本人
+$hesitate
+['hez?te?t]
+vi.犹豫，踌躇
+$hi
+[ha?]
+int.
+[?????????????????￢]
+喂，嘿
+$hide
+[ha?d]
+vt.把…藏起来，躲藏；遮掩，隐瞒 n.兽皮
+$high
+[ha?]
+a.高的，在高处的；高级的，高尚的 ad.高
+$highlight
+['ha?la?t]
+vt.使显著；强调 n.最重要的部分
+$highly
+['ha?l?]
+ad.高度地，很，非常
+$highway
+['ha?we?]
+n.公路，大路
+$hill
+[h?l]
+n.小山，山岗，丘陵；坡路，斜路
+$him
+[h?m]
+pron.
+[he??????]
+他
+$himself
+[h?m'self]
+pron.他自己，他本人
+$hint
+[h?nt]
+n.暗示；小许；指示，提示 v.暗示
+$hip
+[h?p]
+n.臀部
+$hire
+['ha??(r)]
+v.&n.租用，雇用
+$his
+[h?z]
+pron.
+[he?????????????????]
+他的(所有物)
+$historic
+[h?'st?r?k]
+a.历史上著名的，有历史意义的
+$historical
+[h?'st?r?kl]
+a.历史的
+$history
+['h?str?]
+n.历史；来历；过去事件的记载或叙述
+$hit
+[h?t]
+n.击中 v.打中；碰撞；达到
+$hobby
+['h?b?]
+n.兴趣，嗜好
+$hold
+[h??ld]
+v.拿；包含；占有 n.船舱；控制；抓住
+$hole
+[h??l]
+n.洞，孔眼
+$holiday
+['h?l?de?]
+n.假日，休息日，假期
+$hollow
+['h?l??]
+a.空的；空洞的；虚伪的 vt.掏空 n.洞，坑
+$holy
+['h??l?]
+a.神圣的，圣洁的，至善的
+$home
+[h??m]
+n.家(庭)；发源地 a.家庭的 ad.在家，回家
+$homework
+['h??mw?:k]
+n.家庭作业
+$honest
+['?n?st]
+a.诚实的；正直的，老实的，公正的
+$honey
+['h?n?]
+n.蜜，蜂蜜；家人，宝贝
+$honor
+['?n?(r)]
+n.荣誉；敬意；(H-)阁下 v.使增光；尊敬
+$honorable
+['?n?r?bl]
+a.光荣的；可尊敬的；尊敬的
+$honour
+['?n?(r)]
+n.荣誉；敬意；(H-)阁下 v.使增光；尊敬
+$honourable
+['?n?r?bl]
+a.可敬的；光荣的
+$hook
+[h?k]
+n.钩，夹子 v.钩住
+$hope
+[h??p]
+v.希望，期望 n.希望；所希望的人或事
+$hopeful
+['h??pfl]
+a.怀有希望的，抱有希望的
+$hopeless
+['h??pl?s]
+a.绝望的，没有希望的；无用的
+$horizon
+[h?'ra?zn]
+n.地平线；眼界，见识
+$horizontal
+[Xh?r?'z?nt?l]
+a.水平的，地平线的
+$horn
+[h?:n]
+n.角，触角；号角，喇叭；角状物；警报器
+$horrible
+['h?r?bl]
+a.可怕的，恐怖的；讨厌的，糟透的
+$horror
+['h?r?(r)]
+n.恐怖，战栗；讨厌的人
+$horse
+[h?:s]
+n.马
+$horsepower
+['h?:spa??(r)]
+n.马力
+$hospital
+['h?sp?tl]
+n.医院
+$host
+[h??st]
+n.主人；许多 vt.作…的主人或节目主持人
+$hostile
+['h?sta?l]
+a.不友好的；怀有敌意的；敌方的
+$hot
+[h?t]
+a.热的，炎热的；辣的；急躁的；热衷的
+$hotel
+[h??'tel]
+n.旅馆, 饭店，酒店
+$hour
+['a??(r)]
+n.钟点，整点；小时，一个钟头；时刻
+$house
+[ha?s]
+n.房屋；机构；(H-)议院 vt.给…提供住处
+$household
+['ha?sh??ld]
+n.家庭，户 a.家庭(务)的，家常的，普通的
+$housewife
+['ha?swa?f]
+n.家庭主妇
+$housework
+['ha?sw?:k]
+n.家务，家事
+$housing
+['ha?z??]
+n.住房，住房供给；(外、阀)壳，防护罩
+$how
+[ha?]
+ad.如何，怎样；多少，多么
+$however
+[ha?'ev?(r)]
+conj.然而，可是，不过 ad.不管怎样
+$huge
+[hju:d?]
+a.庞大的，巨大的
+$human
+['hju:m?n]
+n.人 a.人的，人类的；有人性的，通人情的
+$humble
+['h?mbl]
+a.谦卑的；卑贱的 vt.降低身份，贬抑
+$humor
+['hju:m?]
+n.幽默(感)，诙谐
+$humorous
+['hju:m?r?s]
+a.幽默的，诙谐的
+$humour
+['hju:m?(r)]
+n.幽默，诙谐
+$hundred
+['h?ndr?d]
+num.百，一百
+$hunger
+['h??g?(r)]
+n.饥饿；渴望
+$hungry
+['h??gr?]
+a.饥饿的；渴望的
+$hunt
+[h?nt]
+n.打猎 v.打猎；寻找，搜索
+$hurry
+['h?r?]
+v.使加快 n.仓促, 匆忙
+$hurt
+[h?:t]
+n.伤害 vt.弄伤；伤害(感情) vi.伤痛
+$husband
+['h?zb?nd]
+n.丈夫
+$hut
+[h?t]
+n.小屋，棚屋
+$hydrogen
+['ha?dr?d??n]
+n.氢
+$I
+[a?]
+pron.我
+$ice
+[a?s]
+n.冰；冰冻甜食 vt.冰冻，使成冰
+$ice-cream
+['a?skri:m]
+a. 冰淇淋的,乳白色的
+$idea
+[a?'d??]
+n.主意，想法；概念，思想；计划，建议
+$ideal
+[a?'di:?l]
+a.理想的，完美的；空想的，观念的 n.理想
+$identical
+[a?'dent?kl]
+a.相同的，同一的
+$identify
+[a?'dent?fa?]
+vt.辨认出，鉴定；认为…等同于
+$identity
+[a?'dent?t?]
+n.身份，本体；同一性质，相同处
+$idle
+['a?dl]
+a.懒惰的，空闲的；无效的，无用的
+$if
+[?f]
+conj.如果，假如；是否
+$ignorance
+['?gn?r?ns]
+n.无知，愚昧；不知道
+$ignorant
+['?gn?r?nt]
+a.不知道的；无知的，愚昧的
+$ignore
+[?g'n?:(r)]
+vt.忽视，不顾
+$ill
+[?l]
+a.有病的；坏的 ad.坏 n.不幸，祸害
+$illegal
+[?'li:gl]
+a.不合法的，非法的
+$illness
+['?ln?s]
+n.病，疾病
+$illustrate
+['?l?stre?t]
+vt.举例说明，阐明；加插图于
+$illustration
+['?l?s'tre???n]
+n.说明；例证，插图；举例说明
+$image
+['?m?d?]
+n.形象；映像，图象
+$imaginary
+[?'m?d??n?r?]
+a.想像的，虚构的，假装的
+$imagination
+[?Xm?d??'ne??n]
+n.想象(力)；空想，设想
+$imagine
+[?'m?d??n]
+v.想象，设想；料想
+$imitate
+['?m?te?t]
+vt.模仿，仿效；仿造，伪造
+$immediate
+[?'mi:d??t]
+a.立即的，即刻的；最接近的，紧靠着的
+$immediately
+[?'mi:d??tl?]
+ad.直接地；立刻地 conj.一…(就)
+$immense
+[?'mens]
+a.巨大的，广大的
+$immigrant
+['?m?gr?nt]
+n.移民，侨民 a.(从外国)移来的，移民的
+$impact
+['?mp?kt]
+n.碰撞，冲击力；影响，效果
+$impatient
+[?m'pe??nt]
+a.不耐烦的，急躁的；急切的
+$implement
+['?mpl?m?nt]
+n.(pl.)工具，器具 vt.贯彻，实现
+$implication
+[X?mpl?'ke??n]
+n.暗示，暗指，言外之意；牵连
+$imply
+[?m'pla?]
+vt.暗示，含有…的意义
+$import
+['?mp?:t]
+vt.进口，引进 n.进口；(pl.)进口商品
+$importance
+[?m'p?:tns]
+n.重要(性)
+$important
+[?m'p?:tnt]
+a.重要的，重大的；有权力的，有地位的
+$impose
+[?m'p??z]
+vt.把…强加于，加重…负担；征收(税款)
+$impossible
+[?m'p?s?bl]
+a.不可能的，办不到的
+$impress
+[?m'pres]
+vt.给…以深刻印象；印，压印
+$impression
+[?m'pre?n]
+n.印象，感想；印次，印数
+$impressive
+[?m'pres?v]
+a.感人的，给人深刻印象的
+$improve
+[?m'pru:v]
+vt.改进，改善 vi.改善，变好
+$improvement
+[?m'pru:vm?nt]
+n.改进，改善；改进处
+$in
+[?n]
+prep.在…里；在…期间；在…之内
+$inch
+[?nt?]
+n.英寸；少许，一点儿 v.慢慢地移动
+$incident
+['?ns?d?nt]
+n.事件，事变
+$incline
+[?n'kla?n]
+vt.使倾斜；使倾向于 vi.倾向；倾斜
+$include
+[?n'klu:d]
+vt.包括，包含；把…计算在内
+$income
+['?nk?m]
+n.收入，收益，所得
+$increase
+[?n'kri:s]
+v.&n.增加，增大，增强
+$increasingly
+[?n'kri:s??l?]
+ad.日益地，愈加地
+$incredible
+[?n'kred?bl]
+a.难以置信的，不能相信的
+$indeed
+[?n'di:d]
+ad.的确；［表示惊讶］真的，真是
+$independence
+[X?nd?'pend?ns]
+n.独立，自主，自立
+$independent
+[X?nd?'pend?nt]
+a.独立的，自主的；不依赖…的
+$index
+['?ndeks]
+n.索引；指数 vt.为…编索引
+$indicate
+['?nd?ke?t]
+vt.指点；指出；(用手势、灯光等)指示
+$indication
+[X?nd?'ke??n]
+n.指示，表示；暗示，迹象
+$indifferent
+[?n'd?fr?nt]
+a.冷漠的；平常的，不怎么好的
+$indirect
+[X?nd?'rekt]
+a.间接的，迂回的
+$indispensable
+[X?nd?'spens?bl]
+a.不可缺少的
+$individual
+[X?nd?'v?d???l]
+a.个别的；独特的 n.个人；个体
+$indoor
+['?nd?:(r)]
+a.户内的，室内的
+$industrial
+[?n'd?str??l]
+a.工业的，产业的，实业的
+$industrialise
+[?n'd?str??la?z]
+v.(使)工业化
+$industrialize
+[?n'd?str??la?z]
+v.(使)工业化
+$industry
+['?nd?str?]
+n.工业，产业
+$inevitable
+[?n'ev?t?bl]
+a.不可避免的；预期的，司空见惯的
+$infant
+['?nf?nt]
+n.婴儿，幼儿 a.婴儿的；幼稚的，初期的
+$infect
+[?n'fekt]
+vt.传染，感染；影响…的心情，给…示影响
+$infer
+[?n'f?:(r)]
+vt.推论，推断
+$inference
+['?nf?r?ns]
+n.推论，推断；结论
+$inferior
+[?n'f??r??(r)]
+n.下级的，下等的 n.(质量等)劣等的，次的
+$infinite
+['?nf?n?t]
+a.无限的，无穷的
+$inflation
+[?n'fle??n]
+n.膨胀，通货膨胀
+$influence
+['?nfl??ns]
+n.影响；权势；感应 vt.影响，感化，左右
+$influential
+[X?nfl?'en?l]
+a.有影响的；有权势的
+$inform
+[?n'f?:m]
+vt.通知，告诉；告发
+$information
+[X?nf?'me??n]
+n.信息，数据；情报，资料，消息；通知
+$ingredient
+[?n'gri:d??nt]
+n.(混合物的)组成部分，配料；成份，要素
+$inhabitant
+[?n'h?b?t?nt]
+n.居民
+$inherit
+[?n'her?t]
+v.继承
+$initial
+[?'n??l]
+a.最初的，开始的 n.首字母
+$initiative
+[?'n???t?v]
+n.创始；决断能力 a.起始的，初步的
+$injection
+[?n'd?ek?n]
+n.注射，注入；注射液
+$injure
+['?nd??(r)]
+vt.伤害(感情等)，损坏
+$injury
+['?nd??r?]
+n.伤害，损害；受伤处
+$ink
+[??k]
+n.墨水，油墨
+$inn
+[?n]
+n.小旅店，客栈；小酒馆，小饭店
+$inner
+['?n?(r)]
+a.内部的，里面的；内在的，秘密的
+$innocent
+['?n?snt]
+a.清白的，无罪的；幼稚的；没有恶意的
+$input
+['?np?t]
+n.输入；(向计算机)输入的信息 vt.输入
+$inquire
+[?n'kwa??(r)]
+v.打听；调查；询问
+$inquiry
+[?n'kwa??r?]
+n.打听，询问；调查，查问
+$insect
+['?nsekt]
+n.昆虫
+$insert
+[?n's?:t]
+vt.插入，嵌入
+$inside
+[X?n'sa?d]
+a.里面的 ad.在内部 prep.在…里面 n.内部
+$insight
+['?nsa?t]
+n.洞察力，见识，深刻的了解
+$insist
+[?n's?st]
+vi.坚持，坚决主张 vt.坚持，坚决要求
+$inspect
+[?n'spekt]
+vt.检查；视察
+$inspire
+[?n'spa??(r)]
+vt.使生灵感；鼓舞
+$install
+[?n'st?:l]
+vt.安装，安置；任命，使就职
+$install
+[?n'st?:l]
+vt.安装，安置；任命，使就职
+$installation
+[X?nst?'le??n]
+n.安装，安置；装置，设备，设施
+$instance
+['?nst?ns]
+n.例子，事例，实例
+$instant
+['?nst?nt]
+a.立即的；刻不容缓的 n.瞬间，倾刻
+$instead
+[?n'sted]
+ad.代替，顶替
+$instinct
+['?nst??kt]
+n.天性，本能，直觉
+$institute
+['?nst?tju:t]
+n.学会，学院，研究所 vt.建立，创立，制定
+$institution
+[X?nst?'tju:?n]
+n.创立，建立；惯例，制度；社会公共机构
+$instruct
+[?n'str?kt]
+vt.教(育)；指示，通知
+$instruction
+[?n'str?k??n]
+n.命令，指示；(用法)说明书；教育
+$instrument
+['?nstr?m?nt]
+n.仪器，器械，工具；乐器
+$insult
+[?n's?lt]
+vt.&n.侮辱，辱骂
+$insurance
+[?n'???r?ns]
+n.保险，保险费；保证
+$insure
+[?n'???(r)]
+vt.给…保险；保证
+$integrate
+['?nt?gre?t]
+vt.使成为整体；合并
+$intellectual
+[X?nt?'lekt???l]
+n.知识分子 a.智力的；显示智力的
+$intelligence
+[?n'tel?d??ns]
+n.智力，理解力；消息，情报
+$intelligent
+[?n'tel?d??nt]
+a.聪明的，明智的；智能的
+$intend
+[?n'tend]
+vt.想要，打算，计划
+$intense
+[?n'tens]
+a.强烈的，剧烈的；热心的
+$intensity
+[?n'tens?t?]
+n.强度；强烈，剧烈
+$intensive
+[?n'tens?v]
+a.集中的，强化的，精细的，深入的
+$intention
+[?n'ten?n]
+n.意图，动机，目的
+$interaction
+[X?nt?r'?k?n]
+n.相互作用，相互影响
+$interest
+['?ntr?st]
+n.兴趣；引起兴趣的事物；(复数)利益；利息
+$interesting
+['?ntr?st??]
+a.有趣的
+$interfere
+['?nt?'f??]
+vi.干涉，介入；妨碍，干扰
+$interference
+[X?nt?'f??r?ns]
+n.干涉，妨碍；(电波等的)干扰(声)
+$interior
+[?n't??r??(r)]
+a.内部的；内地的 n.内部
+$intermediate
+[X?nt?'mi:d??t]
+a.中间的，中级的
+$internal
+[?n't?:n?l]
+a.内部的，国内的，内服的
+$international
+[X?nt?'n??n?l]
+a.国际的，世界性的
+$Internet
+['?nt?net]
+n.因特网
+$interpret
+[?n't?:pr?t]
+vt.口译；解释为 vi.解释；口译
+$interpretation
+[?nXt?:pr?'te??n]
+n.解释，阐明
+$interrupt
+[X?nt?'r?pt]
+vt.打断，打扰；中止，中断
+$interval
+['?nt?v?l]
+n.间隔(时间)；幕间休息
+$interview
+['?nt?vju:]
+n.接见，访问；面试，面谈 vt.接见，会见
+$intimate
+['?nt?m?t]
+a.亲密的；详尽的；私人的
+$into
+['?nt?]
+prep.进入，到…里；成为，转为
+$introduce
+[X?ntr?'dju:s]
+vt.介绍；引进；提出
+$introduction
+[X?ntr?'d?k?n]
+n.介绍；引进，传入；绪论，导言
+$invade
+[?n've?d]
+vt.侵略，入侵；涌入
+$invasion
+[?n've??n]
+n.侵略，侵犯
+$invent
+[?n'vent]
+vt.创造，发明；虚构，捏造
+$invention
+[?n'ven?n]
+n.发明
+$invest
+[?n'vest]
+vt.投资，投入 vi.(in)投资
+$investigate
+[?n'vest?ge?t]
+v.调查，调查研究
+$investment
+[?n'vestm?nt]
+n.投资，投资额
+$invisible
+[?n'v?z?bl]
+a.看不见的，无形的
+$invitation
+[X?nv?'te??n]
+n.邀请；邀请书，请柬；鼓励，激起，引发
+$invite
+[?n'va?t]
+vt.邀请，招待；请求，征求；招致，吸引
+$involve
+[?n'v?lv]
+vt.使卷入，使参与；牵涉；包含，包括
+$inward
+['?nw?d]
+a.里面的，内部的；内心的 ad.向内
+$iron
+['a??n]
+n.铁；熨斗 v.熨，烫
+$island
+['a?l?nd]
+n.岛，岛屿 a.岛(国)的
+$isolate
+['a?s?le?t]
+vt.使孤立，隔离
+$issue
+['??u:]
+n.问题，争论点 vt.发给；发表，发行
+$item
+['a?t?m]
+n.条款，项目；(新闻等的)一则
+$its
+[?ts]
+pron.
+[?t????????]
+它的
+$itself
+[?t'self]
+pron.(它)自己；(它)本身
+$jacket
+['d??k?t]
+n.短大衣，夹克；马铃薯皮
+$jail
+[d?e?l]
+n.监狱，看守所
+$jam
+[d??m]
+n.果酱；堵塞 vt.压紧；突然用力推
+$January
+['d??nj??r?]
+n.一月
+$jar
+[d?ɑ:(r)]
+n.罐子，坛子 v.使受刺激，使震动
+$jaw
+[d??:]
+n.颚，颌；夹 v.喋喋不休，教训
+$jazz
+[d??z]
+n.爵士乐，爵士舞
+$jealous
+['d?el?s]
+a. 妒忌的；猜疑的
+$jeans
+[d?i:nz]
+n.工装裤，牛仔裤
+$jet
+[d?et]
+n.喷射；喷射流 vi.乘喷气式飞机旅行；喷射
+$jewel
+['d?u:?l]
+n.宝石，宝石饰品
+$job
+[d??b]
+n.工作，职位；零活，一件工作；任务，职责
+$join
+[d???n]
+v.参加；联合；和…在一起
+$joint
+[d???nt]
+n.接合处；关节 a.连接的，联合的
+$joke
+[d???k]
+n.笑话 vi.开玩笑
+$journal
+['d??:nl]
+n.日报，期刊，杂志；日记，日志；分类帐
+$journalist
+['d??:n?l?st]
+n.记者，新闻工作者
+$journey
+['d??:n?]
+n.旅行，旅途 vi.旅行
+$joy
+[d???]
+n.喜欢，欢乐；乐趣，趣事
+$judge
+[d??d?]
+n.法官；裁判；鉴赏家 v.判断；裁决；审判
+$judgement
+['d??d?m?nt]
+n.判决，审判；判断力；判断，看法
+$judgment
+['d??d?m?nt]
+n.判断(力)；审判，判决；评价，意见
+$juice
+[d?u:s]
+n.(蔬菜、水果等的)汁，液，浆
+$July
+[d??'la?]
+n.七月
+$jump
+[d??mp]
+v./n.跳，跳跃，跳过；暴涨，猛增
+$June
+[d?u:n]
+n.六月
+$jungle
+['d???gl]
+n.丛林，密林
+$junior
+['d?u:n??(r)]
+a.年少的；职位较低的 n.晚辈；等级较低者
+$jury
+['d???r?]
+n.陪审团
+$just
+[d??st]
+a.正义的；公正的 ad.正好；只是；刚刚
+$justice
+['d??st?s]
+n.正义；司法，审判
+$justify
+['d??st?fa?]
+vt.证明…是正当的，为…辩护
+$keen
+[ki:n]
+a.渴望的，热心的；理解力强的，敏锐的
+$keep
+[ki:p]
+v.保留；保持；遵守；饲养；管理
+$kettle
+['ketl]
+n.水壶
+$key
+[ki:]
+n.钥匙；键；关键；答案 a.关键的
+$keyboard
+['ki:b?:d]
+n.键盘 vt.用键盘输入(信息)
+$kick
+[k?k]
+v./n.踢
+$kid
+[k?d]
+n.小孩，小伙子
+$kill
+[k?l]
+vt.杀死；扼杀，毁灭
+$kilo
+['ki:l??]
+n.千
+$kilogram
+['k?l?gr?m]
+n.千克，公斤
+$kilogramme
+['k?l??gr?m]
+n.千克，公斤
+$kilometer
+['k?l?Xmi:t?]
+n.千米，公里
+$kilometre
+['k?l?mi:t?(r)]
+n.千米，公里
+$kind
+[ka?nd]
+a.仁慈的，友好的 n.种类
+$kindergarten
+['k?nd?gɑ:tn]
+n.幼儿园
+$kindness
+['ka?ndn?s]
+n.仁慈，好意；友好行为
+$king
+[k??]
+n.国王，君主
+$kingdom
+['k??d?m]
+n.王国；领域
+$kiss
+[k?s]
+n.&v.吻，接吻
+$kitchen
+['k?t??n]
+n.厨房
+$kite
+[ka?t]
+n.风筝
+$knee
+[ni:]
+n.膝，膝盖
+$kneel
+[ni:l]
+vi.跪(下)
+$knife
+[na?f]
+n.小刀，餐刀 v.用刀刺(切)
+$knock
+[n?k]
+n.敲，敲打；碰撞 v.敲，打；碰，撞击
+$knot
+[n?t]
+n.结；节，疤 v.打结，捆扎
+$know
+[n??]
+n.知道，了解；会，懂；认识，熟悉
+$knowledge
+['n?l?d?]
+n.知识；熟悉，了解
+$lab
+[l?b]
+(=laboratory) n.实验室
+$label
+['le?bl]
+n.标签 vt.在…上贴标签；把…称为
+$labor
+['le?b?(r)]
+n.劳动；工人 v.劳动；费力地前进
+$laboratory
+[l?'b?r?tr?]
+n.实验室
+$labour
+['le?b?(r)]
+n.劳动；劳动力；辛劳 vi.劳动，苦干
+$lack
+[l?k]
+n.&v.缺乏，缺少，短缺
+$lad
+[l?d]
+n.男孩，少年，小伙子
+$ladder
+['l?d?(r)]
+n.梯子，阶梯
+$lady
+['le?d?]
+n.夫人，女士；(pl.)女盥洗室
+$lag
+[l?g]
+n.落后，滞后 vi.落后，走得慢
+$lake
+[le?k]
+n.湖，湖泊
+$lamb
+[l?m]
+n.小羊，羔羊；羔羊肉
+$lamp
+[l?mp]
+n.灯
+$land
+[l?nd]
+n.陆地；土地；国家 v.使…着陆，登陆
+$landlord
+['l?ndl?:d]
+n.地主，房东
+$landscape
+['l?ndske?p]
+n.风景，景色；风景画，风景照片
+$lane
+[le?n]
+n.小路，小巷；车道，跑道
+$language
+['l??gw?d?]
+n.语言
+$lap
+[l?p]
+n.膝部；(跑道的)一圈
+$large
+[lɑ:d?]
+a.大的 n.大
+[??????????]
+
+$largely
+['lɑ:d?l?]
+ad.大部分地，主要的；大规模地
+$laser
+['le?z?(r)]
+n.激光
+$last
+[lɑ:st]
+a.最后的；最近的 ad.最后(地) vi.持续
+$late
+[le?t]
+a.迟的；晚期的；最近的 ad.迟，晚
+$lately
+['le?tl?]
+ad.最近
+$later
+['le?t?(r)]
+a.更迟的，更后的 ad.过后，以后
+$latter
+['l?t?(r)]
+a.后面的，末了的；后一半的 n.后者
+$laugh
+[lɑ:f]
+vi.大笑 n.笑声，笑；开玩笑的事物
+$laughter
+['lɑ:ft?(r)]
+n.笑，笑声
+$launch
+[l?:nt?]
+vt.使(船)下水；发射(导弹) n.发射
+$laundry
+['l?:ndr?]
+n.洗衣店；洗好的衣服，洗涤
+$lavatory
+['l?v?tr?]
+n.盥洗室，厕所
+$law
+[l?:]
+n.法律；法规，法制；定律，规律
+$lawn
+[l?:n]
+n.草地，草坪
+$lawyer
+['l?:j?(r)]
+n.律师
+$lay
+[le?]
+v.铺设；产(卵)；布置 a.世俗的；外行的
+$layer
+['le??]
+n.层，层次
+$layout
+['le?a?t]
+n.布局，安排，设计
+$lazy
+['le?z?]
+a.懒惰的，懒散的
+$lead
+[li:d]
+n.铅
+$leader
+['li:d?(r)]
+n.领袖，领导者
+$leadership
+['li:d???p]
+n.领导
+$leading
+['led??]
+a.领导的；最重要的，首位的
+$leaf
+[li:f]
+n.叶(子)；张，页；薄金属片
+$league
+[li:g]
+n.同盟，联盟；协会，社团
+$leak
+[li:k]
+vi.漏；泄露出去 n.漏洞；泄露
+$lean
+[li:n]
+v.倾斜；把…靠在；倚，靠
+$leap
+[li:p]
+v.跳，跃；跃过 n.跳跃；飞跃
+$learn
+[l?:n]
+v.学习，学会；得知，获悉；记住
+$learned
+['l?:n?d]
+a.博学的，有学识的
+$learning
+['l?:n??]
+n.学识，学问；学习
+$lease
+[li:s]
+n.租约，租契 vt.出租，租得
+$least
+[li:st]
+a.最小的，最少的 ad.最小(少)
+$leather
+['lee?(r)]
+n.皮革
+$leave
+[li:v]
+vt.离开；留下；遗留 vi.离开 n.许可
+$lecture
+['lekt??(r)]
+n.演讲；告诫 v.(向…发表)演讲，讲课
+$left
+[left]
+a.左边的 ad.向左 n.左边；(政党)左派
+$leg
+[leg]
+n.腿(部)
+$legal
+['li:gl]
+a.法律上的；合法的，法定的
+$legislation
+[Xled??s'le??n]
+n.立法；法规
+$leisure
+['le??(r)]
+n.空闲时间，闲暇；悠闲，安逸
+$lemon
+['lem?n]
+n.柠檬；柠檬汁
+$lend
+[lend]
+vt.借书，借给；赊予
+$length
+[l??kθ]
+n.长度；一段；程度，范围；
+$lens
+[lenz]
+n.透镜，镜头
+$less
+[les]
+a.&ad.更小的(地)；较次(劣)的(地)
+$lesson
+['lesn]
+n.课业，功课，课程；教训，经验
+$lest
+[lest]
+conj.唯恐，免得
+$let
+[let]
+vt.让，允许；设，使；出租
+$letter
+['let?(r)]
+n.字母，文字；信，函件
+$level
+['levl]
+n.水平面；等级 a.平的，水平的
+$liable
+['la??bl]
+a.常患…的；有…倾向的；有偿付责任的
+$liberal
+['l?b?r?l]
+a.自由的；慷慨的，大量的；心胸宽大的
+$liberate
+['l?b?re?t]
+v.解放；释放
+$liberty
+['l?b?t?]
+n.自由，释放；(pl.)准许(权)，许可
+$librarian
+[la?'bre?r??n]
+n.图书馆馆长(或管理员)
+$library
+['la?br?r?]
+n.图书馆，图书室；藏书
+$licence
+['la?sns]
+n.许可，特许；许可证，执照 v.许可
+$license
+['la?sns]
+n.许可；执照 vt.准许
+$lick
+[l?k]
+n./vt.舔
+$lid
+[l?d]
+n.盖(子)
+$lie
+[la?]
+vi.躺，平放；位于 v.说谎 n.谎话，假话
+$life
+[la?f]
+n.生命；生物；寿命；生活，生存
+$lifetime
+['la?fta?m]
+n.一生，终生
+$lift
+[l?ft]
+v.提升；(尤指云、雾)消散 n.举起；电梯
+$light
+[la?t]
+n.光 v.点燃；照亮 a.轻的；不费力的
+$lightning
+['la?tn??]
+n.闪电
+$like
+[la?k]
+a.相像的 prep.像，和…一样 v.喜欢，希望
+$likely
+['la?kl?]
+a.可能的 ad.可能
+$likewise
+['la?kwa?z]
+ad.同样地，也
+$limb
+[l?m]
+n.肢，臂，翼
+$limit
+['l?m?t]
+n.限制；(pl.)范围 vt.限定，限制
+$limitation
+[Xl?m?'te??n]
+n.限制，局限性
+$limited
+['l?m?t?d]
+a.有限的；限定的
+$line
+[la?n]
+n.线；电线；路线 vt.(使)排成行
+$link
+[l??k]
+n.环，联系 vi.连接，联系
+$lion
+['la??n]
+n.狮子
+$lip
+[l?p]
+n.嘴唇
+$liquid
+['l?kw?d]
+n.液体 a.液体的，液态的
+$liquor
+['l?k?(r)]
+n.酒
+$list
+[l?st]
+n.目录，名单，表 v.列举，排列
+$listen
+['l?sn]
+vi.听；听信，听从
+$liter
+['li:t?(r)]
+n.升(容量单位)
+$literary
+['l?t?r?r?]
+a.文学(上)的；文人的，从事写作的
+$literature
+['l?tr?t??(r)]
+n.文学(作品)；文献，图书资料
+$litre
+['li:t?(r)]
+n.升
+$little
+['l?tl]
+a.小的；不多的 n.几乎没有 ad.毫不
+$live
+[l?v]
+a.活的，活生生的；实况转播的；燃烧着的
+$lively
+['la?vl?]
+a.活泼的；逼真的
+$liver
+['l?v?(r)]
+n.肝(脏)
+$living
+['l?v??]
+a.活着的，现存的 n.生活，生计
+$load
+[l??d]
+n.装载量；负荷，负载 v.装，装载，装货
+$loaf
+[l??f]
+n.一条(面包)
+$loan
+[l??n]
+n.贷款；借出 vt.借出
+$lobby
+['l?b?]
+n.门厅，(饭店等)接待厅
+$local
+['l??kl]
+a.地方的；局部的 n.当地居民
+$locate
+[l??'ke?t]
+vt.把…设置在；探明
+$location
+[l??'ke??n]
+n.位置，场所
+$lock
+[l?k]
+n.锁 v.(被)锁上
+$lodge
+[l?d?]
+vt.供…以临时住宿 vi.寄宿
+$log
+[l?g]
+n.原木，圆木；航海(飞行)日志
+$logic
+['l?d??k]
+n.逻辑(学)，逻辑性
+$logical
+['l?d??kl]
+a.逻辑的，合乎逻辑的
+$lonely
+['l??nl?]
+a.孤独的，寂寞的；荒凉的，人迹稀少的
+$long
+[l??]
+a.长(的)；长时间的 ad.长期地 vi.渴望
+$look
+[l?k]
+vi.看；看起来 n.看；外表，脸色
+$loop
+[lu:p]
+n.环，环状物 v.打圈
+$loose
+[lu:s]
+a.松的，宽松的 v.释放，解开
+$loosen
+['lu:sn]
+vt.使变松，松开，放松
+$lord
+[l?:d]
+n.贵族；(L-)主，上帝；阁下
+$lorry
+['l?r?]
+n.卡车，货运汽车
+$lose
+[lu:z]
+v.失去；失败；损失；耽搁，浪费(时间)
+$loss
+[l?s]
+n.遗失，丧失；亏损，减少；失败，输掉
+$lot
+[l?t]
+n.许多，大量；签，抽签
+$loud
+[la?d]
+a.响亮的，大声的；喧闹的 ad.大声地
+$love
+[l?v]
+v.爱好；热爱 n.热爱；喜爱；情人；零分
+$lovely
+['l?vl?]
+a.美丽的，可爱的；有趣的，令人愉快的
+$lover
+['l?v?(r)]
+n.爱好者；情人
+$low
+[l??]
+a.卑鄙的；俗的；低速的 ad.向下 n.低点
+$lower
+['l???(r)]
+a.较低的，下等的 vt.放下，放低，降低
+$loyal
+['l???l]
+a.忠诚的
+$loyalty
+['l???lt?]
+n.忠诚，忠心
+$luck
+[l?k]
+n.运气；幸运，好运
+$lucky
+['l?k?]
+a.幸运的，吉祥的，侥幸的
+$luggage
+['l?g?d?]
+n.行李
+$lump
+[l?mp]
+n.团，块；肿块 vt.使成团(块)
+$lunch
+[l?nt?]
+n.午餐，便饭
+$lung
+[l??]
+n.肺
+$luxury
+['l?k??r?]
+n.奢侈(品)，豪华
+$machine
+[m?'?i:n]
+n.机器，机械
+$machinery
+[m?'?i:n?r?]
+n.(总称)机械，机器；机构
+$mad
+[m?d]
+a.发疯的；恼火的；极愚蠢的，狂妄的
+$madam
+['m?d?m]
+n.(对妇女的尊称)女士，夫人
+$magazine
+[Xm?g?'zi:n]
+n.期刊，杂志；(枪上的)弹仓，弹盒
+$magic
+['m?d??k]
+n.魔力；魔术 a.有魔力的，不可思议的
+$magnet
+['m?gn?t]
+n.磁体，磁铁
+$magnetic
+[m?g'net?k]
+a.磁性的；有吸引力的
+$magnificent
+[m?g'n?f?snt]
+a.壮丽的，宏伟的
+$maid
+[me?d]
+n.女仆；未婚少女
+$mail
+[me?l]
+n.邮件，信件 vt.邮寄
+$mailbox
+['me?lb?ks]
+n.邮筒，邮箱
+$main
+[me?n]
+a.主要的，最重要的 n.干线?
+$mainland
+['me?nl?nd]
+n.大陆，本土
+$maintain
+[me?n'te?n]
+vt.维持；保养；赡养，供养
+$maintenance
+['me?nt?n?ns]
+n.维持，保持；保养，维修；坚持，主张
+$major
+['me?d??(r)]
+a.主要的 n.主修课程 vi.主修，专攻…
+$majority
+[m?'d??r?t?]
+n.多数，大多数
+$make
+[me?k]
+v.做；使，致使；迫使；获得；等于，总计
+$male
+[me?l]
+n./a.男性(的)，雄性(的)
+$man
+[m?n]
+n.男人；人，人类
+$manage
+['m?n?d?]
+v.管理，经营；设法(做到、完成)，处理
+$management
+['m?n?d?m?nt]
+n.管理，经营；管理人员
+$manager
+['m?n?d??(r)]
+n.经理，管理人员
+$mankind
+[m?n'ka?nd]
+n.人类
+$manner
+['m?n?(r)]
+n.方式，方法；态度；(pl.)礼貌，规矩
+$manual
+['m?nj??l]
+a.手工的；体力的 n.手册，指南
+$manufacture
+[Xm?nj?'f?kt??(r)]
+v.(大量)制造；杜撰 n.制造；(pl.)制品
+$manufacturer
+[Xm?nj?'f?kt??r?(r)]
+n.生产厂商，制造公司，厂主
+$many
+['men?]
+a.许多的，多的 pron.许多人或物，许多
+$map
+[m?p]
+n.图，地图
+$March
+[mɑ:t?]
+n.三月
+$march
+[mɑ:t?]
+n.三月
+$margin
+['mɑ:d??n]
+n.页边，边缘；余地
+$marine
+[m?'ri:n]
+a.海的；航海的 n.水兵；船舶，海运业
+$mark
+[mɑ:k]
+n.斑点；记号 v.弄污；标志；(给试卷)打分
+$market
+['mɑ:k?t]
+n.市场，集市；销路，需求 vt.销售
+$marriage
+['m?r?d?]
+n.婚姻，婚姻生活；婚礼；密切结合
+$married
+['m?r?d]
+a.婚姻的；已结婚的
+$marry
+['m?r?]
+vt.同…结婚
+$marvellous
+['mɑ:v?l?s]
+a.奇迹般的；惊人的
+$marvelous
+['mɑ:v?l?s]
+a.奇异的；了不起的
+$Marxist
+['mɑ:ks?st]
+a.马克思主义者
+$mask
+[mɑ:sk]
+n.面具；假面具，伪装 vt.遮盖，掩饰
+$mass
+[m?s]
+n.大量；(pl.)群众 a.群众的；大规模的
+$massive
+['m?s?v]
+a.巨大的；大量的；魁伟的
+$master
+['mɑ:st?(r)]
+n.主人；能手；男教师 vt.掌握，精通
+$mat
+[m?t]
+n.席子，垫子
+$match
+[m?t?]
+n.火柴；比赛；对手 v.(和…)相配
+$mate
+[me?t]
+n.伙伴；配偶 v.使…配对
+$material
+[m?'t??r??l]
+n.物质，材料；素材，资料，题材 a.物质的
+$math
+[m?θ]
+n.数学
+$mathematical
+[Xm?θ?'m?t?kl]
+a.数学(上)的
+$mathematics
+[Xm?θ?'m?t?ks]
+n.数学
+$maths
+[m?θs]
+n.数学
+$matter
+['m?t?(r)]
+n.物质；情况；麻烦事 vi.要紧，有关系
+$mature
+[m?'t???(r)]
+a.成熟的；理智的；慎重的 v.成熟
+$maximum
+['m?ks?m?m]
+n.最大量，最高值；极限 a.最大限度的
+$May
+[me?]
+n.五月
+$may
+[me?]
+n.五月
+$maybe
+['me?b?]
+ad.可能，也许
+$mayor
+[me?(r)]
+n.市长
+$me
+[mi:]
+pron.
+[I??????]
+我
+$meal
+[mi:l]
+n.一餐，膳食
+$mean
+[mi:n]
+v.表…的意思，意指；意为，意欲；意味着…
+$meaning
+['mi:n??]
+n.意义，意思；重要性，目的
+$means
+[mi:nz]
+n.方法，手段；收入，财富
+$meantime
+['mi:nta?m]
+n.其时，在此期间 ad.同时，当时
+$meanwhile
+['mi:nwa?l]
+ad.当时，与此同时
+$measure
+['me??(r)]
+n.量度；措施 vt.测量 vi.有…长(宽，高)
+$measurement
+['me??m?nt]
+n.测量，衡量；尺寸，大小
+$meat
+[mi:t]
+n.肉
+$mechanic
+[m?'k?n?k]
+n.技工，机械工人
+$mechanical
+[m?'k?n?kl]
+a.机械的
+$mechanism
+['mek?n?z?m]
+n.机械装置；机构，结构
+$medal
+['medl]
+n.奖章，勋章，纪念章
+$media
+['mi:d??]
+n. 媒体
+$medical
+['med?kl]
+a.医学上的，医疗的；内科的
+$medicine
+['medsn]
+n.医学，医术；药
+$medium
+['mi:d??m]
+a.中等的 n.媒介物；中间，适中
+$meet
+[mi:t]
+v.遇到；会见；遭到；满足 n.聚会
+$meeting
+['mi:t??]
+n.聚会，会议
+$melt
+[melt]
+v.(使)融化，(使)熔化；消散，消失
+$member
+['memb?(r)]
+n.成员，会员
+$membership
+['memb???p]
+n.成员资格，会员资格
+$memorial
+[m?'m?:r??l]
+a.纪念的 n.纪念碑；纪念物，纪念馆
+$memory
+['mem?r?]
+n.记忆，记忆力；回忆，怀念；存储(器)
+$mend
+[mend]
+vt.修理，修补，缝补；纠正 n.修补，补钉
+$mental
+['mentl]
+a.心智的，精神的；神经不正常的
+$mention
+['men?n]
+v.提到，谈到 n.提述，提及
+$menu
+['menju:]
+n.菜单
+$merchant
+['m?:t??nt]
+n.商人
+$mercy
+['m?:s?]
+n.怜悯，宽恕，仁慈
+$mere
+[m??(r)]
+a.仅仅的；纯粹的
+$merely
+['m??l?]
+ad.仅仅，只不过
+$merit
+['mer?t]
+n.优点；功劳；价值 v.应得；值得
+$merry
+['mer?]
+a.愉快的，欢乐的
+$mess
+[mes]
+n.混乱，混杂，脏乱
+$message
+['mes?d?]
+n.消息；启示；要旨；差使
+$metal
+['metl]
+n.金属
+$meter
+['mi:t?(r)]
+n.仪表，计，表，米，公尺
+$method
+['meθ?d]
+n.方法，办法
+$metre
+['mi:t?(r)]
+n.公尺，米
+$metric
+['metr?k]
+a.公制的，米制的
+$microphone
+['ma?kr?f??n]
+n.麦克风，扩音器
+$microscope
+['ma?kr?sk??p]
+n.显微镜
+$midday
+[Xm?d'de?]
+n.正午，中午
+$middle
+['m?dl]
+n.中间；中等物 a.中间的；中等的
+$midnight
+['m?dna?t]
+n.午夜，子夜
+$might
+[ma?t]
+aux.u.may的过去式；可能；请，应该
+$mild
+[ma?ld]
+a.温和的；(酒、烟等)味淡的；适度的
+$mile
+[ma?l]
+n.英里
+$military
+['m?l?tr?]
+a.军用的，军事的
+$milk
+[m?lk]
+n.牛奶；(植物流出的)白色乳液 v.挤奶
+$mill
+[m?l]
+n.磨坊，面粉厂；工厂，车间
+$millimeter
+['m?l?Xmi:t?]
+n.毫米
+$millimetre
+['m?l?mi:t?(r)]
+n.毫米
+$million
+['m?lj?n]
+num.百万，百万个 n.(pl.)无数
+$mind
+[ma?nd]
+n.头脑；记忆；注意；想法 v.注意；介意
+$mine
+[ma?n]
+pron.
+[I??????????]
+我的 n.矿山 v.开矿
+$mineral
+['m?n?r?l]
+n.&a.矿物(的)
+$minimum
+['m?n?m?m]
+n.最低限度，最小量 a.最低的，最小的
+$minister
+['m?n?st?(r)]
+n.部长，大臣；牧师
+$ministry
+['m?n?str?]
+n.(政府的)部
+$minor
+['ma?n?(r)]
+a.较小的；不严重的 n.未成年人
+$minority
+[ma?'n?r?t?]
+n.少数；少数民族
+$minus
+['ma?n?s]
+a.减的，负的 prep.减去 n.减号，负号
+$minute
+['m?n?t]
+n.分，分钟；一会儿，片刻 a.细微的
+$miracle
+['m?r?kl]
+n.奇迹
+$mirror
+['m?r?(r)]
+n.镜子 vt.反映，反射
+$miserable
+['m?zr?bl]
+a.悲惨的，可怜的；令人难受的
+$mislead
+[Xm?s'li:d]
+vt.使误入岐途
+$miss
+[m?s]
+n.(M-)小姐 v.错过，未赶上；惦念，想念
+$missile
+['m?sa?l]
+n.导弹
+$missing
+['m?s??]
+a.失踪的，欠缺的，不在的
+$mission
+['m??n]
+n.使命，任务；代表团
+$mist
+[m?st]
+n.薄雾；(眼睛的)模糊不清
+$mistake
+[m?'ste?k]
+n.错误，误解 v.弄错
+$mister
+['m?st?(r)]
+n.先生；(M-，放在姓氏前)…先生
+$misunderstand
+[Xm?s?nd?'st?nd]
+vt.误解，误会，曲解
+$mix
+[m?ks]
+vt.混合；调制 vi.相混合 n.混合(物)
+$mixture
+['m?kst??(r)]
+n.混合；混合物
+$mobile
+['m??ba?l]
+a.活动的，流动的
+$mode
+[m??d]
+n.方式，样式；时尚，时兴
+$model
+['m?dl]
+n.模型；模范；模特儿；式样，型(号)
+$moderate
+['m?d?r?t]
+a.中等的；温和的 vt.使缓和 vi.变缓和
+$modern
+['m?d?n]
+a.现代的，现代化的
+$modest
+['m?d?st]
+a.谦虚的，客气的；适度的
+$modify
+['m?d?fa?]
+vt.修改，变更；缓和，减轻
+$moist
+[m??st]
+a.潮湿的，微湿的
+$moisture
+['m??st??(r)]
+n.湿气，潮湿
+$mold
+[m??ld]
+n.模子，模型，铸模 vt.造型，浇涛
+$molecule
+['m?l?kju:l]
+n.分子
+$moment
+['m??m?nt]
+n.片刻，瞬间；某一个特定时刻
+$Monday
+['m?nd?]
+n.星期一
+$money
+['m?n?]
+n.货币；财富，金钱
+$monitor
+['m?n?t?(r)]
+n.监听器；(学校的)班长 v.监听，监视
+$monkey
+['m??k?]
+n.猴子
+$month
+[m?nθ]
+n.月，月份
+$monthly
+['m?nθl?]
+a.每月的，按月计算的 ad.每月一次 n.月刊
+$monument
+['m?nj?m?nt]
+n.纪念碑；遗迹
+$mood
+[mu:d]
+n.情绪，心境；心境不佳
+$moon
+[mu:n]
+n.月球，月亮；月光；卫星
+$moral
+['m?r?l]
+a.道德上的 n.道德，伦理；寓意
+$more
+[m?:]
+a.更多的；另外的 n.更多数量 ad.更；另外
+$moreover
+[m?:r'??v?(r)]
+ad.而且
+$morning
+['m?:n??]
+n.早晨，上午
+$mosquito
+[m?'ski:t??]
+n.蚊子
+$most
+[m??st]
+a.最多的；大部分的 pron.最大量 ad.最
+$mostly
+['m??stl?]
+ad.主要地；基本上
+$mother
+['m?e?(r)]
+n.母亲，妈妈
+$motion
+['m???n]
+n.(物体)运动；提议；手势 v.打手势示意
+$motivate
+['m??t?ve?t]
+vt.激励，鼓励；作为…的动机，促动
+$motive
+['m??t?v]
+n.动机，目的；(作品的)主题
+$motor
+['m??t?(r)]
+n.马达，电动机；汽车 a.机动的；汽车的
+$mould
+[m??ld]
+n.模子，模型，铸模 vt.造型，浇铸
+$mount
+[ma?nt]
+vi.增长 vt.登上；扶上马(车) n.…山峰
+$mountain
+['ma?nt?n]
+n.山，高山；(pl.)山脉；大量
+$mouse
+[ma?s]
+n.老鼠；胆小怕事的人；鼠标
+$mouth
+[ma?θ]
+n.嘴巴，口；出入口
+$move
+[mu:v]
+vt.移动；感动；提议 vi.移动 n.走棋；步骤
+$movement
+['mu:vm?nt]
+n.运动；迁移，移动；乐章
+$movie
+['mu:v?]
+n.影片，电影院
+$much
+[m?t?]
+a.许多的 pron.许多 ad.很；几乎，大概
+$mud
+[m?d]
+n.泥，泥浆
+$mug
+[m?g]
+n.(有柄的)大杯
+$multiple
+['m?lt?pl]
+a.多样的，多重的 n.倍数
+$multiply
+['m?lt?pla?]
+vt.使增加；使繁殖；乘 vi.增加，繁殖
+$murder
+['m?:d?(r)]
+n.谋杀，谋杀罪 vt.谋杀，屠杀；破坏
+$muscle
+['m?sl]
+n.肌肉；体力，力量
+$museum
+[mj?'zi:?m]
+n.博物馆
+$mushroom
+['m??r?m]
+n.蘑菇
+$music
+['mju:z?k]
+n.音乐，乐曲
+$musical
+['mju:z?k?l]
+a.音乐的；悦耳的 n.音乐喜剧
+$musician
+[mj?'z??n]
+n.音乐家，乐师，作曲家
+$must
+[m?st]
+aux.&v.必须；很可能；一定要 n.必须做的事
+$mutual
+['mju:t???l]
+a.相互间的；共同的
+$my
+[ma?]
+pron.
+[I????????]
+我的
+$myself
+[ma?'self]
+pron.
+[????????]
+我自己；我亲自
+$mysterious
+[m?'st??r??s]
+a.神秘的；难理解的
+$mystery
+['m?str?]
+n.神秘(的事)；神秘小说(故事等)；神秘
+$myth
+[m?θ]
+n.神话
+$nail
+[ne?l]
+n.指甲，爪；钉 vt.钉，使牢固
+$naked
+['ne?k?d]
+a.裸体的，裸露的；无掩饰的，未遮盖的
+$name
+[ne?m]
+n.名字；名声；知名人士 vt.列举；任命
+$namely
+['ne?ml?]
+ad.即，也就是
+$narrow
+['n?r??]
+a.窄的；有限的；目光短浅的 v.(使)变窄
+$nation
+['ne??n]
+n.国家，民族
+$national
+['n??n?l]
+n.国民 a.全国性的；国内的；民族的
+$nationality
+[Xn???'n?l?t?]
+n.国籍；民族
+$native
+['ne?t?v]
+a.出生地的；本土的 n.本地人，本国人
+$natural
+['n?t??r?l]
+a.自然界的；正常的；天赋的
+$naturally
+['n?t?r?l?]
+ad.当然，自然地；天然地，天生地
+$nature
+['ne?t??(r)]
+n.自然(界)；天性；特性；人体的本能
+$naval
+['ne?vl]
+a.海军的，军舰的，船的
+$navigation
+[Xn?v?'ge??n]
+n.航行，航海，航空
+$navy
+['ne?v?]
+n.海军
+$near
+[n??(r)]
+a.近的；亲密的 ad.接近 prep./v.靠近
+$nearby
+['n??ba?]
+a.附近的 ad.在附近
+$nearly
+['n??l?]
+ad.几乎，差不多
+$neat
+[ni:t]
+a.整洁的；简洁的；优美的；纯净的
+$necessarily
+[Xnes?'ser?l?]
+ad.一定，必定
+$necessary
+['nes?s?r?]
+a.必须的；必然的 n.(pl.)必需品
+$necessity
+[n?'ses?t?]
+n.需要；必然(性)；必需品
+$neck
+[nek]
+n.脖子，颈
+$need
+[ni:d]
+aux.v.必须 n.需要，必须，贫困 vt.需要
+$needle
+['ni:dl]
+n.针，指针
+$negative
+['neg?t?v]
+a.否定的；消极的；负的 n.否定词；底片
+$neglect
+[n?'glekt]
+vt.疏忽，忽视，忽略
+$negotiate
+[n?'g????e?t]
+vt.谈判；成功越过 vi.谈判，协商
+$Negro
+['ni:gr??]
+n.黑人 a.黑人的
+$neighbor
+['ne?b?]
+n.邻居 v.邻近，邻接
+$neighborhood
+['ne?b?h?d]
+n.近邻，街坊；附近地区
+$neighbour
+['ne?b?(r)]
+n.邻居，邻国 v.邻近，邻接
+$neighbourhood
+['ne?b?h?d]
+n.邻近，附近地方；地段，四邻
+$neither
+['na?e?(r)]
+a.(两者)都不 prep.两者中无一
+$nephew
+['nefju:]
+n.侄儿，外甥
+$nerve
+[n?:v]
+n.神经；勇气
+$nervous
+['n?:v?s]
+a.神经的；神经紧张的
+$nest
+[nest]
+n.巢 v.筑巢
+$net
+[net]
+n.网状物；罗网 vt.用网去捕 a.净的，纯的
+$network
+['netw?:k]
+n.网状组织；网状系统；广播(电视)网
+$neutral
+['nju:tr?l]
+a.中立的；中性的；公平的 n.中立者
+$never
+['nev?(r)]
+ad.从不，永不，决不，从来没有
+$nevertheless
+[Xnev?e?'les]
+conj.然而，不过 ad.仍然，不过
+$new
+[nju:]
+a.新的；没经验的；重新开始的；新发现的
+$news
+[nju:z]
+n.新闻
+$newspaper
+['nju:zpe?p?(r)]
+n.报纸
+$next
+[nekst]
+ad.其次 a.下一个 prep.靠近 n.下一个
+$nice
+[na?s]
+a.美好的；正派的；令人高兴的；细微的
+$niece
+[ni:s]
+n.侄女，外甥女
+$night
+[na?t]
+n.夜晚；黑暗，黑夜
+$nightmare
+['na?tme?(r)]
+n.恶梦；恐怖的经历，可怕的事件
+$nine
+[na?n]
+num.九
+$nineteen
+[Xna?n'ti:n]
+num.十九
+$ninety
+['na?nt?]
+num.九十
+$ninth
+[na?nθ]
+num.第九
+$nitrogen
+['na?tr?d??n]
+n.氮
+$no
+[n??]
+ad.不；并不 a.毫不；并非；不许 n.不
+$noble
+['n??bl]
+a.高尚的；贵族的 n.贵族
+$nobody
+['n??b?d?]
+pron.谁也不 n.小人物，无足轻重的人物
+$nod
+[n?d]
+v.&n.点头；表示同意；打瞌睡
+$noise
+[n??z]
+n.噪声，喧闹声
+$noisy
+['n??z?]
+a.嘈杂的，喧闹的
+$none
+[n?n]
+pron.没有一个，无一 ad.一点也不
+$nonsense
+['n?ns?ns]
+n.废话，胡说；愚蠢的行为 int.胡说，废话
+$noodle
+['nu:dl]
+n. (常用复数)面条
+$noon
+[nu:n]
+n.中午，正午
+$nor
+[n?:(r)]
+conj.也不，也没有
+$normal
+['n?:ml]
+a.正常的，标准的；精神健全的
+$normally
+['n?:m?l?]
+ad.正常地，正常情况下
+$north
+[n?:θ]
+n.北，北方 a.北的 ad.向北方
+$northeast
+['n?:θ'i:st]
+n.东北 a.东北的，在东北的 ad.向东北
+$northern
+['n?:e?n]
+a.北部的，来自北方的，向北的
+$northwest
+['n?:θ'west]
+n.西北 a.西北的，在西北的 ad.向西北
+$nose
+[n??z]
+n.鼻子 vt.闻出，探出 vi.嗅，闻
+$not
+[n?t]
+ad.不，不是，不会
+$note
+[n??t]
+n.笔记；注释；便条；纸币；名望 vt.记下
+$notebook
+['n??tb?k]
+n.笔记本
+$nothing
+['n?θ??]
+pron.什么也没有 n.微不足道的人或事
+$notice
+['n??t?s]
+n.通知；注意 v.注意到
+$noticeable
+['n??t?s?bl]
+a.显而易见的，显著的；值得注意的
+$notify
+['n??t?fa?]
+vt.通知，报告
+$notion
+['n????n]
+n.概念，想法；打算，意图
+$noun
+[na?n]
+n.名词
+$novel
+['n?vl]
+a.新奇的 n.长篇小说
+$November
+[n??'vemb?(r)]
+n.十一月
+$now
+[na?]
+ad.现在；立刻 n.现在 conj.既然
+$nowadays
+['na??de?z]
+ad.现今，现在
+$nowhere
+['n??we?(r)]
+ad.任何地方都不
+$nuclear
+['nju:kl??(r)]
+a.原子核的；核心的，中心的
+$nucleus
+['nju:kl??s]
+n.(原子)核；核心，中心
+$nuisance
+['nju:sns]
+n.讨厌的东西
+$number
+['n?mb?(r)]
+n.数量；号码 vt.给…编号码 vi.总计
+$numerous
+['nju:m?r?s]
+a.为数众多的，许多
+$nurse
+[n?:s]
+n.护士，保姆 vt.护理，照料；养育，喂养
+$nursery
+['n?:s?r?]
+n.托儿所；苗圃
+$nut
+[n?t]
+n.坚果；螺母
+$nylon
+['na?l?n]
+n.尼龙
+$obey
+[?'be?]
+v.服从，遵守
+$object
+['?bd??kt]
+n.物体；目的；对象 v.不赞成，反对
+$objection
+[?b'd?ek?n]
+n.反对，异议
+$objective
+[?b'd?ekt?v]
+n.目标，宗旨 a.客观的；外界的，真实的
+$obligation
+[X?bl?'ge??n]
+n.义务，职责；恩惠
+$oblige
+[?'bla?d?]
+vt.迫使；施恩于；使感激
+$observation
+[X?bz?'ve??n]
+n.观察，注意；观察力；评论，意见
+$observe
+[?b'z?:v]
+vt.观察；遵守；评说 vi.注意；说，评论
+$observer
+[?b'z?:v?(r)]
+n.观察者，观察员；评述者
+$obstacle
+['?bst?kl]
+n.障碍，妨碍
+$obtain
+[?b'te?n]
+vt.获得，得到
+$obvious
+['?bv??s]
+a.显然的，明显的
+$occasion
+[?'ke??n]
+n.(重要的)场合；时机，机会
+$occasional
+[?'ke???nl]
+a.偶然的；特殊场合的
+$occupation
+[X?kj?'pe??n]
+n.职业，工作；占用，占领；消遣
+$occupy
+['?kj?pa?]
+vt.占用，占领；使忙碌
+$occur
+[?'k?:(r)]
+vi.出现，发生；想到
+$occurrence
+[?'k?r?ns]
+n.发生，事件，出现
+$ocean
+['???n]
+n.海洋；无限，无际
+$o'clock
+[?'kl?k]
+n. 点钟,钟头
+$October
+[?k't??b?(r)]
+n.十月
+$odd
+[?d]
+a.古怪的；奇数的；临时的；有零头的
+$of
+[?v]
+prep.…的，(属于)…的；在…之中
+$off
+[?f]
+ad.&a.脱离(的)；离去 prep.从…离开
+$offence
+[?'fens]
+n.过错；冒犯；引起反感的东西
+$offend
+[?'fend]
+vt.冒犯 ，触怒；使不悦
+$offense
+[?'fens]
+n.犯罪；冒犯；进攻；讨厌的东西
+$offensive
+[?'fens?v]
+a.攻击的；进攻性的 n.攻势，进攻
+$offer
+['?f?(r)]
+n.提出的价格 vt.提供 vi.出现；祭献
+$office
+['?f?s]
+n.办公室；服务处；官职
+$officer
+['?f?s?(r)]
+n.官员，办事员；军官
+$official
+[?'f??l]
+a.官方的；官员的 n.官员，高级职员
+$often
+['?f?n]
+ad.经常，常常
+$oil
+[??l]
+n.油，食油；石油 vt.给…涂(上)油
+$okay
+[X??'ke?]
+a./ad.对，好，可以 n.同意，许可
+$old
+[??ld]
+a.年老的；…岁的；长时间的；过去的
+$omit
+[?'m?t]
+v.省略，删去；忽略，忘记
+$on
+[?n]
+a.连接上 prep.在…上；靠近 ad.向前，继续
+$once
+[w?ns]
+ad.一次，曾经 conj.一…就… n.一次
+$one
+[w?n]
+num.一个 pron.一个人 a.一个的；某一…的
+$oneself
+[w?n'self]
+pron.自己，自身；亲自，本身
+$onion
+['?nj?n]
+n.洋葱
+$only
+['??nl?]
+ad.仅仅 a.唯一的；最好的 conj.可是
+$onto
+['?nt?]
+prep.到…上，在…上
+$open
+['??p?n]
+a.开的；开阔的；营业的 vt.开始 vi.开(放)
+$opening
+['??pn??]
+n.最初；空地；洞，孔，通道；(职位的)空缺
+$opera
+['?p?r?]
+n.歌剧
+$operate
+['?p?re?t]
+v.操作，(使)运转；起作用；动手术
+$operation
+[X?p?'re??n]
+n.运转；操作；手术；运算；作用
+$operational
+[X?p?'re???nl]
+a.操作的，动作的
+$operator
+['?p?re?t?(r)]
+n.操作员；(总机)接线员；(外科)手术员
+$opinion
+[?'p?nj?n]
+n.意见，看法，主张；舆论；(专家)鉴定
+$opponent
+[?'p??n?nt]
+n.对手，敌手；反对者
+$opportunity
+[X?p?'tju:n?t?]
+n.机会，时机
+$oppose
+[?'p??z]
+vt.反对；反抗
+$opposite
+['?p?z?t]
+a.对面的 ad.对立面 prep.在…的对面
+$optical
+['?pt?kl]
+a.光学的；视觉的，视力的
+$optimistic
+[X?pt?'m?st?k]
+a.乐观的，乐观主义的
+$option
+['?p?n]
+n.选择，选择权；(供)选择的事物
+$optional
+['?p??nl]
+a.可以任选的，非强制的
+$or
+[?:(r)]
+conj.或，或者；不然，否则；或者说，即
+$oral
+['?:r?l]
+a.口头的，口语的；口(部)的
+$orange
+['?r?nd?]
+a.橙的；橙色的 n.橙色；橙(树)
+$orbit
+['?:b?t]
+n.轨道；眼窝 v.环绕轨道动行
+$orchestra
+['?:k?str?]
+n.交响/管弦乐队
+$order
+['?:d?(r)]
+n.次序；正常状况；秩序；命令 v.命令
+$orderly
+['?:d?l?]
+a.整齐的，有条理的
+$ordinary
+['?:dnr?]
+a.普通的，平常的；平凡的
+$ore
+[?:(r)]
+n.矿石，矿砂
+$organ
+['?:g?n]
+n.器官；风琴；机构；喉舌
+$organic
+[?:'g?n?k]
+a.有机物的，有机体的；器官的
+$organisation
+[X?:g?na?'ze???n]
+n.组织，安排；团体；有机体
+$organise
+['?:g?na?z]
+vt.组织，安排；筹办
+$organism
+['?:g?n?z?m]
+n.生物，有机体
+$organization
+[X?:g?na?'ze??n]
+n.组织，安排；团体；有机体
+$organize
+['?:g?na?z]
+vt.组织，安排；筹办
+$origin
+['?r?d??n]
+n.起源，开端；出身，血统
+$original
+[?'r?d??nl]
+n.原型；原作品 a.最初的；新颖的；原版的
+$other
+['?e?(r)]
+a.其他的，别的 pron.其他的人或事
+$otherwise
+['?e?wa?z]
+ad.否则；在其它方面；另外 conj.否则
+$ounce
+[a?ns]
+n.盎司，英两；少量
+$our
+['a??(r)]
+pron.
+[we????????]
+我们的
+$ours
+[ɑ:z]
+pron.
+[we??????????]
+我们的
+$ourselves
+[ɑ:'selvz]
+pron.
+[????????]
+我们自己；我们亲自
+$out
+[a?t]
+ad.在外；彻底地；明显的 prep.通过
+$outcome
+['a?tk?m]
+n.结果，后果，成果
+$outdoor
+['a?td?:(r)]
+a.户外的，露天的，野外的
+$outer
+['a?t?(r)]
+a.外部的，外层的
+$outlet
+['a?tlet]
+n.出口，出路，通风口
+$outline
+['a?tla?n]
+n.轮廓；提纲 vt.画出轮廓；概括
+$outlook
+['a?tl?k]
+n.景色，风光；观点，见解；前景，前途
+$output
+['a?tp?t]
+n.产量，产品；输出功率，输出信号；排泄量
+$outset
+['a?tset]
+n.开端，开始
+$outside
+[Xa?t'sa?d]
+n./a.外面(的) ad.在外面 prep.在…外
+$outstanding
+[a?t'st?nd??]
+a.杰出的，显著的
+$outward
+['a?tw?d]
+a.外面的；公开的；向外的 ad.向外 n.外形
+$oval
+['??vl]
+a.卵形的，椭圆形的 n.卵形，椭圆形
+$oven
+['?vn]
+n.烤箱，炉灶
+$over
+['??v?(r)]
+prep.在…上面；跨越 ad.结束；(越)过
+$overall
+[X??v?r'?:l]
+a.综合的；全面的 n.(pl.)工装裤，工作服
+$overcoat
+['??v?k??t]
+n.外衣，大衣
+$overcome
+['??v?'k?m]
+vt.战胜，压倒
+$overhead
+['??v?hed]
+a.在头顶上的，悬空的 n.间接开支
+$overlook
+['??v?'l?k]
+vt.眺望，俯瞰；忽略，漏掉；宽容
+$overnight
+[X??v?'na?t]
+ad./a.通宵(的)，一夜(的)
+$overseas
+[X??v?'si:z]
+ad.&a.到国外(的)，到海外(去的)
+$overtake
+[X??v?'te?k]
+vt.赶上，超过；突然降临于
+$owe
+[??]
+vt.欠…的钱；把…归功于；应感谢 vi.欠钱
+$owing
+['????]
+a.欠着的；应给予的
+$own
+[??n]
+vt.拥有 a.自己的
+$owner
+['??n?(r)]
+n.所有人，物主
+$ownership
+['??n???p]
+n.所有权，所有制
+$ox
+[?ks]
+n.牛；公牛
+$oxygen
+['?ks?d??n]
+n.氧, 氧气
+$pace
+[pe?s]
+n.步子；速度 v.踱步(于…)；用步子量
+$pack
+[p?k]
+n.背包；大量 vt.捆扎 vi.包装
+$package
+['p?k?d?]
+n.包裹；包装用品 vt.打包，包装
+$packet
+['p?k?t]
+n.小包裹，小捆
+$pad
+[p?d]
+n.垫，衬垫 vt.加衬垫，填塞
+$page
+[pe?d?]
+n.页，张
+$pain
+[pe?n]
+n.疼痛；(精神上的)痛苦；努力，辛苦
+$painful
+['pe?nfl]
+a.疼的，痛苦的；费力的，费心的
+$paint
+[pe?nt]
+v.绘；描绘 n.绘画作品；油漆；颜料
+$painter
+['pe?nt?(r)]
+n.油漆匠，画家
+$painting
+['pe?nt??]
+n.绘画，油画
+$pair
+[pe?(r)]
+n.一对，一双；夫妇 vt.使成双，使配对
+$palace
+['p?l?s]
+n.宫殿，华丽大厦
+$pale
+[pe?l]
+a.苍白的，灰白的；淡的，暗淡的
+$palm
+[pɑ:m]
+n.手掌，手心；棕榈(树)
+$pan
+[p?n]
+n.平底锅
+$panel
+['p?nl]
+n.专门问题小组；面；仪表盘；嵌板
+$panic
+['p?n?k]
+n.惊慌 a.恐慌的 v.(使)恐慌
+$pants
+[p?nts]
+n.裤子
+$paper
+['pe?p?(r)]
+n.纸；报纸；文章；考卷；票据
+$parade
+[p?'re?d]
+n.&v.游行；检阅
+$paragraph
+['p?r?grɑ:f]
+n.段，节；(报刊的)短讯
+$parallel
+['p?r?lel]
+a.与…平行的；类似的 n.平行线
+$parcel
+['pɑ:sl]
+n.包裹 vt.打包
+$pardon
+['pɑ:dn]
+n./vt.原谅，饶恕，赦免
+$parent
+['pe?r?nt]
+n.父亲，母亲；动(植)物的母体；起源
+$park
+[pɑ:k]
+n.公园；停车场 v.停放(车辆)
+$parliament
+['pɑ:l?m?nt]
+n.议会，国会
+$part
+[pɑ:t]
+n.部分；职责 vt.分；断绝(关系) vi.分开
+$partial
+['pɑ:??l]
+a.部分的；有偏心的；偏爱的
+$participate
+[pɑ:'t?s?pe?t]
+vi.参加
+$particle
+['pɑ:t?kl]
+n.粒子，微粒；极小量
+$particular
+[p?'t?kj?l?(r)]
+a.特别的；挑剔的 n.(pl.)细节
+$particularly
+[p?'t?kj?l?l?]
+ad.特别，尤其
+$partly
+['pɑ:tl?]
+ad.部分地，在一定程度上
+$partner
+['pɑ:tn?(r)]
+n.合作者；配偶
+$party
+['pɑ:t?]
+n.社交聚会；党，政党；一组，一伙人
+$pass
+[pɑ:s]
+v.经过；通过  n.考试及格；通行证；关口
+$passage
+['p?s?d?]
+n.通道；(文章的)段落，节
+$passenger
+['p?s?nd??(r)]
+n.乘客，旅客
+$passion
+['p??n]
+n.爱情，激情；大怒，激怒
+$passive
+['p?s?v]
+a.被动的；消极的
+$passport
+['pɑ:sp?:t]
+n.护照
+$past
+[pɑ:st]
+prep.越过，经过 n.过去 a.过去的
+$paste
+[pe?st]
+n.糊，浆糊 v.粘，贴
+$pat
+[p?t]
+n.轻轻拍打 v.轻拍，轻打
+$patch
+[p?t?]
+n.补钉，补块；斑片，碎片 vi.缝补，修补
+$path
+[pɑ:θ]
+n.小路，小径；路线，轨道，路程
+$patience
+['pe??ns]
+n.耐心
+$patient
+['pe??nt]
+a.有耐心的，能忍受的 n.病人
+$pattern
+['p?tn]
+n.图案；形式；模范 vt.仿制，模仿
+$pause
+[p?:z]
+n.暂停 vi.暂停
+$paw
+[p?:]
+n.爪
+$pay
+[pe?]
+v.支付，缴纳；付清；给予 n.薪水，工钱
+$payment
+['pe?m?nt]
+n.支付；偿付的款项；报应
+$pea
+[pi:]
+n.豌豆
+$peace
+[pi:s]
+n.和平；宁静；和好；治安
+$peaceful
+['pi:sfl]
+a.和平的；安宁的；和平时期
+$peach
+[pi:t?]
+n.桃(树)
+$peak
+[pi:k]
+n.山顶；最高点 a.最高的，高峰的
+$pear
+[pe?(r)]
+n.梨(树)
+$peasant
+['peznt]
+n.农民；没受教育的人，乡巴佬
+$peculiar
+[p?'kju:l??(r)]
+a.特有的，特别的；奇怪的
+$peer
+[p??(r)]
+v.偷看，窥探 n.同辈，伙伴
+$pen
+[pen]
+n.钢笔，蘸水笔
+$penalty
+['pen?lt?]
+n.罚，惩罚；刑罚，罚款
+$pencil
+['pensl]
+n.铅笔
+$penetrate
+['pen?tre?t]
+v.穿透，渗入，看穿
+$penny
+['pen?]
+n.便士
+$pension
+['pen?n]
+n.抚恤金，养老金，津贴
+$people
+['pi:pl]
+n.人们；人民；民族
+$pepper
+['pep?(r)]
+n.胡椒；辣椒
+$per
+[p?(r)]
+prep.每；经，由，靠
+$perceive
+[p?'si:v]
+v.认识到，觉察出；理解，领悟
+$percent
+[p?'sent]
+n.百分之…
+$percentage
+[p?'sent?d?]
+n.百分数，百分率；比例，部分
+$perception
+[p?'sep?n]
+n.感觉，觉察(力)
+$perfect
+['p?:f?kt]
+a.完美的；极好的；完全的 vt.使完美
+$perform
+[p?'f?:m]
+v.履行，完成，做；演出，表演
+$performance
+[p?'f?:m?ns]
+n.履行，完成；演出，表演
+$perhaps
+[p?'h?ps]
+ad.也许，大概，可能
+$period
+['p??r??d]
+n.一段时间，时期；学时，课时；周期，句点
+$permanent
+['p?:m?n?nt]
+n.永久的，持久的
+$permission
+[p?'m??n]
+n.同意，许可，允许
+$permit
+[p?'m?t]
+v.允许 n.许可(证)，执照
+$persist
+[p?'s?st]
+vi.(in)坚持，不屈不挠
+$person
+['p?:sn]
+n.人；身体；人称
+$personal
+['p?:s?nl]
+a.个人的，私人的；身体的；亲自的
+$personality
+[Xp?:s?'n?l?t?]
+n.人格；个性；名人，人物
+$personnel
+[Xp?:s?'nel]
+n.全体人员；人事(部门)
+$perspective
+[p?'spekt?v]
+n.远景，前途；视角；透视图，透视画法
+$persuade
+[p?'swe?d]
+vt.说服，劝服
+$pessimistic
+[Xpes?'m?st?k]
+a.悲观的，悲观主义的，厌世的
+$pet
+[pet]
+n.宠物，宠儿
+$petrol
+['petr?l]
+n.汽油
+$petroleum
+[p?'tr??l??m]
+n.石油
+$phase
+[fe?z]
+n.阶段；方面；相位 vt.使分段进行
+$phenomenon
+[f?'n?m?n?n]
+n.现象
+$philosopher
+[f?'l?s?f?(r)]
+n.哲学家，哲人
+$philosophy
+[f?'l?s?f?]
+n.哲学
+$phone
+[f??n]
+n.电话(机)；受话器，耳机 v.打电话
+$photo
+['f??t??]
+(=photograph) n.照片
+$photograph
+['f??t?grɑ:f]
+n.照片
+$phrase
+[fre?z]
+n.短语，习惯用语
+$physical
+['f?z?kl]
+a.身体的；物质的；物理的；自然(界)的
+$physician
+[f?'z??n]
+n.内科医生
+$physicist
+['f?z?s?st]
+n.物理学家
+$physics
+['f?z?ks]
+n.物理(学)
+$piano
+['pjɑ:n??]
+n.钢琴
+$pick
+[p?k]
+n.镐 v.挑选；采，摘；剔除
+$picnic
+['p?kn?k]
+n.野餐，郊游 vi.(去)野餐
+$picture
+['p?kt??(r)]
+n.画，图画，照片；图像，画面；影片
+$pie
+[pa?]
+n.馅饼
+$piece
+[pi:s]
+n.块，片，段；一件，一张 v.拼凑，拼合
+$pierce
+[p??s]
+v.刺穿；看穿，洞察
+$pig
+[p?g]
+n.猪
+$pigeon
+['p?d??n]
+n.鸽子
+$pile
+[pa?l]
+n.堆，叠；大量 v.堆，堆积；拥挤进(入)
+$pill
+[p?l]
+n.药丸
+$pillar
+['p?l?(r)]
+n.柱，支柱；栋梁
+$pillow
+['p?l??]
+n.枕头
+$pilot
+['pa?l?t]
+n.飞机驾驶员；领航员 v.驾驶(飞机等)
+$pin
+[p?n]
+n.别针；胸针 vt.(用别针)别住
+$pinch
+[p?nt?]
+vt.捏，拧；夹痛 n.拧；困苦，经济困难
+$pine
+[pa?n]
+n.松树
+$pink
+[p??k]
+n.粉红色 a.粉红色的
+$pint
+[pa?nt]
+n.品脱(流量单位)
+$pioneer
+[Xpa??'n??(r)]
+n.先驱，倡导者，开拓者
+$pipe
+[pa?p]
+n.管子，烟斗，管乐器
+$pit
+[p?t]
+n.坑；深渊；陷井；煤矿
+$pitch
+[p?t?]
+n.沥青；球场；音高；程度 v.投；定调
+$pity
+['p?t?]
+n.怜悯，同情；遗憾的事 v.可怜，同情
+$place
+[ple?s]
+n.地方；名次；地位；寓所 vt.放置
+$plain
+[ple?n]
+n.平原，旷野 a.明白的；朴素的
+$plan
+[pl?n]
+n.计划，打算；平面图 v.计划，打算；设计
+$plane
+[ple?n]
+n.飞机；平面；水准，水平
+$planet
+['pl?n?t]
+n.行星
+$plant
+[plɑ:nt]
+n.植物，作物；工厂 v.种植
+$plantation
+[plɑ:n'te??n]
+n.种植园，大农场
+$plastic
+['pl?st?k]
+n.(pl.)塑料，塑料制品 a.塑料的
+$plate
+[ple?t]
+n.盘子；钢板 vt.镀上，电镀
+$platform
+['pl?tf?:m]
+n.讲台；站台，平台；政纲，党纲
+$play
+[ple?]
+n.游戏；剧本；比赛 v.游戏；演奏；扮演
+$playground
+['ple?gra?nd]
+n.操场，游乐场
+$pleasant
+['pleznt]
+a.令人愉快的，合意的；举止文雅的
+$please
+[pli:z]
+int.请 vt.使高兴 vi.满意；喜欢，想要
+$pleasure
+['ple??(r)]
+n.愉快，满足；乐趣；乐事
+$pledge
+[pled?]
+n.誓约；保证物 vt.发誓；抵押
+$plentiful
+['plent?fl]
+a.富裕的，丰富的
+$plenty
+['plent?]
+n.丰富，充足
+$plot
+[pl?t]
+n.情节；阴谋 vt.密谋；标出 vi.密谋
+$plough
+[pla?]
+(=plow) n.犁 v.犁；费力地前进
+$plow
+[pla?]
+n.犁 v.犁，耕
+$plug
+[pl?g]
+n.塞子，插头 v.堵，塞住
+$plunge
+[pl?nd?]
+vt.使投入；使陷入 vi.投(入) n.跳水
+$plural
+['pl??r?l]
+n.&a.复数的
+$plus
+[pl?s]
+prep.加上 a.正的；附加的 n.加号
+$pocket
+['p?k?t]
+n.钱袋 a.袖珍的 vt.把…装入袋内
+$poem
+['p???m]
+n.诗
+$poet
+['p???t]
+n.诗人
+$poetry
+['p???tr?]
+n.诗歌，诗集
+$point
+[p??nt]
+n.尖；点；条款；分数 vi.指向；表明
+$poison
+['p??zn]
+n.毒物，毒药 vt.毒害，使中毒 a.有毒的
+$poisonous
+['p??z?n?s]
+a.有毒的，有害的；恶毒的，有恶意的
+$pole
+[p??l]
+n.柱，杆；地极，磁极，电极
+$police
+[p?'li:s]
+n.警察；(加the)警方，警察局
+$policeman
+[p?'li:sm?n]
+n.警察
+$policy
+['p?l?s?]
+n.政策，方针；保险单
+$polish
+['p?l??]
+n.上光蜡 vt.磨光，擦亮
+$polite
+[p?'la?t]
+a.有礼貌的，客气的；有教养的，文雅的
+$political
+[p?'l?t?kl]
+a.政治的
+$politician
+[Xp?l?'t??n]
+n.政治家，政客
+$politics
+['p?l?t?ks]
+n.政治，政治学
+$poll
+[p??l]
+n.选举；民意测验 v.(请…)投票
+$pollute
+[p?'lu:t]
+vt.弄脏，污染；使…堕落
+$pollution
+[p?'lu:?n]
+n.污染
+$pond
+[p?nd]
+n.池塘
+$pool
+[pu:l]
+n.水池 v.把…集中在一起
+$poor
+[p?:(r)]
+a.贫穷的；(比平时预计)少；可怜的；粗劣的
+$pop
+[p?p]
+a.流行的，通俗的 n.流行音乐
+$popular
+['p?pj?l?(r)]
+a.大众喜爱的；大众化的，普及的
+$population
+[Xp?pj?'le??n]
+n.人口；全体，总数；(人口的)聚居
+$pork
+[p?:k]
+n.猪肉
+$port
+[p?:t]
+n.港口
+$portable
+['p?:t?bl]
+a.轻便的；手提式的
+$porter
+['p?:t?(r)]
+n.搬运工人
+$portion
+['p?:?n]
+n.部分，一份
+$portrait
+['p?:tr?t]
+n.肖像，画像；描绘
+$pose
+[p??z]
+v.摆好姿势；提出(问题) n.姿势
+$position
+[p?'z??n]
+n.位置；职位；姿势；情况；看法；地位
+$positive
+['p?z?t?v]
+a.确实的；肯定的；正的，阳性的
+$possess
+[p?'zes]
+vt.拥有；具有；支配，控制；保持
+$possession
+[p?'ze?n]
+n.所有，占有；(pl.)占有物，财产
+$possibility
+[Xp?s?'b?l?t?]
+n.可能，可能性；可能的事
+$possible
+['p?s?bl]
+a.可能的；合理的；接受的，适应的
+$possibly
+['p?s?bl?]
+ad.也许，或许，可能
+$post
+[p??st]
+n.邮政；柱；岗位 v.公布；投寄
+$postage
+['p??st?d?]
+n.邮资
+$postcard
+['p??stkɑ:d]
+n.明信片
+$poster
+['p??st?(r)]
+n.招贴，海报
+$postman
+['p??stm?n]
+n.邮递员
+$postpone
+[p?'sp??n]
+vt.推迟
+$pot
+[p?t]
+n.罐，壶，盆
+$potato
+[p?'te?t??]
+n.马铃薯
+$potential
+[p?'ten?l]
+a.潜在的，可能的 n.潜在的可能，潜力
+$pound
+[pa?nd]
+n.镑，英镑
+$pour
+[p?:(r)]
+v.灌，倒，注，流出；蜂拥
+$poverty
+['p?v?t?]
+n.贫穷，贫困
+$powder
+['pa?d?(r)]
+n.粉末；火药，炸药
+$power
+['pa??(r)]
+n.力；功率；影响力；能力；权力
+$powerful
+['pa??f?l]
+a.强有力的；有权力的；作用大的
+$practical
+['pr?kt?kl]
+a.实践的；实用的；实际的；实用主义的
+$practically
+['pr?kt?kl?]
+ad.几乎，简直；实际上
+$practice
+['pr?kt?s]
+n.实习；习惯 vt.实践，实行vi.实践，实行
+$practise
+['pr?kt?s]
+n.练习；实行 v.练习；开业
+$praise
+[pre?z]
+n.表扬，称赞 v.表扬，赞扬
+$pray
+[pre?]
+v.祈祷；渴望，祈求
+$prayer
+[pre?]
+n.祈祷，祷告，祈文
+$precaution
+[pr?'k?:?n]
+n.预防，警惕，谨慎
+$preceding
+[pr?'si:d??]
+a.在前的，前面的
+$precious
+['pre??s]
+a.珍贵的，贵重的
+$precise
+[pr?'sa?s]
+a.精确的，准确的
+$precision
+[pr?'s??n]
+n.精确，精密 a.精确的
+$predict
+[pr?'d?kt]
+v.预言，预告，预测
+$preface
+['pref?s]
+n.序言，引言，前言
+$prefer
+[pr?'f?:(r)]
+v.更喜欢，宁愿
+$preferable
+['prefr?bl]
+a.更可取的，更好的
+$preference
+['prefr?ns]
+n.偏爱；优惠；选择权；优先权
+$pregnant
+['pregn?nt]
+a.怀孕的；充满的；意味深长的
+$prejudice
+['pred??d?s]
+n.偏见，成见
+$preliminary
+[pr?'l?m?n?r?]
+a.初步的 n.预备措施
+$preparation
+[Xprep?'re??n]
+n.准备，预备；安排，筹备；制剂
+$prepare
+[pr?'pe?(r)]
+v.准备，预备
+$preposition
+[Xprep?'z??n]
+n.介词
+$prescribe
+[pr?'skra?b]
+v.(医生)开(处方)；规定
+$presence
+['prezns]
+n.出席，到场；存在
+$present
+['preznt]
+a.出席的 n.现在；礼物 v.赠送；提出；上演
+$presentation
+[Xprezn'te??n]
+n.介绍，陈述，呈现；表现形式
+$presently
+['prezntl?]
+ad.不久，一会儿；现在，目前
+$preserve
+[pr?'z?:v]
+vt.保存，保藏；保护，维护；腌渍
+$president
+['prez?d?nt]
+n.总统；总裁；校长；会长
+$press
+[pres]
+vt.压，按；紧握；挤 n.报界；压榨机
+$pressure
+['pre??(r)]
+n.压力，强制；气压
+$presumably
+[pr?'zju:m?bl?]
+ad.推测上，大概
+$pretend
+[pr?'tend]
+vt.假装；自命，自称 vi.假装，装作
+$pretty
+['pr?t?]
+a.漂亮的，秀丽的 ad.相当，颇
+$prevail
+[pr?'ve?l]
+vt.胜过，获胜；流行，普遍
+$prevent
+[pr?'vent]
+v.预防，防止
+$previous
+['pri:v??s]
+a.先，以前的；在…之前
+$price
+[pra?s]
+n.价格，代价 vt.标价，定价
+$pride
+[pra?d]
+n.骄傲；自豪；自尊心 vt.以…为自豪
+$priest
+[pri:st]
+n.教士，教父
+$primarily
+[pra?'mer?l?]
+ad.主要地，首先
+$primary
+['pra?m?r?]
+a.首要的，主要的；基本的，初级的；最初的
+$prime
+[pra?m]
+a.主要的；最好的 n.鼎盛时期；青壮年时期
+$primitive
+['pr?m?t?v]
+a.原始的，早期的；简单的，粗糙的
+$prince
+[pr?ns]
+n.王子；(小国的)君主
+$princess
+[Xpr?n'ses]
+n.公主，王妃
+$principal
+['pr?ns?p(?)l]
+a.主要的，重要的 n.校长；资本，本金
+$principle
+['pr?ns?pl]
+n.原则，原理；道义，信念
+$print
+[pr?nt]
+v.印；印刷；出版 n.印痕；印刷；图片
+$prior
+['pra??(r)]
+a./ad.优先的，在前的，在…之前
+$priority
+[pra?'?r?t?]
+n.先，前，优先；优先考虑的事物；优先(权)
+$prison
+['pr?zn]
+n.监狱
+$prisoner
+['pr?zn?(r)]
+n.囚犯，俘虏
+$private
+['pra?v?t]
+a.私人的，个人的；秘密的，私下的
+$privilege
+['pr?v?l?d?]
+n.优惠，特许，特权 vt.给予…特权；特免
+$prize
+[pra?z]
+n.奖赏，奖金 vt.珍视，珍惜 a.得奖的
+$probable
+['pr?b?bl]
+a.很可能的，大概会的；有希望的
+$probably
+['pr?b?bl?]
+ad.大概，或许，很可能
+$problem
+['pr?bl?m]
+n.问题，疑难问题，须认真对付的困难
+$procedure
+[pr?'si:d??(r)]
+n.程序，手续；过程，步骤
+$proceed
+[pr?'si:d]
+vi.继续前进；继续(做某事)；开始进行
+$process
+[pr?'ses]
+n.过程；工序；诉讼 vt.加工，处理
+$procession
+[pr?'se?n]
+n.队伍，行列
+$produce
+[pr?'dju:s]
+vt.生产；制造；拿出 n.产品，农产品
+$product
+['pr?d?kt]
+n.产品，产物，乘积；成果；作品
+$production
+[pr?'d?k?n]
+n.生产，制造；生产量；产品，作品
+$profession
+[pr?'fe?n]
+n.专业，职业；表白
+$professional
+[pr?'fe??nl]
+a.职业的，专业的 n.职业选手
+$professor
+[pr?'fes?(r)]
+n.教授
+$profile
+['pr??fa?l]
+n.剖面；外形；人物简介 vt.画…侧面像简介
+$profit
+['pr?f?t]
+n.利润，盈利；利益，益处 v.从…得益
+$program
+['pr??gr?m]
+n.电脑程序；节目单；计划 v.编制程序
+$programme
+['pr??gr?m]
+n.程序；计划；节目(单) vt.为…编程序
+$progress
+['pr??gres]
+n./vt.前进，进展；进步，发展
+$progressive
+[pr?'gres?v]
+a.前进的；进步的 n.进步人士
+$prohibit
+[pr?'h?b?t]
+vt.禁止；阻止
+$project
+[pr?'d?ekt]
+n.方案；工程 vt.投掷；放映；设计
+$prominent
+['pr?m?n?nt]
+a.凸起的；显著的，杰出的
+$promise
+['pr?m?s]
+n.允诺，答应；有指望 v.允诺，诺言；希望
+$promote
+[pr?'m??t]
+vt.提升，提拔；发起，举办；宣传；促成
+$prompt
+[pr?mpt]
+vt.促使，激励 a.迅速的 ad.准时地
+$pronoun
+['pr??na?n]
+n.代词
+$pronounce
+[pr?'na?ns]
+v.发音；宣布
+$pronunciation
+[pr?Xn?ns?'e??n]
+n.发音，发音方法
+$proof
+[pru:f]
+n.证据，证明；校样 a.防…的，耐…的
+$proper
+['pr?p?(r)]
+a.适当的；正当的，符合体统的；本身的
+$property
+['pr?p?t?]
+n.财产，资产；财产权，所有权；特性
+$proportion
+[pr?'p?:?n]
+n.比例，比重；部分；均衡，相称
+$proportional
+[pr?'p?:??nl]
+a.比例的，均衡的
+$proposal
+[pr?'p??zl]
+n.建议；求婚
+$propose
+[pr?'p??z]
+vt.建议；打算 vi.求婚(to)
+$prospect
+['pr?spekt]
+n.前景，前途；景色，境界；预期
+$prosperity
+[pr?'sper?t?]
+n.兴旺，繁荣
+$prosperous
+['pr?sp?r?s]
+a.繁荣的，兴旺的
+$protect
+[pr?'tekt]
+vt.保护，保卫
+$protection
+[pr?'tek?n]
+n.保护
+$protective
+[pr?'tekt?v]
+a.保卫的，保护的；爱护至备的
+$protein
+['pr??ti:n]
+n.蛋白质
+$protest
+['pr??test]
+v./n.抗议，反对
+$proud
+[pra?d]
+a.骄傲的，自大的；自豪的，使人自豪的
+$prove
+[pru:v]
+v.证明，证实；证明是，表明是
+$provide
+[pr?'va?d]
+vt.提供，供给；规定
+$provided
+[pr?'va?d?d]
+conj.以…为条件，假如
+$province
+['pr?v?ns]
+n.省；(学术)领域，活动(范围)
+$provision
+[pr?'v??n]
+n.准备，预备；提供，供应；条款，规定
+$provoke
+[pr?'v??k]
+vt.引起；惹怒；煽动(行动)
+$psychological
+[Xsa?k?'l?d??kl]
+a.心理(上)的，心理学的
+$pub
+[p?b]
+n.小酒吧，小旅馆
+$public
+['p?bl?k]
+a.公共的；公开的；知名的 n.公众，民众
+$publication
+[Xp?bl?'ke??n]
+n.出版，发行；出版物；发表，公布
+$publicity
+[p?b'l?s?t?]
+n.众所周知，闻名；宣传，广告
+$publish
+['p?bl??]
+v.出版，刊印；公布，发表
+$pull
+[p?l]
+v.拖，拉；拔，采；拉伤 n.拉，拖；拉绳
+$pulse
+[p?ls]
+n.脉搏；脉冲 vi.博动，跳动
+$pump
+[p?mp]
+n.泵，抽水机，打气筒 vt.(用泵)抽水
+$punch
+[p?nt?]
+vt.猛击；冲压；穿孔 n.冲压机，穿孔机
+$punctual
+['p??kt???l]
+a.准时的，正点的，守时的
+$punish
+['p?n??]
+vt.惩罚；狠狠地对付，痛击
+$pupil
+['pju:pl]
+n.学生，小学生；(眼睛的)瞳孔
+$purchase
+['p?:t??s]
+vt.购买 n.购买；购买的物品
+$pure
+[pj??(r)]
+a.纯粹的；纯净的；无邪的；完全的
+$purple
+['p?:pl]
+a.紫色的
+$purpose
+['p?:p?s]
+n.目的，意图；意志，决心
+$purse
+[p?:s]
+n.钱包
+$pursue
+[p?'sju:]
+vt.追赶，追求；继续，从事
+$push
+[p??]
+v.推，推动；促使，催促 n.推；突袭
+$put
+[p?t]
+vt.放；记下；表达；使…进入(状态)
+$puzzle
+['p?zl]
+n.难题，谜 vt.使迷惑，使困惑
+$qualification
+[Xkw?l?f?'ke??n]
+n.资格，限定条件；合格证
+$qualify
+['kw?l?fa?]
+v.使合格；(对词义)限制，修饰
+$quality
+['kw?l?t?]
+n.质量；品质，特性
+$quantity
+['kw?nt?t?]
+n.数量，量；
+[??pl.]
+大量，大宗
+$quarrel
+['kw?r?l]
+n.&vi.争吵，吵架
+$quarter
+['kw?:t?(r)]
+n.四分之一；一刻钟；地区；(pl.)住处
+$queen
+[kwi:n]
+n.女王；(纸牌、国际象棋中的)王后
+$question
+['kwest??n]
+n.问题；待解决的问题；疑问 vt.询问
+$queue
+[kju:]
+n.队，列 vi.排队
+$quick
+[kw?k]
+a.快的，迅速的；敏捷的，伶俐的；性急的
+$quiet
+['kwa??t]
+a.安静的；宁静的 vt.使安静 vi.平静下来
+$quit
+[kw?t]
+vt.离开，退出；停止，放弃 vi.离开；辞职
+$quite
+[kwa?t]
+ad.完全，十分；相当地
+$quiz
+[kw?z]
+n.小测验；猜谜或问答节目 vt.进行测验
+$quotation
+[kw??'te??n]
+n.引语，语录
+$quote
+[kw??t]
+vt.引用；报价 vi.引用，引证
+$rabbit
+['r?b?t]
+n.兔子
+$race
+[re?s]
+n.民族；比赛 vi.全速前进 vt.和…比速度
+$racial
+['re??l]
+a.种族的，人种的
+$rack
+[r?k]
+n.架，行李架
+$radar
+['re?dɑ:(r)]
+n.雷达
+$radiation
+[Xre?d?'e??n]
+n.辐射(线/能)
+$radical
+['r?d?kl]
+a.激进的；彻底的；(数学)根的；基本的
+$radio
+['re?d???]
+n.收音机；无线电
+$rag
+[r?g]
+n.破布；(pl.)破烂衣服；低劣的报纸
+$rage
+[re?d?]
+n.大怒 vi.发怒；(指暴风雨等)猛烈地进行
+$raid
+[re?d]
+v.&n.袭击；突然搜查
+$rail
+[re?l]
+n.栏杆，围栏；铁轨；(pl.)铁路
+$railroad
+['re?lr??d]
+n.铁路
+$railway
+['re?lwe?]
+n.铁路
+$rain
+[re?n]
+n.雨；雨天 vi.下雨 vt.使…如雨而下
+$rainbow
+['re?nb??]
+n.虹，彩虹
+$raincoat
+['re?nk??t]
+n.雨衣
+$rainy
+['re?n?]
+a.下雨的；多雨的
+$raise
+[re?z]
+vt.抬起，举起；提出，发起；抚养；募集
+$rally
+['r?l?]
+n.大会，集合 v.把…集合起来
+$range
+[re?nd?]
+n.范围；(山)脉 vt.排列成行 vi.并列；延伸
+$rank
+[r??k]
+n.军衔；等级；排 vt.评级 vi.列入
+$rapid
+['r?p?d]
+a.快的，迅速的
+$rare
+[re?(r)]
+a.罕见的；稀薄的；(指肉)半熟的
+$rarely
+['re?l?]
+ad.很少地
+$rat
+[r?t]
+n.老鼠
+$rate
+[re?t]
+n.比率；等级；价格 vt.评级；列为
+$rather
+['rɑ:e?(r)]
+ad.有些；宁可；更确切地；相反地
+$ratio
+['re?????]
+n.比，比率，比例
+$rational
+['r??n?l]
+a.合理的；理性的
+$raw
+[r?:]
+a.生的；未加工的；未经训练的
+$ray
+[re?]
+n.光线，射线
+$reach
+[ri:t?]
+vt.到达；伸手 vi.达到 n.伸出；区域
+$react
+[r?'?kt]
+vi.反应；起作用，有影响；反抗
+$reaction
+[r?'?k?n]
+n.反应；化学反应，反作用(力)；反动
+$read
+[ri:d]
+v.阅读；看懂；明白
+$reader
+['ri:d?(r)]
+n.读者；读物，读本
+$readily
+['red?l?]
+ad.容易地；乐意地；很快地
+$reading
+['ri:d??]
+n.阅读，读书；读物，选读；读数
+$ready
+['red?]
+a.准备好的；乐意的；(思想、表达等)敏捷的
+$real
+[r??l]
+a.真的；现实的
+$realise
+['r??la?z]
+vt.认识到，了解；实现
+$realistic
+[Xri:?'l?st?k]
+a.现实(主义)的
+$reality
+[r?'?l?t?]
+n.实际存在的事物，现实
+$realize
+['ri:?la?z]
+vt.认识到，了解；实现
+$really
+['ri:?l?]
+ad.真正地，确实地
+$realm
+[relm]
+n.王国；领域，范围
+$rear
+[r??(r)]
+a.后方的 n.后部 v.(马)用后腿站立
+$reason
+['ri:zn]
+n.理由；理性：理智 vt.论证；劝说 vi.推理
+$reasonable
+['ri:zn?bl]
+a.合情理的；通情达理的；(价钱)公道的
+$rebel
+['rebl]
+vi.反抗；抵抗 n.反叛者
+$recall
+[r?'k?:l]
+vt.&n.回想，忆起；收回，召回
+$receipt
+[r?'si:t]
+n.收据，收条；收到
+$receive
+[r?'si:v]
+v.收到，接到；蒙受，受到；接见
+$receiver
+[r?'si:v?(r)]
+n.受话器；接收机(器)；收到…的人
+$recent
+['ri:snt]
+a.最近的，近来的；近代的
+$recently
+['ri:sntl?]
+ad.最近，近来
+$reception
+[r?'sep?n]
+n.接待(室)；招待会；接收(效果)
+$recession
+[r?'se?n]
+n.商业萧条时期，不景气；退却，后退
+$reckon
+['rek?n]
+v.考虑，认为；想，料想；计算
+$recognise
+['rek?gna?z]
+vt.承认，认可；认出，识别
+$recognition
+[Xrek?g'n??n]
+n.认出，识别；承认；公认，重视
+$recognize
+['rek?gna?z]
+vt.识别；承认；公认
+$recommend
+[Xrek?'mend]
+vt.推荐；建议；使受欢迎；托付
+$recommendation
+[Xrek?men'de??n]
+n.推荐(信)，介绍(信)；建议，劝告
+$record
+['rek?:d]
+n.记录；档案 v.记录；把(声音等)录下
+$recorder
+[r?'k?:d?(r)]
+n.录音机，记录器；记录者
+$recover
+[r?'k?v?(r)]
+vt.恢复，痊愈；收回，重新获得
+$recovery
+[r?'k?v?r?]
+n.恢复，痊愈；收回，复得
+$recreation
+[Xri:kr?'e??n]
+n.娱乐，消遣
+$recruit
+[r?'kru:t]
+v.征募新兵；补充 n.新兵，新成员
+$red
+[red]
+a.红的，红色的 n.红色；红色衣服
+$reduce
+[r?'dju:s]
+vt.缩小，减少；简化
+$reduction
+[r?'d?k?n]
+n.减少，缩减；(数学)约简
+$refer
+[r?'f?:(r)]
+vi.提到；查阅 vt.叫(人)去…；把…归因于
+$reference
+['refr?ns]
+n.参考，查阅；参考文献；介绍人；提及
+$refine
+[r?'fa?n]
+v.精炼，精制，提纯；使有教养，使文雅
+$reflect
+[r?'flekt]
+v.反射(光、热、声音、影像等)，反响；反映
+$reflection
+[r?'flek?n]
+n.反射，反映；倒影，映像；思考
+$reflexion
+[r?'flek??n]
+n.映象，倒影；反射；沉思，熟虑
+$reform
+[r?'f?:m]
+v.改革；改造；重新组成 n.改革；改过
+$refresh
+[r?'fre?]
+v.提神，振作；(使)清新
+$refrigerator
+[r?'fr?d??re?t?(r)]
+n.冰箱；冷藏室
+$refugee
+['refju:'d?i:]
+n.(政治上的)避难者，难民
+$refusal
+[r?'fju:zl]
+n.拒绝
+$refuse
+[r?'fju:z]
+v.拒绝，谢绝 n.废料，垃圾
+$regard
+[r?'gɑ:d]
+vt.把…看作；注意；对待 n.注意；尊敬
+$regarding
+[r?'gɑ:d??]
+prep.关于
+$regardless
+[r?'gɑ:dl?s]
+a.不管…的 ad.不顾一切地，不管怎样
+$region
+['ri:d??n]
+n.地区，区域；领域，范围
+$register
+['red??st?(r)]
+n.登记；挂号 v.登记；挂号邮寄
+$regret
+[r?'gret]
+vt.后悔；遗憾 vi.感到懊悔 n.懊悔
+$regular
+['regj?l?(r)]
+a.定期的，有规律的；正规的；匀称的
+$regulate
+['regj?le?t]
+vt.管理，控制；调整，校准
+$regulation
+[Xregj?'le??n]
+n.调整，调节；规则，规定
+$reinforce
+[Xri:?n'f?:s]
+vt.加强，加固；增援
+$reject
+['ri:d?ekt]
+vt.拒绝接受，抵制，驳回
+$relate
+[r?'le?t]
+vt.使有联系；叙述，讲 vi.与…有关系
+$relation
+[r?'le??n]
+n.家人，亲戚；关系；叙述，陈述
+$relationship
+[r?'le??n??p]
+n.关系；亲属关系
+$relative
+['rel?t?v]
+a.相对的 n.亲戚
+$relativity
+[Xrel?'t?v?t?]
+n.相对论；相关性
+$relax
+[r?'l?ks]
+vt.使放松；缓和，放宽 vi.放松；松懈
+$release
+[r?'li:s]
+vt./n.释放；发行，发表；免除
+$relevant
+['rel?v?nt]
+a.相关的，切题的；中肯的，恰当的
+$reliable
+[r?'la??bl]
+a.可靠的；确实的
+$relief
+[r?'li:f]
+n.(痛苦、烦恼等的)解除；救济；浮雕
+$relieve
+[r?'li:v]
+vt.减轻；免除；救济 vi.救济，成浮雕
+$religion
+[r?'l?d??n]
+n.宗教
+$religious
+[r?'l?d??s]
+a.宗教的
+$reluctant
+[r?'l?kt?nt]
+a.不愿意的，勉强的
+$rely
+[r?'la?]
+vi.依靠
+$remain
+[r?'me?n]
+vi.停留，留下；保持，依然
+$remark
+[r?'mɑ:k]
+n.评论，意见；注意 vt.说；注意 vi.评论
+$remarkable
+[r?'mɑ:k?bl]
+a.显著的，了不起的
+$remedy
+['rem?d?]
+n.疗法；药品 vt.治疗；补救，纠正
+$remember
+[r?'memb?(r)]
+vt.记起；牢记 vi.记得，记起
+$remind
+[r?'ma?nd]
+vt.提醒，使想起
+$remote
+[r?'m??t]
+a.遥远的；偏僻的
+$removal
+[r?'mu:vl]
+n.拿走，搬走；除掉；撤职
+$remove
+[r?'mu:v]
+n.消除，去掉；搬走，运走；搬迁
+$render
+['rend?(r)]
+vt.使变得；给予；翻译；表演，演奏
+$renew
+[r?'nju:]
+v.继续，重新开始；使更新，更换
+$rent
+[rent]
+n.租金 vt.租用；出租 vi.出租
+$repair
+[r?'pe?(r)]
+vt.修理；补救 n.修理，修补；维修状况
+$repeat
+[r?'pi:t]
+vt.重说；重复；背诵 vi.重述 n.重复；重播
+$repeatedly
+[r?'pi:t?dl?]
+a.反复地，再三地
+$repetition
+[Xrep?'t??n]
+n.重复，反复
+$replace
+[r?'ple?s]
+v.代替；把…放回原处；归还
+$replacement
+[r?'ple?sm?nt]
+n.替代；替代物
+$reply
+[r?'pla?]
+n.回答，答复
+$report
+[r?'p?:t]
+vt.&n.报告，报道；汇报 vi.报到；报告
+$reporter
+[r?'p?:t?(r)]
+n.记者，新闻广播员
+$represent
+[Xrepr?'zent]
+vt.代表；象征；描绘，说明；声称
+$representative
+[Xrepr?'zent?t?v]
+n.代表 a.代表性的；代理的
+$reproduce
+[Xri:pr?'dju:s]
+v.使再生；复制；生殖
+$republic
+[r?'p?bl?k]
+n.共和国，共和政体
+$republican
+[r?'p?bl?k?n]
+a.共和政体的 n.共和党人
+$reputation
+[Xrepj?'te??n]
+n.名声；好名声，声望
+$request
+[r?'kwest]
+n.&vt.请求；需要
+$require
+[r?'kwa??(r)]
+vt.要求，需求
+$requirement
+[r?'kwa??m?nt]
+n.要求，需求
+$rescue
+['reskju:]
+vt./n.救援
+$research
+[r?'s?:t?]
+n.&vi.探讨，研究
+$resemble
+[r?'zembl]
+vt.类似，象
+$reservation
+[Xrez?'ve??n]
+n.保留(条件)；预定
+$reserve
+[r?'z?:v]
+vt.储备；预定 n.储备(物)；保留地；节制
+$reservoir
+['rez?vwɑ:(r)]
+n.水库，蓄水池
+$residence
+['rez?d?ns]
+n.住处，住宅；居住居留；居住期间
+$resident
+['rez?d?nt]
+n.居民；住院医生 a.居住的，住宅的
+$resign
+[r?'za?n]
+v.辞职；辞去，放弃；使顺从
+$resist
+[r?'z?st]
+vt.抵抗，反抗
+$resistance
+[r?'z?st?ns]
+n.阻力，抵抗；电阻
+$resistant
+[r?'z?st?nt]
+a.有抵抗力的
+$resolution
+[Xrez?'lu:?n]
+n.决议(案)；决心，决定
+$resolve
+[r?'z?lv]
+vt.解决；决定；决议；分解 n.决心
+$resort
+[r?'z?:t]
+vi.求助于，凭借；常去 n.常去之地，胜地
+$resource
+[r?'s?:s]
+n.(pl.)资源，财源；机智，智谋
+$respect
+[r?'spekt]
+n.尊敬；关心；方面 vt.尊敬；考虑
+$respective
+[r?'spekt?v]
+a.各自的
+$respectively
+[r?'spekt?vl?]
+ad.独自地；个别的，分别的
+$respond
+[r?s'p?nd]
+vi.回答；响应，反应
+$response
+[r?'sp?ns]
+n.回答，回应；反应，反响
+$responsibility
+[r?Xsp?ns?'b?l?t?]
+n.责任，职责
+$responsible
+[r?'sp?ns?bl]
+a.应负责的，有责任心的
+$rest
+[rest]
+n.剩余部分；其余的人
+$restaurant
+['restr?nt]
+n.餐馆，饭店
+$restless
+['restl?s]
+a.不安宁的，焦虑的
+$restore
+[r?'st?:(r)]
+vt.把…恢复原状；归还，交还
+$restrain
+[r?'stre?n]
+vt.控制，抑制；阻止
+$restraint
+[r?'stre?nt]
+n.抑制，克制；克制物
+$restrict
+[r?'str?kt]
+vt.限制，约束
+$result
+[r?'z?lt]
+n.结果；答案，答数 vi.起因于；导致
+$resume
+[r?'zju:m]
+n.摘要；简历
+$retail
+['ri:te?l]
+n.零售 v.零售 a.零售的
+$retain
+[r?'te?n]
+vt.保留，保持；挡住；聘
+$retire
+[r?'ta??(r)]
+vi.退休，退职；退下，离开；隐居，隐退
+$retreat
+[r?'tri:t]
+n.撤退，退却；安静的地方 v.撤退，退却
+$return
+[r?'t?:n]
+vi./n.回去；还 vt.归还；回报 a.回程的
+$reveal
+[r?'vi:l]
+vt.显示，显露；泄露，揭发
+$revenue
+['rev?nju:]
+n.税收
+$reverse
+[r?'v?:s]
+v.颠倒，倒转；使倒退 n./a.颠倒(的)
+$review
+[r?'vju:]
+vt./n.回顾，审视；复飞；评论 vi.评论
+$revise
+[r?'va?z]
+vt.修订，修正；复习
+$revolt
+[r?'v??lt]
+v.起义，造反；厌恶，反感 n.反抗，造反
+$revolution
+[Xrev?'lu:?n]
+n.革命，大变革；旋转；周期，循环
+$revolutionary
+[Xrev?'lu:??n?r?]
+a.革命的，大变革的；旋转的 n.革命者
+$reward
+[r?'w?:d]
+n.回报，报答；报酬，酬金 vt.报答，酬谢
+$rhythm
+['r?e?m]
+n.节奏，韵律；有规律的循环运动
+$rib
+[r?b]
+n.肋骨
+$ribbon
+['r?b?n]
+n.条带，带子
+$rice
+[ra?s]
+n.稻米，米饭
+$rich
+[r?t?]
+a.富有的；丰富的；肥沃的 n.(pl.)财富
+$rid
+[r?d]
+vt.使摆脱，使排除
+$ride
+[ra?d]
+n.乘车，骑马 v.乘，骑
+$ridge
+[r?d?]
+n.山脊；鼻梁；分水岭
+$ridiculous
+[r?'d?kj?l?s]
+a.荒谬的，可笑的
+$rifle
+['ra?fl]
+n.步枪，来福枪
+$right
+[ra?t]
+a.右边的；正确的 n.右；权利 ad.对
+$rigid
+['r?d??d]
+a.僵硬的，刻板的；严格的
+$ring
+[r??]
+n.电话；铃声 vt.打电话 vi.按铃
+$riot
+['ra??t]
+n.骚乱，暴动 vi.闹事，骚乱
+$ripe
+[ra?p]
+a.成熟的
+$rise
+[ra?z]
+n.升高；上涨 vi.上升，上涨；起床
+$risk
+[r?sk]
+n./vt.(冒)风险
+$rival
+['ra?vl]
+n.竞争对手 a.竞争的 vt.与…竞争
+$river
+['r?v?(r)]
+n.江，河
+$road
+[r??d]
+n.道路，途径
+$roar
+[r?:(r)]
+vi.吼叫；轰隆震响；呼喊(声)
+$roast
+[r??st]
+v.烘烤 a.烘烤的 n.一大块烤肉
+$rob
+[r?b]
+vt.抢劫；非法剥夺，使丧失
+$robot
+['r??b?t]
+n.机器人
+$rock
+[r?k]
+n.岩石；摇摆 vt.摇动；使震惊 vi.摇动
+$rocket
+['r?k?t]
+n.火箭，由火箭推进的导弹，烟火
+$rod
+[r?d]
+n.棍，棒
+$role
+[r??l]
+n.角色；作用，任务
+$roll
+[r??l]
+vi.卷；摇晃 vt.使滚动；使摇摆 n.卷；名册
+$roller
+['r??l?(r)]
+n.滚筒，卷轴；压路机
+$romantic
+[r??'m?nt?k]
+a.罗曼蒂克的；多情的；不切实际的
+$roof
+[ru:f]
+n.顶，房顶，屋脊
+$room
+[ru:m]
+n.房间；空间；余地
+$root
+[ru:t]
+n.根，根源 vi.生根
+$rope
+[r??p]
+n.绳子，索；一串(珠宝)；吊刑，绞刑
+$rose
+[r??z]
+n.玫瑰，蔷薇；玫瑰色，玫瑰红
+$rotate
+[r??'te?t]
+v.(使)旋转；(使)轮流，(使)循环
+$rotten
+['r?tn]
+a.腐烂的，腐朽的；讨厌的，令人不快的
+$rough
+[r?f]
+a.表面粗糙的；粗野的；大致的 ad.粗暴地
+$round
+[ra?nd]
+a.圆的 prep.围着 ad.在周围 v.使成圆形
+$rouse
+[ra?z]
+vt.唤醒，惊醒；激发起
+$route
+[ru:t]
+n.路线；航程
+$routine
+[ru:'ti:n]
+a.例行的；平淡的 n.例行公事
+$row
+[r??]
+n.(一)排 v.划(船) n.吵架，口角
+$royal
+['r???l]
+a.皇家的，王室的；盛大的，堂皇的
+$rub
+[r?b]
+v.擦，摩擦；擦亮 n.擦，磨
+$rubber
+['r?b?(r)]
+n./a.橡胶(的)，橡皮
+$rubbish
+['r?b??]
+n.垃圾，废物；废话，胡说八道
+$rude
+[ru:d]
+a.粗糙的；粗鲁的；猛烈的
+$rug
+[r?g]
+n.小地毯；毛毯
+$ruin
+['ru:?n]
+vt./vi.毁灭；(使)破产 n.毁灭；(pl.)废墟
+$rule
+[ru:l]
+vt./vi.统治；裁决 n.规则；习惯；支配
+$ruler
+['ru:l?(r)]
+n.统治者；尺子，直尺
+$rumor
+['ru:m?]
+n.谣言，谣传；传说
+$rumour
+['ru:m?(r)]
+n.谣言，传闻
+$run
+[r?n]
+vi.跑；(车辆)行驶 vt.跑过 n.(赛)跑
+$rural
+['r??r?l]
+a.农村的，乡村的
+$rush
+[r??]
+v.赶忙；催促 n.冲；急忙；急流
+$rust
+[r?st]
+n.锈 v.生锈；(脑子)衰退
+$sack
+[s?k]
+n.袋；解雇；床 vt.解雇；掠夺
+$sacrifice
+['s?kr?fa?s]
+n.牺牲(品)；祭祀 vt.牺牲；祭祀 vi.祭祀
+$sad
+[s?d]
+a.悲伤的，忧愁的
+$saddle
+['s?dl]
+n.(马、自行车等的)鞍 vt.给(马等)装鞍
+$safe
+[se?f]
+a.安全的 n.保险箱
+$safety
+['se?ft?]
+n.安全
+$sail
+[se?l]
+n.帆；风车翼板 v.航行，乘船旅行；启航
+$sailor
+['se?l?(r)]
+n.水手，海员
+$saint
+[se?nt]
+n.圣人；(略作St.，用于人、地名前)圣…
+$sake
+[se?k]
+n.缘故，理由
+$salad
+['s?l?d]
+n.色拉，凉拌菜
+$salary
+['s?l?r?]
+n.薪金，工资
+$sale
+[se?l]
+n.出售，卖；贱卖；(pl.)销售额
+$salesman
+['se?lzm?n]
+n.售货员
+$salt
+[s?:lt]
+n.盐，氯化钠 vt.腌，加盐
+$same
+[se?m]
+a.相同的 pron.同样的人或事
+$sample
+['sɑ:mpl]
+n.样品，标本 vt.抽样检查
+$sanction
+['s??k?n]
+n.认可，许可；支持，赞成；制裁，处罚
+$sand
+[s?nd]
+n.沙；(pl.)沙滩 vt.(尤指用沙纸)磨光
+$sandwich
+['s?nw?t?]
+n.三明治，夹肉面包 v.夹入，挤进
+$satellite
+['s?t?la?t]
+n.卫星，人造卫星；卫星国
+$satisfaction
+[Xs?t?s'f?k?n]
+n.满足，满意
+$satisfactory
+[Xs?t?s'f?kt?r?]
+a.满意的，满足的
+$satisfy
+['s?t?sfa?]
+vt.满足，满意；符合
+$Saturday
+['s?t?de?]
+n.星期六
+$sauce
+[s?:s]
+n.调味品，酱油
+$saucer
+['s?:s?(r)]
+n.碟状物，茶碟
+$sausage
+['s?s?d?]
+n.香肠，腊肠
+$save
+[se?v]
+v.拯救；储蓄；保留；节省 prep.除了
+$saving
+['se?v??]
+n.节省，节约；(pl.)储蓄金，存款
+$saw
+[s?:]
+n.锯子 v.锯开
+$say
+[se?]
+v.说；说明 n.发言，意见；发言权
+$scale
+[ske?l]
+n.刻度；(pl.)天平 vt.攀登；按比例绘制
+$scan
+[sk?n]
+n.浏览，扫描 v.浏览，扫描
+$scandal
+['sk?ndl]
+n.丑闻，丑事
+$scarce
+[ske?s]
+a.稀少的，不足的
+$scarcely
+['ske?sl?]
+ad.几乎不；刚刚
+$scare
+[ske?(r)]
+n.惊恐，恐慌 vt.惊吓，吓唬
+$scatter
+['sk?t?(r)]
+v.驱散；散开，撒开
+$scene
+[si:n]
+n.风景，场景；(戏)一场
+$scenery
+['si:n?r?]
+n.风景，景色
+$schedule
+['?edju:l]
+n.计划；时刻表；一览表 vt.预定；制作…表
+$scheme
+[ski:m]
+n.计划，方案；阴谋 v.计划；密谋
+$scholar
+['sk?l?(r)]
+n.学者；持奖学金的人
+$scholarship
+['sk?l???p]
+n.奖学金；学问，学识
+$school
+[sku:l]
+n.学校；学派；上学；(鱼等的)群
+$science
+['sa??ns]
+n.科学，学科
+$scientific
+[Xsa??n't?f?k]
+a.科学的
+$scientist
+['sa??nt?st]
+n.科学家
+$scissors
+['s?z?z]
+n.剪子
+$scold
+[sk??ld]
+v.责骂，申斥
+$scope
+[sk??p]
+n.范围；理解力(范围)；发展余地
+$score
+[sk?:(r)]
+v.记录；记号 n.分数；二十；记号
+$scout
+[ska?t]
+n.侦察员；童子军 v.侦察，搜索
+$scrape
+[skre?p]
+v./n.刮, 擦
+$scratch
+[skr?t?]
+vt.搔；勾销 n.抓，搔；抓伤，擦伤
+$scream
+[skri:m]
+vi.尖叫 n.尖叫；引起捧腹大笑的人
+$screen
+[skri:n]
+n.屏风；屏(银)幕 vt.掩蔽；选拔
+$screw
+[skru:]
+n.螺丝；螺旋桨 v.拧紧；旋紧
+$script
+[skr?pt]
+n.剧本(原稿)；手稿，原稿；笔迹，手迹
+$sea
+[si:]
+n.海，洋；大量
+$seal
+[si:l]
+n.封条；图章 vt.密封；盖章于 n.海豹
+$search
+[s?:t?]
+v.搜，搜索 n.搜索，寻找
+$season
+['si:zn]
+n.季节；当令期，旺季 vt.加调味品
+$seat
+[si:t]
+n.座位，座席 vt.使入座，使就座
+$second
+['sek?nd]
+num.第二 a.第二的 n.第二人/物；秒；片刻
+$secondary
+['sek?ndr?]
+a.次要的；中级的；继发性的；第二期的
+$secret
+['si:kr?t]
+a.秘密的 n.秘密；秘诀
+$secretary
+['sekr?tr?]
+n.秘书，书记；部长，大臣
+$section
+['sek?n]
+n.节，段，部分；科室；截面，剖视图
+$sector
+['sekt?(r)]
+n.(尤指商业或贸易)部门；扇形面
+$secure
+[s?'kj??(r)]
+a.安全的，牢靠的 vt.得到；使安全
+$security
+[s?'kj??r?t?]
+n.安全
+$see
+[si:]
+vt.看；明白；经历 vi.理解
+$seed
+[si:d]
+n.种子；根源 v.给…播种；结籽
+$seek
+[si:k]
+v.寻找，寻求；试图，力图；请求，要求
+$seem
+[si:m]
+vi.似乎，好象
+$segment
+['segm?nt]
+n.部分，片，段 vt.分割
+$seize
+[si:z]
+vt.抢占；抓住；攻击 vi.(on,upon)利用
+$seldom
+['seld?m]
+ad.很少
+$select
+[s?'lekt]
+vt.选择，挑选 a.选择的，精选的
+$selection
+[s?'lek?n]
+n.选择，精选的人或物
+$self
+[self]
+n.自己，本身；私心
+$selfish
+['self??]
+a.自私的
+$sell
+[sel]
+vt.卖，出售；出卖，背叛 vi.卖，销售
+$semester
+[s?'mest?(r)]
+n.学期
+$semiconductor
+[Xsem?k?n'd?kt?(r)]
+n.半导体
+$seminar
+['sem?nɑ:(r)]
+n.研究小组，研讨会，(大学的)研究班
+$senate
+[sen?t]
+n.参议院；立法机构
+$senator
+['sen?t?(r)]
+n.参议员，上议员
+$send
+[send]
+vt.送；派遣；促使 vi.寄信；派人
+$senior
+['si:n??(r)]
+a.年长的；资格老的 n.长辈；上级，上司
+$sense
+[sens]
+n.意思；感觉；见识；意识 vt.觉得
+$sensible
+['sens?bl]
+a.明理的，明智的
+$sensitive
+['sens?t?v]
+a.敏感的，灵敏的；易怒的
+$sentence
+['sent?ns]
+n.句子；宣判，判决 vt.宣判，判决
+$separate
+['sepr?t]
+vt.使分开；区分 vi.分离 a.不同的；单独的
+$September
+[sep'temb?(r)]
+n.九月
+$sequence
+['si:kw?ns]
+n.连续，系列；次序，顺序
+$series
+['s??ri:z]
+n.系列，序列
+$serious
+['s??r??s]
+a.严肃的；严重的；认真的
+$servant
+['s?:v?nt]
+n.仆人，雇员
+$serve
+[s?:v]
+v.服务；服役；招待 vi.服役，任职
+$service
+['s?:v?s]
+n.服务；服侍；服役；维修；保养
+$session
+['se?n]
+n.会议；一次开会(或开庭)；一段时间
+$set
+[set]
+vt.放；调整 vi.(日、月等)落下；凝结
+$setting
+['set??]
+n.环境，背景；安装，装置
+$settle
+['setl]
+vt.解决；支付 vi.定居；下沉
+$settlement
+['setlm?nt]
+n.解决；移民，定居；清偿，结算
+$seven
+['sevn]
+num.七
+$seventeen
+[Xsevn'ti:n]
+num.十七
+$seventy
+['sevnt?]
+num.七十
+$several
+['sevr?l]
+a.几个，若干
+$severe
+[s?'v??(r)]
+a.严重的；严厉的；激烈的，困难的
+$sew
+[s??]
+v.缝纫
+$sex
+[seks]
+n.性别；性
+$sexual
+['sek???l]
+a.性别的；性欲的，性的
+$shade
+[?e?d]
+n.荫凉处；遮光物 vt.遮避 vi.(色彩等)渐变
+$shadow
+['??d??]
+n.阴影；暗处
+$shake
+[?e?k]
+v.震动；颤抖；握手 n.摇动，震动，抖动
+$shall
+[??l]
+aux.v.将，会；必须
+$shallow
+['??l??]
+a.浅的；肤浅的 n.(pl.)浅滩
+$shame
+[?e?m]
+n.耻辱，羞愧；可耻的人或物 vt.使羞愧
+$shape
+[?e?p]
+n.形状；情况 vt.使成形，塑造；实现
+$share
+[?e?(r)]
+vt.分享，分给 n.部分；股份；分担
+$sharp
+[?ɑ:p]
+a.锐利的；强烈的；敏锐的 ad.正好，恰
+$shave
+[?e?v]
+vt.剃，刮，削，修面，刮脸 n.刮脸
+$she
+[??]
+pron.她
+$shed
+[?ed]
+vt.脱落，脱去；流(泪、血)；(散)发出
+$sheep
+[?i:p]
+n.羊，绵羊
+$sheer
+[???(r)]
+a.纯粹的；陡峭的；轻的 ad.垂直地
+$sheet
+[?i:t]
+n.张，片，页；被单
+$shelf
+[?elf]
+n.架子
+$shell
+[?el]
+n.外壳，甲；炮弹
+$shelter
+['?elt?(r)]
+n.掩蔽处；掩蔽，保护 vt.庇护 vi.躲避
+$shield
+[?i:ld]
+n.盾；护板 vt.保护，防护
+$shift
+[??ft]
+v.变换，转换；变(速) n.转变；轮班
+$shine
+[?a?n]
+vi.发光，发亮 vt.擦亮 n.光泽
+$ship
+[??p]
+vt.用船装运
+$shirt
+[??:t]
+n.衬衫
+$shiver
+['??v?(r)]
+vi./n.冷颤，颤抖
+$shock
+[??k]
+n.震动；震惊；休克；电击 vt.使震惊
+$shoe
+[?u:]
+n.鞋
+$shoot
+[?u:t]
+v.射击；疾驰而过；发芽；发射,拍摄 n.嫩枝
+$shop
+[??p]
+n.商店；工场，车间 v.购买
+$shore
+[??:(r)]
+n.岸，岸边；陆
+$short
+[??:t]
+a.短的，短暂的；矮的，低的；缺乏的
+$shortage
+['??:t?d?]
+n.不足，短缺
+$shortcoming
+['??:tk?m??]
+n.缺点，短处
+$shortly
+['??:tl?]
+ad.立即，不久；简洁地
+$shot
+[??t]
+n.射击；投篮；炮弹；拍摄镜头
+$should
+[??d]
+aux.v.应该；将会；万一；竟然会
+$shoulder
+['???ld?(r)]
+n.肩 vt.承担，肩负
+$shout
+[?a?t]
+v.大声叫，喊，呼出 n.呼喊，叫
+$show
+[???]
+n.表演；展览(物) vt.出示；带领 vi.显现
+$shower
+['?a??(r)]
+n.&vi.(下)阵雨；(冲)淋浴 vt.浇；倾注
+$shrink
+[?r?nk]
+vi.萎缩，收缩；缩小，减少
+$shrug
+[?r?g]
+n.&v.耸肩
+$shut
+[??t]
+v.关(闭)；闭上，停业
+$shy
+[?a?]
+a.害羞的；胆怯的
+$sick
+[s?k]
+a.生病的；恶心的；厌倦的，不耐烦的
+$side
+[sa?d]
+n.(旁)边；方面，性质 vi.站在…的一边
+$sideways
+['sa?dwe?z]
+ad.&a.斜向一边(的)，侧身(的)
+$sigh
+[sa?]
+n.叹息 vi.叹气
+$sight
+[sa?t]
+n.视力；看见；情景；(pl.)风景
+$sightseeing
+['sa?tsi:??]
+n.观光，游览
+$sign
+[sa?n]
+n.符号；标牌；征兆 v.签(署)
+$signal
+['s?gn?l]
+n.信号；导致…的行动 vi.发信号，通讯
+$signature
+['s?gn?t??(r)]
+n.签名，签字
+$significance
+[s?g'n?f?k?ns]
+n.意义；重要性
+$significant
+[s?g'n?f?k?nt]
+a.有意义的，意味深长的；重要的，重大的
+$silence
+['sa?l?ns]
+n.寂静；沉默，无言 vt.使沉默，使安静
+$silent
+['sa?l?nt]
+a.沉默的，无言的；安静的，不吵闹的
+$silk
+[s?lk]
+n.丝，绸
+$silly
+['s?l?]
+n.傻的，糊涂的
+$silver
+['s?lv?(r)]
+n.银，银器 vt.镀银
+$similar
+['s?m?l?(r)]
+a.类似的，相似的
+$similarly
+['s?m?l?l?]
+ad.相同地，同样地
+$simple
+['s?mpl]
+a.朴素的；简易的；纯真的；完全的
+$simplicity
+[s?m'pl?s?t?]
+n.简单；朴素；纯真；无知
+$simplify
+['s?mpl?fa?]
+vt.简化
+$simply
+['s?mpl?]
+ad.仅仅，只；简直，完全；简单地，简易地
+$sin
+[s?n]
+n.罪孽 vi.犯罪
+$since
+[s?ns]
+prep.自从…以来 conj.既然，因为 ad.后来
+$sincere
+[s?n's??(r)]
+a.诚恳的，真诚的
+$sing
+[s??]
+v.唱，歌唱；嗡嗡作响，鸣响；吟咏，歌颂
+$single
+['s??gl]
+a.单一的；单人的 n.单程票
+$singular
+['s??gj?l?(r)]
+n.单数 a.独特的；非凡的；单数的
+$sink
+[s??k]
+v.(使)下沉；降低 n.(厨房中的)洗涤槽
+$sir
+[s?:(r)]
+n.先生；(S-)(用于姓名前)…爵士
+$sister
+['s?st?(r)]
+n.姐，妹
+$sit
+[s?t]
+v.坐下；使坐下
+$site
+[sa?t]
+n.所在地，场所 vt.使处于某处
+$situation
+[Xs?t??'e??n]
+n.形势，情况；处境，境况；位置，场所
+$six
+[s?ks]
+num.六
+$sixteen
+[Xs?ks'ti:n]
+num.十六
+$sixty
+['s?kst?]
+num.六十
+$size
+[sa?z]
+n.大小，尺寸；尺码；量，额
+$skate
+[ske?t]
+vi.滑冰 n.滑冰；冰鞋
+$sketch
+[sket?]
+n.草图；概要；短剧 vt.写生；概述
+$ski
+[ski:]
+n.滑雪板，滑橇 vi.滑雪
+$skilful
+['sk?lfl]
+a.灵巧的，熟练的
+$skill
+[sk?l]
+n.技巧，技能；熟练
+$skilled
+[sk?ld]
+a.需要技能的；熟练的
+$skillful
+['sk?lf?l]
+a.灵巧的，熟练的
+$skim
+[sk?m]
+vt.浏览，快读；掠过 vi.掠过；浏览
+$skin
+[sk?n]
+n.皮肤；毛皮；外皮 vt.去…的皮
+$skirt
+[sk?:t]
+n.裙子；边缘；(pl.)郊区
+$sky
+[ska?]
+n.天，天空
+$slam
+[sl?m]
+v.砰地关上，砰地放下
+$slap
+[sl?p]
+n.耳光，掌击 vt.打…一巴掌
+$slave
+[sle?v]
+n.奴隶 vi.做苦工；拼命地干
+$sleep
+[sli:p]
+v./n.睡眠，睡觉
+$sleeve
+[sli:v]
+n.袖子，衣袖；唱片封套
+$slender
+['slend?(r)]
+a.细长的，苗条的；微薄的
+$slice
+[sla?s]
+n.薄片，(切)片 vt.把…切成薄片
+$slide
+[sla?d]
+n.滑动；幻灯片 v.滑(动)；悄悄溜走
+$slight
+[sla?t]
+a.轻微的，微小的；纤细的；脆弱的
+$slim
+[sl?m]
+a.苗条的；微少的，不充实地
+$slip
+[sl?p]
+vi.滑倒；溜走；犯错误 n.失误；滑倒
+$slippery
+['sl?p?r?]
+a.滑溜的；狡猾的，不可靠的
+$slope
+[sl??p]
+n.倾斜；斜坡
+$slow
+[sl??]
+ad.慢的，缓慢的；迟钝的 v.(使)放慢
+$small
+[sm?:l]
+a.小的，少的
+$smart
+[smɑ:t]
+a.整洁漂亮的；聪明的，机智的；敏捷的
+$smash
+[sm??]
+v.打碎 vt.猛撞；粉碎 n.破碎(声)；撞击
+$smell
+[smel]
+vi.散发气味 vt.闻到；察觉 n.闻；气味
+$smile
+[sma?l]
+n.微笑，笑容 vi.微笑，露出笑容
+$smoke
+[sm??k]
+n.烟；吸烟 vt.吸(烟) vi.吸烟；冒烟
+$smooth
+[smu:e]
+a.平滑的；平稳的；温和的 vt.使光滑
+$snake
+[sne?k]
+n.蛇
+$snap
+[sn?p]
+n.咬；折断 v.咬住；(使)突然折断
+$snow
+[sn??]
+n.雪，下雪 vi.下雪；如雪一般地落下
+$so
+[s??]
+ad.那么；非常；也；不错 conj.因而；所以
+$soak
+[s??k]
+v.浸湿，浸透
+$soap
+[s??p]
+n.肥皂
+$soar
+[s?:]
+vi.高飞，翱翔；高涨，猛增
+$so-called
+[s?? k?:ld]
+a. 所谓的,号称的
+$soccer
+['s?k?(r)]
+n.(英式)足球
+$social
+['s????l]
+a.社会的；社交的，交际的
+$socialism
+['s????l?z?m]
+n.社会主义
+$socialist
+['s????l?st]
+n.社会主义者 a.社会主义(者)的
+$society
+[s?'sa??t?]
+n.社会；团体，协会；社交界；相伴
+$sock
+[s?k]
+n.(pl.)短袜
+$soda
+['s??d?]
+n.苏打；汽水
+$sofa
+['s??f?]
+n.长沙发
+$soft
+[s?ft]
+a.柔软的；温柔的；不含酒精的；光滑的
+$software
+['s?ftwe?]
+n.软件
+$soil
+[s??l]
+vt.弄脏 n.泥土，土壤 vi.变脏
+$solar
+['s??l?(r)]
+a.太阳的
+$soldier
+['s??ld??(r)]
+n.士兵
+$sole
+[s??l]
+n.脚底，鞋底 a.唯一的；独占的，专有的
+$solemn
+['s?l?m]
+a.庄严的；严肃的；(指承诺)真诚的，正式的
+$solid
+['s?l?d]
+n.固体 a.固体的；实心的；稳固的
+$solution
+[s?'lu:?n]
+n.解决(办法)；溶液，溶解
+$solve
+['s?lv]
+vt.解决
+$some
+[s?m]
+pron.一些；有些 a.一些 ad.大约；稍微
+$somebody
+['s?mb?d?]
+pron.某人，有人 n.重要人物
+$somehow
+['s?mha?]
+ad.设法；不知怎么地
+$someone
+['s?mw?n]
+pron.某人，有人
+$something
+['s?mθ??]
+n.某事，某物；一些，几分
+$sometime
+['s?mta?m]
+ad.某时，近期内；曾经，一度
+$sometimes
+['s?mta?mz]
+ad.有时，不时地
+$somewhat
+['s?mw?t]
+pron.有点儿，稍微
+$somewhere
+['s?mwe?(r)]
+ad.某处
+$son
+[s?n]
+n.儿子
+$song
+[s??]
+n.歌曲
+$soon
+[su:n]
+ad.不久；早，快
+$sophisticated
+[s?'f?st?ke?t?d]
+a.老练的，复杂的，尖端的
+$sore
+[s?:(r)]
+a.疼的；痛心的 n.痛处，疮口
+$sorrow
+['s?r??]
+n.悲伤，忧愁
+$sorry
+['s?r?]
+a.对不起的，抱歉的；遗憾的，难过的
+$sort
+[s?:t]
+n.种类 vt.排序，分类，整理
+$soul
+[s??l]
+n.心灵，灵魂；人；精华，中心人物
+$sound
+[sa?nd]
+n.声音 vi.发声；听起来 a.健康的；正当的
+$soup
+[su:p]
+n.汤，羹
+$sour
+['sa??(r)]
+a.酸的；脾气坏的，刻薄的
+$source
+[s?:s]
+n.根泉，来源，出处
+$south
+[sa?θ]
+n./a.南方(的) ad.向(自/在)南方
+$southeast
+[Xsa?θ'i:st]
+n./a.东南，东南(地区)的
+$southern
+['s?e?n]
+a.南部的，南方的
+$southwest
+[Xsa?θ'west]
+n.&a.西南，西南(地区)的
+$sow
+[sa?]
+vt.播种；散布，传播 vi.播种
+$space
+[spe?s]
+n.太空，宇宙；空间 vt.把…分隔开
+$spacecraft
+['spe?skrɑ:ft]
+n.宇宙飞船
+$spade
+[spe?d]
+n.铁铲，铁锹
+$span
+[sp?n]
+n.一段时间；跨度
+$spare
+[spe?(r)]
+a.备用的；多余的 v.节省；饶恕
+$spark
+[spɑ:k]
+n.火花，火星 vi.放火花 vt.引发
+$speak
+[spi:k]
+vi.说话，讲话；演说，发言 vt.说某种语言
+$speaker
+['spi:k?(r)]
+n.演说者，发言者；讲某种语言的人
+$special
+['spe?l]
+a.特别的；特别好的 n.特别的事或物
+$specialise
+['spe??lXa?z]
+vt.专攻；使…特殊化 vi.专攻，专门研究
+$specialist
+['spe??l?st]
+n.专家；专门医生
+$specialize
+['spe??la?z]
+vt.专攻；使…特殊化 vi.专攻，专门研究
+$species
+['spi:?i:z]
+n.物种，种类
+$specific
+[sp?'s?f?k]
+a.特定的，特殊的；明确的，具体的
+$specifically
+[sp?'s?f?kl?]
+ad.特别地，说得具体些
+$specify
+['spes?fa?]
+vt.指定，详细说明
+$specimen
+['spes?m?n]
+n.样本，标本
+$spectacular
+[spek't?kj?l?(r)]
+n.引人入胜的节目 a.壮观的，引人注目的
+$speculate
+['spekj?le?t]
+v.思考；推测；做投机买卖
+$speech
+[spi:t?]
+n.言语，讲话；演讲
+$speed
+[spi:d]
+n.速度；快，迅速 vi.急行 vt.加速
+$spell
+[spel]
+v.拼写
+$spelling
+['spel??]
+n.拼写，拼法
+$spend
+[spend]
+vt.花费(钱等)；消磨 vi.花费；耗尽
+$sphere
+[sf??(r)]
+n.球体；(活动)范围，(研究)领域
+$spider
+['spa?d?(r)]
+n.蜘蛛
+$spill
+[sp?l]
+v.(使)溢出来
+$spin
+[sp?n]
+vi.编织，杜撰；(使)旋转；结网，吐丝
+$spirit
+['sp?r?t]
+n.精神；精灵；(pl.)情绪；(pl.)酒精
+$spiritual
+['sp?r?t???l]
+a.精神上的；宗教上的
+$spit
+[sp?t]
+vi.吐唾沫(痰) vt.吐出 n.唾液；吐痰
+$spite
+[spa?t]
+n.恶意，怨恨
+$splendid
+['splend?d]
+a.壮丽的，辉煌的；好极了的
+$split
+[spl?t]
+v.(使)分裂，分开 a.分裂的 n.裂口
+$spoil
+[sp??l]
+vt.损坏；宠坏 vi.(食物等)变坏 n.掠夺物
+$spokesman
+['sp??ksm?n]
+n.发言人
+$sponsor
+['sp?ns?(r)]
+vt.发起，主办 n.发起人，资助者，担保人
+$spoon
+[spu:n]
+n.汤勺，匙
+$sport
+[sp?:t]
+n.运动；(pl.)运动会；游戏 vi.开玩笑
+$sportsman
+['sp?:tsm?n]
+n. 运动家,冒险家
+$spot
+[sp?t]
+n.点；地点 vt.认出；玷污 vi.沾上污点
+$spray
+[spre?]
+n.飞沫；喷洒剂；浪花 vt.喷洒
+$spread
+[spred]
+vt.&n.展开；传播；涂 vi.展开；传开
+$spring
+[spr??]
+n.春天，春季
+$spur
+[sp?:(r)]
+n.马刺；激励 vt.鞭策，鼓舞，促进
+$square
+[skwe?(r)]
+n.广场；正方形 a.正方形的 vt.使正方形
+$squeeze
+[skwi:z]
+vt.挤压，压榨 v.(使)挤入，挤过 n.挤，压
+$stable
+['ste?bl]
+a.稳定的，牢固的 n.马厩；培训基地
+$stack
+[st?k]
+n.一垛(叠、堆)；大量 v.把…堆起来
+$stadium
+['ste?d??m]
+n.体育场
+$staff
+[stɑ:f]
+n.全体职员；杖；参谋 vt.配备工作人员
+$stage
+[ste?d?]
+n.舞台；阶段 vt.把…搬上舞台，上演
+$stain
+[ste?n]
+n.污点，印迹 vt.玷污；给…着色
+$stair
+[ste?(r)]
+n.(常pl.)楼梯；阶梯
+$stake
+[ste?k]
+n.桩；赌注；利害关系 vt.下赌注
+$stale
+[ste?l]
+n.陈腐的，不新鲜的
+$stamp
+[st?mp]
+n.邮票；印章 vt.跺脚；盖章于…
+$stand
+[st?nd]
+vi.站立；站起；放置 vt.使站立 n.货摊
+$standard
+['st?nd?d]
+n.标准，水平 a.普通的，一般的，标准的
+$standpoint
+['st?ndp??nt]
+n.立场，观点
+$star
+[stɑ:(r)]
+n.恒星；明星 vt.用星号标出 vi.扮演主角
+$stare
+[ste?(r)]
+vi.凝视
+$start
+[stɑ:t]
+vt.开始；开动 vi.开始 n.开端；出发
+$starve
+[stɑ:v]
+v.使饿死，使挨饿
+$state
+[ste?t]
+vt.陈述，阐明 n.状态；国家；州
+$statement
+['ste?tm?nt]
+n.陈述，声明；财务报表，申报单
+$static
+['st?t?k]
+a.静态的，静力的
+$station
+['ste??n]
+n.车站，局，所；(社会)地位 vt.使驻扎
+$statistic
+[st?'t?st?k]
+n.统计数值
+$statue
+['st?t?u:]
+n.塑像，雕像
+$status
+['ste?t?s]
+n.地位，身份；情形，状况，状态
+$stay
+[ste?]
+vi.停留；保持 n.停留，逗留
+$steady
+['sted?]
+a.稳定的，稳固的
+$steak
+[ste?k]
+n.牛排
+$steal
+[sti:l]
+vt.偷，偷窃 vi.偷偷摸摸地行动
+$steam
+[sti:m]
+n.蒸汽，水汽 vi.冒蒸汽(热气) vt.蒸煮
+$steamer
+['sti:m?(r)]
+n.蒸汽汽车，汽船
+$steel
+[sti:l]
+n.钢，钢铁 vt.使坚强，使硬起心肠
+$steep
+[sti:p]
+a.陡峭的
+$steer
+[st??(r)]
+vt.驾驶；控制方向，使开往
+$stem
+[stem]
+n.茎，干；柄，把，颈 vi.起源于
+$step
+[step]
+n.步，脚步(声)；步骤 vi.跨步，走
+$stick
+[st?k]
+n.棍，棒；手杖 vt.把…插入；粘住 vi.粘着
+$sticky
+['st?k?]
+a.粘的，粘性的；棘手的
+$stiff
+[st?f]
+a.硬的，僵硬的；生硬的 ad.极度地，非常
+$still
+[st?l]
+a.静止的；寂静的 ad.仍然；然而；更；另外
+$stimulate
+['st?mj?le?t]
+vt.刺激，使兴奋；鼓励，鼓舞
+$sting
+[st??]
+n.叮，刺痛，刺激
+$stir
+[st?:(r)]
+vt.调合；激起 vi.微动 n.微动；轰动
+$stock
+[st?k]
+n.(商品)存货；股票 vt.备置，贮存
+$stocking
+['st?k??]
+n.长袜
+$stomach
+['st?m?k]
+n.胃，胃口
+$stone
+[st??n]
+n.石头；岩石；(水果的)核、子
+$stoop
+[stu:p]
+　v．俯身，降低身份
+$stop
+[st?p]
+n.停止；公共汽车站 vt.阻止 vi.停止
+$storage
+['st?:r?d?]
+n.贮藏，存储；存储器
+$store
+[st?:(r)]
+n.商店，店铺；贮备品 vt.贮藏，贮备
+$storey
+['st?:r?]
+n.层，楼
+$storm
+[st?:m]
+n.暴风雨；情感的激烈爆发
+$story
+['st?:r?]
+n.故事，小说；楼层(=storey)；新闻报道
+$stove
+[st??v]
+n.炉子，火炉
+$straight
+[stre?t]
+a.直的；正直的 ad.笔直地；直接地
+$strain
+[stre?n]
+n.张力；紧张 v.拉(绷)紧；拉伤
+$strange
+[stre?nd?]
+a.奇怪的，不可思议的；陌生的
+$stranger
+['stre?nd??(r)]
+n.陌生人；外地人，异乡人
+$strap
+[str?p]
+n.带；皮带 vt.用带捆扎
+$strategic
+[str?'ti:d??k]
+a.战略(上)的；关键的，有重要意义的
+$strategy
+['str?t?d??]
+n.战略，策略；对策，政策
+$straw
+[str?:]
+n.稻草，麦草，吸管
+$stream
+[stri:m]
+n.小溪，小河；水流 v.流；飘扬，招展
+$street
+[stri:t]
+n.街道，马路
+$strength
+[stre?θ]
+n.力量；实力，长处，优点；人力，兵力
+$strengthen
+['stre?θn]
+vt.加强，巩固
+$stress
+[stres]
+n.压力，压迫；强调 vt.强调
+$stretch
+[stret?]
+vt.拉直，拉长 vi.伸展 n.伸展；一段时间
+$strict
+[str?kt]
+a.严格的，严谨的；精确的，严密的
+$strike
+[stra?k]
+n.罢工；打击 v.打；攻击；鸣响，罢工
+$striking
+['stra?k??]
+a.显著的；吸引人的
+$string
+[str??]
+n.细绳子；琴弦；一串 vt.把…串在一起
+$strip
+[str?p]
+n.条 vi.脱光衣服 vt.剥夺
+$stripe
+[stra?p]
+n.长条，条纹；军服上表示军阶的臂章条纹
+$stroke
+[str??k]
+n.击，敲；(报时的)钟声；一笔；中风
+$strong
+[str??]
+a.强有力的；坚强的；强烈的，浓的
+$structure
+['str?kt??(r)]
+n.结构，构造；建筑物
+$struggle
+['str?gl]
+vi.挣扎；努力；与…搏斗 n.挣扎；努力
+$student
+['stju:dnt]
+n.学生，学员
+$studio
+['stju:d???]
+n.画室，(摄影、雕刻等)工作室，播音室
+$study
+['st?d?]
+vt.学习；研究；细看 vi.读书 n.学习；研究
+$stuff
+[st?f]
+n.材料，原料，填料 v.填满，塞满
+$stupid
+['stju:p?d]
+a.愚蠢的，笨的
+$style
+[sta?l]
+n.风格，文体；时尚，流行式样；种类，类型
+$subject
+['s?bd??kt]
+n.主题；学科 a.从属的 vt.使服从?
+$submerge
+[s?b'm?:d?]
+vt.使浸水，使陷入 vi.潜入水中
+$submit
+[s?b'm?t]
+vi.屈服 vt.呈交；提议，主张
+$subsequent
+['s?bs?kw?nt]
+a.继…之后的，后来的
+$substance
+['s?bst?ns]
+n.物质；实质，本质；要义，主要部分
+$substantial
+[s?b'st?n?l]
+a.相当的；牢固的；主要的
+$substitute
+['s?bst?tju:t]
+n.代用品，代替者 vt.用…代替，代以
+$subtract
+[s?b'tr?kt]
+vt.减去，扣掉
+$suburb
+['s?b?:b]
+n.(pl.)城郊，郊区
+$subway
+['s?bwe?]
+n.地铁；地下人行道
+$succeed
+[s?k'si:d]
+vi.成功；继承 vt.接替，接…之后
+$success
+[s?k'ses]
+n.成功，成就，胜利
+$successful
+[s?k'sesfl]
+a.成功的，有成就的
+$succession
+[s?k'se?n]
+n.接连发生，连续；继承(权)
+$successive
+[s?k'ses?v]
+a.连续的
+$such
+[s?t?]
+a.如此的；如此 pron.这样的人(或事物)
+$suck
+[s?k]
+v.吸，吮
+$sudden
+['s?dn]
+a.突然的，出乎意料的
+$suffer
+['s?f?(r)]
+vt.遭受；忍受，容忍 vi.受苦；受损失
+$sufficient
+[s?'f??nt]
+a.足够的，充分的
+$sugar
+['??g?(r)]
+n.糖
+$suggest
+[s?'d?est]
+vt.建议，提议；表明，暗示
+$suggestion
+[s?'d?est??n]
+n.建议，提议；暗示，示意
+$suicide
+['su:?sa?d]
+n.自杀(事件)，自杀者
+$suit
+[su:t]
+vt.适合；中…的意 n.一套衣服；诉讼
+$suitable
+['su:t?bl]
+a.合适的，适宜的
+$suitcase
+['su:tke?s]
+n.小提箱，衣箱
+$sum
+[s?m]
+n.总数；金额；概要；算术 vi.总计
+$summarise
+['s?m?ra?z]
+vt.概括，总结
+$summarize
+['s?m?ra?z]
+vt.概括，总结
+$summary
+['s?m?r?]
+n.摘要，归纳 a.简要的；即时的
+$summer
+['s?m?(r)]
+n.夏季，夏天
+$summit
+['s?m?t]
+n.顶峰；最高点，极点；最高级会议
+$sun
+[s?n]
+n.太阳，阳光，恒星
+$Sunday
+['s?nde?]
+n.星期日
+$sunlight
+['s?nla?t]
+n.日光，阳光
+$sunny
+['s?n?]
+a.阳光充足的
+$sunrise
+['s?nra?z]
+n.日出
+$sunset
+['s?nset]
+n.日落
+$sunshine
+['s?n?a?n]
+n.日光，日照
+$super
+['su:p?(r)]
+a.超级的，极好的
+$superb
+[Xsju:'p?:b]
+a.壮丽的，华丽的，极好的
+$superficial
+[Xsu:p?'f??l]
+a.表面的；肤浅的，浅薄的
+$superior
+[su:'p??r??(r)]
+a.较高的；优越的n.上级；较好的人或事物
+$supermarket
+['sju:p?Xmɑ:k?t]
+n.超级市场
+$supper
+['s?p?(r)]
+n.晚饭
+$supplement
+['s?pl?m?nt]
+vt.补充 n.补充之物，增刊；增补
+$supply
+[s?'pla?]
+vt.供应，提供 n.供应；(常pl.)供应品
+$support
+[s?'p?:t]
+n.支持；支撑物；拥护 vt.支持；鼓励；供养
+$suppose
+[s?'p??z]
+vt.假定，料想
+$supreme
+[su:'pri:m]
+a.最高的；极度的
+$sure
+[???(r)]
+a.肯定的；一定会…的；有信心的
+$surface
+['s?:f?s]
+n.表面；外表，外观
+$surgery
+['s?:d??r?]
+n.外科，外科手术；手术室，诊所
+$surplus
+['s?:pl?s]
+n.&a.盈余(的)，过剩 a.过剩的
+$surprise
+[s?'pra?z]
+n.惊讶，惊奇 vt.使诧异，使惊奇；奇袭
+$surrender
+[s?'rend?(r)]
+vi.投降，屈服 vt.放弃，交出 n.投降，认输
+$surround
+[s?'ra?nd]
+vt.包围，环绕 n.环绕物
+$surroundings
+[s?'ra?nd??z]
+n.(pl.)周围的事物，环境
+$survey
+['s?:ve?]
+v.&n.俯视，眺望；检查，审视；测量
+$survival
+[s?'va?vl]
+n.幸存，生存，幸存的人(或物)
+$survive
+[s?'va?v]
+vi.活下来，幸存 vt.从…中逃出
+$suspect
+[s?'spekt]
+v.猜想 a.可疑的 n.可疑分子，嫌疑犯
+$suspend
+[s?'spend]
+vt.悬，挂，吊；暂停，中止
+$suspicion
+[s?'sp??n]
+n.涉嫌，怀疑；少量，一点儿
+$sustain
+[s?'ste?n]
+vt.支撑，撑住；经受，忍耐
+$swallow
+['sw?l??]
+v.吞咽 vt.忍受 n.吞，咽
+$sway
+[swe?]
+n.摇摆，影响力，支配 vt.摇动
+$swear
+[swe?(r)]
+v.诅咒，咒骂；发誓，宣誓
+$sweat
+[swet]
+n.汗(水) v.(使)流汗
+$sweater
+['swet?(r)]
+n.毛衣，绒衣
+$sweep
+[swi:p]
+vt.打扫；(风)吹 vi.快速移动，扫描
+$sweet
+[swi:t]
+a.甜的；芳香的；和蔼的 n.(pl.)糖果
+$swell
+[swel]
+v.(使)肿胀；涨大，膨胀；(使)增长，加大
+$swift
+[sw?ft]
+a.快的，迅速
+$swim
+[sw?m]
+vi.游泳；充满 vt.游过 n.游泳
+$swing
+[sw??]
+v.(使)摆动；转动 n.摆动；秋千 vt.转弯
+$switch
+[sw?t?]
+n.电闸，开关 v.接通，切断(电源)；转变
+$sword
+[s?:d]
+n.刀剑
+$symbol
+['s?mbl]
+n.象征，符号，标志
+$sympathetic
+[Xs?mp?'θet?k]
+a.同情的；赞同的
+$sympathise
+['s?mp?θa?z]
+vi.同情，体谅
+$sympathize
+['s?mp?θa?z]
+vi.同情，体谅
+$sympathy
+['s?mp?θ?]
+n.同情(心)；慰问；赞同，支持
+$symptom
+['s?mpt?m]
+n.病症，症候；征兆，表征
+$synthetic
+[s?n'θet?k]
+a.合成的，人工的；综合的 n.人工制品
+$system
+['s?st?m]
+n.系统，体系；制度，体制
+$systematic
+[Xs?st?'m?t?k]
+a.成体系的；分类的
+$table
+['te?bl]
+n.桌子；表格
+$tackle
+['t?kl]
+vt.对付，处理 n.用具，器具；滑车
+$tag
+[t?g]
+n.标签，标牌
+$tail
+[te?l]
+n.尾巴；尾部；跟踪者 vt.尾随，跟踪
+$tailor
+['te?l?(r)]
+n.裁缝 vt.缝制，裁剪
+$take
+[te?k]
+vt.拿；携带；花费；接受；认为；抓住
+$tale
+[te?l]
+n.故事，传说；谎言
+$talent
+['t?l?nt]
+n.天赋，才能；人才
+$talk
+[t?:k]
+n.谈话 vt.谈论，讨论 vi.讲话，交谈
+$tall
+[t?:l]
+n.高的，身材高的；有…高的
+$tame
+[te?m]
+adj.驯服的
+$tank
+[t??k]
+n.箱，罐；坦克
+$tap
+[t?p]
+n.塞子 vt.开发 v./n.轻叩，轻拍
+$tape
+[te?p]
+n.带子；录音(录像)磁带 vt.把…录于录音
+$target
+['tɑ:g?t]
+n.靶子；目标；攻击 vt.把…作为目标
+$task
+[tɑ:sk]
+n.任务，作业，工作
+$taste
+[te?st]
+n.味道；爱好 vt.品尝；体验 vi.有…味道
+$tax
+[t?ks]
+n.税(款) vt.对…征税
+$taxi
+['t?ks?]
+n.计程车，出租车
+$tea
+[ti:]
+n.茶(叶)；午后茶点
+$teach
+[ti:t?]
+v.教，教学；教训
+$teacher
+['ti:t??(r)]
+n.教师，教员
+$team
+[ti:m]
+n.队，组
+$tear
+[te?(r)]
+n.眼泪 vt.撕，撕裂，扯；狂奔
+$technical
+['tekn?kl]
+a.技术(性)的，工艺的；专门性的
+$technician
+[tek'n???n]
+n.技术员，技师
+$technique
+[tek'ni:k]
+n.技巧，手艺；技能，技术
+$technology
+[tek'n?l?d??]
+n.技术，工艺
+$tedious
+['ti:d??s]
+a.冗长乏味的，沉闷的
+$teenager
+['ti:ne?d??(r)]
+n.(13-19岁的)青少年
+$telegram
+['tel?gr?m]
+n.电报
+$telephone
+['tel?f??n]
+n.电话 vt.打电话
+$telescope
+['tel?sk??p]
+n.望远镜
+$television
+['tel?v??n]
+n.电视(机)
+$tell
+[tel]
+vt.讲，告诉；告诫，劝告；命令；辨别
+$temper
+['temp?]
+n.脾气，情绪；怒气 vt.使缓和，减轻
+$temperature
+['tempr?t??(r)]
+n.温度；发烧
+$temple
+['templ]
+n.庙宇，寺院
+$temporary
+['tempr?r?]
+a.暂时的，临时的
+$temptation
+[temp'te??n]
+n.引诱，诱惑；迷人之物，诱惑物
+$ten
+[ten]
+num.十
+$tend
+[tend]
+vt.照料，护理 vi.易于，有某种倾向
+$tendency
+['tend?ns?]
+n.趋势，倾向
+$tender
+['tend?(r)]
+a.嫩的，柔软的；脆弱的，纤细的；温柔的
+$tennis
+['ten?s]
+n.网球
+$tense
+[tens]
+a.拉紧的，绷紧的；紧张的
+$tension
+['ten?n]
+n.紧张；拉力；紧张关系，紧张局势
+$tent
+[tent]
+n.帐篷
+$term
+[t?:m]
+n.学期；期限；术语；(pl.)条件
+$terminal
+['t?:m?nl]
+a.末端的；晚期的 n.终点(站)，终端(机)
+$terrible
+['ter?bl]
+a.可怕的；极度的；糟的，极坏的
+$territory
+['ter?tr?]
+n.领土，地区；领域，范围
+$terror
+['ter?(r)]
+n.恐怖，惊恐
+$test
+[test]
+n./vt.试验，测试，检验
+$text
+[tekst]
+n.正文，文本；原文；教科书
+$textbook
+['tekstb?k]
+n.课本，教科书
+$textile
+['teksta?l]
+n.纺织品，织物
+$than
+[e?n]
+conj.比
+$thank
+[θ??k]
+vt.感谢 n.(pl.)感谢
+$that
+[e?t]
+pron.那，那个 conj.
+[???????????￤]
+
+$the
+[e?]
+art.这，那
+$theater
+['θ??t?]
+n.戏院，剧院
+$theatre
+['θ??t?]
+n.戏院，剧院
+$their
+[eer]
+pron.
+[they????????]
+他(她、它)们的
+$theirs
+[ee?z]
+pron.
+[they??????????]
+他(她、它)们的
+$them
+[e?m]
+pron.
+[they??????]
+他(她、它)们
+$theme
+[θi:m]
+n.话题，主题
+$themselves
+[e?m'selvz]
+pron.他(她、它)们自己(亲自)
+$then
+[een]
+ad.当时；然后；那么
+$theoretical
+[Xθ??'ret?kl]
+a.理论上的
+$theory
+['θ??r?]
+n.理论；看法，见解
+$therapy
+['θer?p?]
+n.治疗，疗法
+$there
+[ee?]
+ad.在那里；在那方面；(与be连用，表示有)
+$thereby
+['ee?ba?]
+ad.因此，从而
+$therefore
+['ee?f?:(r)]
+ad.因此，所以
+$thermometer
+[θ?'m?m?t?(r)]
+n.温度计
+$these
+[ei:z]
+pron.
+[th?s??????]
+这些
+$they
+[ee?]
+pron.他(她、它)们
+$thick
+[θ?k]
+a.厚的；稠的；浓密的；茂密的 ad.厚厚地
+$thief
+[θi:f]
+n.贼，小偷
+$thin
+[θ?n]
+a.细的；瘦的；稀少的 v.(使)变细
+$thing
+[θ??]
+n.物；事情；(pl.)所有物；(pl.)情况
+$think
+[θ??k]
+vt.认为，以为；想要，打算 vi.思考，认为
+$thinking
+['θ??k??]
+n.思想，思考，思索 a.思想的，有理性的
+$third
+[θ?:d]
+num.第三
+$thirst
+[θ?:st]
+n.口渴
+$thirsty
+['θ?:st?]
+a.口渴的；渴望的，渴求的
+$thirteen
+[Xθ?:'ti:n]
+num.十三
+$thirty
+['θ?:t?]
+num.三十
+$this
+[e?s]
+pro.这，这个
+$thorough
+['θ?r?]
+a.彻底的，完全的；仔细周到的，精心的
+$those
+[e??z]
+pron.
+[that??????]
+那些
+$though
+[e??]
+ad.可是，然而，不过 conj.尽管，虽然
+$thought
+[θ?:t]
+n.想法，看法；思想，思维；打算，意图
+$thoughtful
+['θ?:tfl]
+a.沉思的；体贴的，关心的
+$thousand
+['θa?znd]
+num.&n.一千；(pl.)许许多多，成千上万
+$thread
+[θred]
+n.线；思路；螺纹 vt.穿(针、线等)
+$threat
+[θret]
+n.威胁；凶兆
+$threaten
+['θretn]
+vt.威胁；预示着有…危险
+$three
+[θri:]
+num.三
+$thrive
+[θra?v]
+vi.兴旺，繁荣
+$throat
+[θr??t]
+n.咽喉，嗓子
+$through
+[θru:]
+prep.通过；由于 ad.通过；从头到尾
+$throughout
+[θru:'a?t]
+prep.遍及，贯穿 ad.到处，自始至终
+$throw
+[θr??]
+vt.投，扔，抛
+$thrust
+[θr?st]
+vt.插入；猛推 n.插，推力 vi.刺，戳，冲
+$thumb
+[θ?m]
+n.拇指
+$thunder
+['θ?nd?(r)]
+n.雷；轰隆响 vi.打雷，轰隆响
+$Thursday
+['θ?:zde?]
+n.星期四
+$thus
+[e?s]
+ad.因此，从而；如此，这样
+$ticket
+['t?k?t]
+n.票，入场券；(交通违章)罚款单；价格标签
+$tide
+[ta?d]
+n.潮，潮汐；潮流，趋势
+$tidy
+['ta?d?]
+a.整洁的，整齐的 vt.使整洁，使整齐
+$tie
+[ta?]
+n.领带；关系 vt.捆；与…打成平局
+$tiger
+['ta?g?(r)]
+n.虎
+$tight
+[ta?t]
+a.紧的，紧身的 ad.紧紧地，牢牢地
+$till
+[t?l]
+prep.&conj.直到(…为止)
+$timber
+['t?mb?(r)]
+n.木材，木料；梁(尤指房梁，船梁)
+$time
+[ta?m]
+n.时间；次；时期；倍；(pl.)时代
+$tin
+[t?n]
+n.锡；罐头
+$tiny
+['ta?n?]
+a.极小的，微小的
+$tip
+[t?p]
+n.梢，末端，尖端；小费 v.给小费
+$tire
+['ta??(r)]
+v.(使)感到疲劳
+$tired
+['ta??d]
+a.疲倦的，累的；厌倦的，厌烦的
+$tissue
+['t??u:]
+n.(生物的)组织；轻而薄的纸
+$title
+['ta?tl]
+n.标题；头衔，称号
+$to
+[t?]
+prep.向，往；对；比；直到…为止
+$toast
+[t??st]
+n.祝酒(辞);烤面包
+$tobacco
+[t?'b?k??]
+n.烟草，烟叶；烟草制品
+$today
+[t?'de?]
+n.今天，现在 ad.今天，现在
+$toe
+[t??]
+n.足尖，脚趾
+$together
+[t?'gee?(r)]
+ad.共同地，在一起；相互，彼此；一致地
+$toilet
+['t??l?t]
+n.厕所，洗手间
+$tolerance
+['t?l?r?ns]
+n.忍耐(力)受，忍受，容忍
+$tolerate
+['t?l?re?t]
+vt.宽恕，容忍
+$tomato
+[t?'mɑ:t??]
+n.西红柿
+$tomorrow
+[t?'m?r??]
+ad.在明天 n.明天；不久的将来
+$ton
+[t?n]
+n.吨(重量单位)
+$tone
+[t??n]
+n.音色，音调，语调；色调；气氛，调子
+$tongue
+[t??]
+n.舌头；语言，口语
+$tonight
+[t?'na?t]
+ad.(在)今晚
+$too
+[tu:]
+a.也，还；太，过于
+$tool
+[tu:l]
+n.工具
+$tooth
+[tu:θ]
+n.牙齿，齿
+$top
+[t?p]
+n.顶；最上位 a.最高的 vt.在…之首
+$topic
+['t?p?k]
+n.话题，主题
+$torch
+[t?:t?]
+n.火炬，火把；手电筒
+$torture
+['t?:t??(r)]
+vt./n.折磨，拷打
+$total
+['t??tl]
+a.总的 n.总数 vt.计算…的总和 vi.总计
+$touch
+[t?t?]
+vi.触摸 vt.触摸；触动；提到 n.触觉；触
+$tough
+[t?f]
+a.坚硬的；坚强的；艰难的
+$tour
+[t??(r)]
+n.&v.旅行
+$tourist
+['t??r?st]
+n.旅游者，观光者
+$toward(s)
+[]
+prep.朝，向；接近；关于，对于
+$towel
+['ta??l]
+n.毛巾, 手巾
+$tower
+['ta??(r)]
+n.塔，高楼 vi.高耸
+$town
+[ta?n]
+n.市镇；市民；城市商业区，闹市区
+$toy
+[t??]
+n.玩具
+$trace
+[tre?s]
+n.踪迹，痕迹 vt.跟踪，追踪
+$track
+[tr?k]
+n.足迹，踪迹；小径；铁轨 vt.跟踪
+$tractor
+['tr?kt?(r)]
+n.拖拉机，牵引车
+$trade
+[tre?d]
+n.贸易；行业 vi.做买卖 vt.用…去交换
+$tradition
+[tr?'d??n]
+n.传统；惯例，规矩
+$traffic
+['tr?f?k]
+n.交通，流量；(指非法物品的)交易
+$tragedy
+['tr?d??d?]
+n.悲剧(戏)；悲惨之事
+$trail
+[tre?l]
+vt.跟踪，追踪 n.足迹，痕迹；小路
+$train
+[tre?n]
+n.火车，列车 vt.训练，培训
+$training
+['tre?n??]
+n.培训，训练，培养
+$transfer
+[tr?ns'f?:(r)]
+vt.转移；转让 n.迁移；改乘
+$transform
+[tr?ns'f?:m]
+vt.改变，变形；改造，转换
+$translate
+[tr?ns'le?t]
+v.翻译
+$translation
+[tr?ns'le??n]
+n.翻译；译文，译本
+$transmission
+[tr?ns'm??n]
+n.传递，传送，播送；传动装置
+$transmit
+[tr?ns'm?t]
+vt.传播，播送；传递，传导，传送
+$transparent
+[tr?ns'p?r?nt]
+a.透明的
+$transport
+['tr?nsp?:t]
+n.运输，运送
+$transportation
+[Xtr?nsp?:'te??n]
+n.运输，运送
+$trap
+[tr?p]
+n.陷阱，圈套；两轮车 vt.诱捕；使中圈套
+$trash
+[tr??]
+n．废物，垃圾
+$travel
+['tr?vl]
+n.旅行 vi.旅行；(光、物体等)移动，运行
+$tray
+[tre?]
+n.碟，盘
+$treasure
+['tre??(r)]
+n.财宝，宝物；珍品，宝贝 vt.珍惜，珍视
+$treat
+[tri:t]
+v.对待；治疗；款待；谈判 n.宴请，请客
+$treatment
+['tri:tm?nt]
+n.处理，对待，款待；治疗
+$treaty
+['tri:t?]
+n.条约
+$tree
+[tri:]
+n.树
+$tremble
+['trembl]
+vi.摇晃；颤抖
+$tremendous
+[tr?'mend?s]
+a.巨大的，极大的；绝好的，极棒的
+$trend
+[trend]
+n.趋向，趋势 vi.倾向，趋势
+$trial
+['tra??l]
+n.审判，审讯；试验
+$triangle
+['tra???gl]
+n.三角，三角形
+$trick
+[tr?k]
+n.诡计，手法；把戏，玩笑；窍门 v.欺骗
+$trim
+[tr?m]
+vt./n.修剪，整修(头发、树枝等) a.整齐的
+$trip
+[tr?p]
+n.短程旅行
+$triumph
+['tra??mf]
+n.胜利 vi.胜利
+$troop
+[tru:p]
+n.一群；(pl.)军队，部队
+$tropical
+['tr?p?kl]
+a.热带的
+$trouble
+['tr?bl]
+n.麻烦；故障；功夫 vt.使烦恼 vi.费神
+$troublesome
+['tr?bls?m]
+a.令人烦恼的，麻烦的，讨厌的
+$trousers
+['tra?z?z]
+n.(pl.)裤子
+$truck
+[tr?k]
+n.卡车，载重汽车
+$true
+[tru:]
+a.真实的，诚实的；真的，不假的；准确的
+$truly
+['tru:l?]
+ad.正确地，事实上；真诚地
+$trumpet
+['tr?mp?t]
+n.喇叭，小号
+$trunk
+[tr??k]
+n.树干；躯干；象鼻
+$trust
+[tr?st]
+n.信任；可信任的人(或物) vt.相信；委托
+$truth
+[tru:θ]
+n.事实，实情；真实性；真理
+$try
+[tra?]
+vt.尝试，试；审问 vi./n.尝试，努力
+$tube
+[tju:b]
+n.管；管状物；身体上的管状器官；(英)地铁
+$Tuesday
+['tju:zde?]
+n.星期二
+$tune
+[tju:n]
+n.调子，曲调；和谐 vt.(为乐器)调音；调整
+$tunnel
+['t?nl]
+n.地道，隧道，管道 v.挖地道(或隧洞)
+$turbine
+['t?:ba?n]
+n.汽轮机，涡轮机
+$turn
+[t?:n]
+v.旋转；转向 n.转向；转动；转变
+$tutor
+['tju:t?(r)]
+n.家庭教师；导师 vt.教，指导
+$twelfth
+[twelfθ]
+num.第十二
+$twelve
+[twelv]
+num.十二
+$twentieth
+['twent??θ]
+num.第二十
+$twenty
+['twent?]
+num.二十
+$twice
+[twa?s]
+ad.两次；两倍
+$twin
+[tw?n]
+a.孪生的 n.孪生儿
+$twist
+[tw?st]
+v./n.扭曲，扭伤；缠绕
+$two
+[tu:]
+num.二
+$type
+[ta?p]
+n.类型；印刷字体；活字 v.打字
+$typewriter
+['ta?pra?t?(r)]
+n.打字机
+$typical
+['t?p?kl]
+a.典型的，有代表性的
+$typist
+['ta?p?st]
+n.打字员
+$tyre
+['ta??(r)]
+n.轮胎
+$ugly
+['?gl?]
+a.(长相、外貌)丑的；讨厌的，可憎的
+$ultimate
+['?lt?m?t]
+a.最后的，最终的；根本的，基本的
+$umbrella
+[?m'brel?]
+n.伞，雨伞
+$uncle
+['??kl]
+n.叔叔，伯伯，舅父，姑父
+$uncover
+[?n'k?v?(r)]
+vt.揭开覆盖物，打开…的包装，使…露出
+$under
+['?nd?(r)]
+prep.在…下面； 在…以下 ad.在下面；少于
+$undergo
+[X?nd?'g??]
+n.遭受，经历
+$undergraduate
+[X?nd?'gr?d???t]
+n.大学生
+$underground
+[X?nd?'gra?nd]
+a.地下的；秘密的 n.地下铁路；地下组织
+$underline
+[X?nd?'la?n]
+vt.强调；在…下划线
+$underneath
+[X?nd?'ni:θ]
+prep.在…下面；在下面
+$understand
+[X?nd?'st?nd]
+v.理解；听说，得知；认为
+$understanding
+[X?nd?'st?nd??]
+n.理解(力)；谅解
+$undertake
+[X?nd?'te?k]
+vt.着手做，从事，承担；保证，答应
+$undo
+[?n'du:]
+v.解开，松开；取消
+$undoubtedly
+[?n'da?t?dl?]
+ad.不容置疑地，肯定地
+$uneasy
+[?n'i:z?]
+a.不安的，担心的；拘束的；不稳定的
+$unexpected
+[X?n?k'spekt?d]
+a.意外的，没想到的
+$unfortunately
+[?n'f?:t??n?tl?]
+ad.不幸地，可惜的是
+$uniform
+['ju:n?f?:m]
+n.制服，军装 a.一致的
+$union
+['ju:n??n]
+n.工会，协会；联合，合并；团结，融洽
+$unique
+[j?'ni:k]
+a.唯一的；独特的 n.独一无二的事物
+$unit
+['ju:n?t]
+n.单位，单元；部队；最小整数
+$unite
+[j?'na?t]
+v.联合，统一，合并；(使)一致行动
+$unity
+['ju:n?t?]
+n.团结，和睦；统一，联合；整体(性)
+$universal
+[Xju:n?'v?:sl]
+a.普通的；通用的，一般的；全球的，宇宙的
+$universe
+['ju:n?v?:s]
+n.宇宙
+$university
+[Xju:n?'v?:s?t?]
+n.(综合性)大学
+$unless
+[?n'les]
+conj.除非；如果不
+$unlike
+[X?n'la?k]
+a.不同的 prep.不象…，和…不同
+$unload
+[X?n'l??d]
+vt.从...卸下货物
+$until
+[?n't?l]
+prep./conj.直到…为止，在…以前；直到…
+$unusual
+[?n'ju:???l]
+a.不寻常的，独特的
+$up
+[?p]
+ad.向上；起来 prep.向(高处)
+$upon
+[?'p?n, ?p?n]
+prep.在…上
+$upper
+['?p?(r)]
+a.上面的；地位较高的
+$upright
+['?pra?t]
+a.竖直的；诚实的 ad.笔直 n.柱子
+$upset
+[?p'set]
+vt.打翻，弄翻；扰乱；使不安
+$upstairs
+[X?p'ste?z]
+ad.往(在)楼上
+$up-to-date
+['?pt?'de?t]
+a. 直到现在的,最近的,当代的
+$upward
+['?pw?d]
+a.向上的，上升的 ad.向上，上升
+$urban
+['?:b?n]
+a.都市的，城市的
+$urge
+[?:d?]
+n.强烈愿望 v.敦促；鼓励；强烈希望
+$urgent
+['?:d??nt]
+a.紧急的；急切的
+$us
+[?s]
+pron.我们
+[we??????]
+
+$usage
+['ju:s?d?]
+n.用法，使用；惯用法，习语
+$use
+[ju:s]
+vt.运用；用途
+$used
+[ju:zd]
+v.过去常常
+$useful
+['ju:sfl]
+a.有用的，实用的
+$useless
+['ju:sl?s]
+a.无用的；无价值的；无效的
+$user
+['ju:z?(r)]
+n.使用者，用户
+$usual
+['ju:???l]
+a.通常的，平常的
+$usually
+['ju:???l?]
+ad.平常地，通常地
+$utility
+[ju:'t?l?t?]
+n.用途，使用价值；公用事业
+$utilise
+['ju:t?la?z]
+v.利用，使用
+$utilize
+['ju:t?la?z]
+v.利用，使用
+$utmost
+['?tm??st]
+a.极度的；最远的 n.极限，最大可能
+$utter
+['?t?(r)]
+vt.说；说出 a.完全的，十足的，彻底的
+$vacant
+['ve?k?nt]
+a.空的；(职位等)空缺的；茫然的
+$vacation
+[v?'ke??n]
+n.假期，休假；空出，腾出
+$vacuum
+['v?kj??m]
+n.真空；真空吸尘器 vt.以真空吸尘器清扫
+$vague
+[ve?g]
+a.模糊的，不明确的；说话含糊不清的
+$vain
+[ve?n]
+a.徒劳的；空虚的；自负的
+$valid
+['v?l?d]
+a.有根据的，正确的；有效的
+$valley
+['v?l?]
+n.山谷，溪谷
+$valuable
+['v?lj??bl]
+a.有价值的；有用的 n.(pl.)贵重物品
+$value
+['v?lju:]
+n.重要性；价值；评价 vt.给…估价
+$van
+[v?n]
+n.有篷货车，运货车
+$vanish
+['v?n??]
+vi.消失，消散
+$vapor
+['ve?p?]
+n.蒸汽，雾气
+$vapour
+['ve?p?(r)]
+n.蒸气，雾气
+$variable
+['ve?r??bl]
+a.可变的，易变的 n.变量
+$variation
+[Xve?r?'e??n]
+n.变化；变奏(曲)
+$variety
+[v?'ra??t?]
+n.变化，多样化；种种；品种，变种
+$various
+['ve?r??s]
+a.不同的，各种各样的；多方面的
+$vary
+['ve?r?]
+v.有变化，相异；改变，变更
+$vast
+[vɑ:st]
+a.辽阔的；巨大的
+$vegetable
+['ved?t?bl]
+n.蔬菜
+$vehicle
+['vi:?kl]
+n.交通工具，车辆；工具，手段
+$venture
+['vent??(r)]
+n.冒险行为 vi.冒险 vt.大胆提出
+$verb
+[v?:b]
+n.动词
+$verify
+['ver?fa?]
+vt.证实，证明；查清，核实
+$version
+['v?:??n]
+n.译文，译本，版本；看法
+$vertical
+['v?:t?kl]
+a.垂直的，竖的
+$very
+['ver?]
+ad.很，十分 a.恰好；真正的，十足的
+$vessel
+['vesl]
+n.船只；容器，器皿；血管，导管
+$veteran
+['vet?r?n]
+n.老兵，退伍军人；老手 a.老练的
+$via
+['va??]
+prep.经，经由，通过
+$vibrate
+[va?'bre?t]
+v.使震动，使摇摆
+$vice
+[va?s]
+n.坏事，罪恶；不道德；缺点；老虎钳
+$victim
+['v?kt?m]
+n.受害者，牺牲者，遇难者
+$victory
+['v?kt?r?]
+n.胜利，获胜
+$video
+['v?d???]
+n.电视，录像 a.电视的；录像的
+$view
+[vju:]
+n.风景；看法；视野 vt.把…看成是
+$viewpoint
+['vju:p??nt]
+n.观点，看法，见解
+$vigorous
+['v?g?r?s]
+a.精力充沛的
+$village
+['v?l?d?]
+n.乡村, 村庄
+$vinegar
+['v?n?g?(r)]
+n.醋
+$violate
+['va??le?t]
+vt.违犯，违反；妨碍，扰乱；亵渎
+$violence
+['va??l?ns]
+n.暴力，强暴；剧烈，强烈
+$violent
+['va??l?nt]
+a.剧烈的，猛力的；强暴的，由暴力引起的
+$violet
+['va??l?t]
+n.紫罗兰 a.紫色的
+$violin
+[Xva??'l?n]
+n.小提琴
+$virtual
+['v?:t???l]
+a.实际上的
+$virtually
+['v?:t???l?]
+ad.事实上，几乎，实行上
+$virtue
+['v?:t?u:]
+n.美德，德行；优点
+$virus
+['va?r?s]
+n.病毒
+$visible
+['v?z?bl]
+a.看得见的，可见的；明显的
+$vision
+['v??n]
+n.视力，视觉；远见，眼光；想象(力)
+$visit
+['v?z?t]
+v.&n.访问，参观；视察，巡回
+$visitor
+['v?z?t?(r)]
+n.访问者，来宾，参观者
+$visual
+['v????l]
+a.视觉的；可见的
+$vital
+['va?tl]
+a.生命的；有活力的；致命的；至关重要的
+$vitamin
+['v?t?m?n]
+n.维生素
+$vivid
+['v?v?d]
+a.生动的，逼真的；(颜色)鲜艳的
+$vocabulary
+[v?'k?bj?l?r?]
+n.词汇(量)；词汇表
+$voice
+[v??s]
+n.嗓音，声音；意见；语态 vt.表达
+$volcano
+[v?l'ke?n??]
+n.火山
+$volleyball
+['v?l?b?:l]
+n.排球(运动)
+$volt
+[v??lt]
+n.伏特，伏
+$voltage
+['v??lt?d?]
+n.电压
+$volume
+['v?lju:m]
+n.音量；容积，容量；书卷，卷册
+$voluntary
+['v?l?ntr?]
+a.自愿的，志愿的
+$volunteer
+[Xv?l?n't??(r)]
+n.自愿者 vt.自告奋勇(去做) vi.自愿
+$vote
+[v??t]
+n.选票；选举(权) vi.投票 vt.公认
+$voyage
+['v???d?]
+n.航海，航行；旅行 v.航海，航行
+$wage
+[we?d?]
+n.报酬，工资
+$waggon
+['w?g?n]
+n.四轮马车
+$wagon
+['w?g?n]
+n.四轮马车；大蓬货车；小推车
+$waist
+[we?st]
+n.腰部，腰
+$wait
+[we?t]
+n.等待 vi.等，等候
+$waiter
+['we?t?(r)]
+n.(男)侍者，(男)服务员
+$wake
+[we?k]
+vt.唤醒；唤起，使认识到 vi.醒来
+$waken
+['we?k?n]
+vi.醒来 vt.弄醒，叫醒
+$walk
+[w?:k]
+vi./n.步行，散步
+$wall
+[w?:l]
+n.墙，围墙
+$wander
+['w?nd?(r)]
+vi.漫游，漫步；走神，(神志)恍惚
+$want
+[w?nt]
+n.需要；缺乏 vt.想要；需要；缺乏；缺少
+$war
+[w?:(r)]
+n.战争，战斗
+$warm
+[w?:m]
+a.温暖的；热情的；保暖的 vt.(使)温暖
+$warmth
+[w?:mθ]
+n.温暖；热忱
+$warn
+[w?:n]
+v.警告，告诫
+$wash
+[w??]
+vt.洗；冲 vi.洗手；洗衣；耐洗 n.洗涤
+$waste
+[we?st]
+n.浪费；废物 vt.浪费；消耗 a.废的
+$watch
+[w?t?]
+n.看管；手表 v.观看；监视；注意
+$water
+['w?:t?(r)]
+n.水 vt.给…浇水
+$waterproof
+['w?:t?pru:f]
+a.耐水的，防水的
+$wave
+[we?v]
+vt.挥动 vi.飘动；挥动 n.挥手，招手
+$wax
+[w?ks]
+n.蜡，蜂蜡 vt.给…打蜡
+$way
+[we?]
+n.道路；方向；方法；距离；点
+$we
+[w?]
+pron.我们
+$weak
+[wi:k]
+a.(身体方面)虚弱；(性格上)软弱
+$weaken
+['wi:k?n]
+vt.削弱，使变弱
+$weakness
+['wi:kn?s]
+n.虚弱，衰弱，软弱；缺点，弱点
+$wealth
+[welθ]
+n.财产，财富；大量，丰富
+$wealthy
+['welθ?]
+a.富裕的，丰富的
+$weapon
+['wep?n]
+n.武器，兵器
+$wear
+[we?(r)]
+vt.穿着，戴着 vi.磨损，耗损
+$weather
+['wee?(r)]
+n.天气，气候
+$weave
+[wi:v]
+v.织，编
+$wedding
+['wed??]
+n.婚礼
+$Wednesday
+['wenzde?]
+n.星期三
+$weed
+[wi:d]
+n.杂草，野草 v.除草
+$week
+[wi:k]
+n.星期，周
+$weekday
+['wi:kde?]
+n.平常日，工作日
+$weekend
+[Xwi:k'end]
+n.周末
+$weekly
+['wi:kl?]
+a.每周的 ad.一周一次地 n.周报
+$weep
+[wi:p]
+vi.哭泣，流泪
+$weigh
+[we?]
+vt.称…的重量；权衡 vi.重(若干)
+$weight
+[we?t]
+n.重量；砝码；重压；重要性
+$welcome
+['welk?m]
+a.受欢迎的 vt./n./int.欢迎
+$weld
+[weld]
+v．焊接，熔接，结合
+$welfare
+['welfe?(r)]
+n.幸福，康乐，福利
+$well
+[wel]
+int.哎呀 ad.好；完全地 a.良好的
+$well-known
+['wel'n??n]
+a. 众所周知的,有名的
+$west
+[west]
+n.西(方)，西部 ad.向西方 a.西方的
+$western
+['west?n]
+a.西方的，西部的 n.(美国)西部小说/电影
+$wet
+[wet]
+a.湿的；多雨的 vt.把…打湿 n.雨；潮气
+$whale
+[we?l]
+n.鲸
+$what
+[w?t]
+pron.什么 a.多么；什么；尽量多的
+$whatever
+[w?t'ev?(r)]
+pron.无论什么 a.不管怎么样的
+$whatsoever
+[Xw?ts??'ev?]
+pron. 无论什么
+$wheat
+[wi:t]
+n.小麦
+$wheel
+[wi:l]
+n.轮子 vt.推动 vi.突然
+$when
+[wen]
+ad.什么时候 conj.在…时 pron.什么时候
+$whenever
+[wen'ev?(r)]
+conj.无论何时；每当
+$where
+[hwe?]
+ad.在哪里；在那里 conj.然而 pron.哪里
+$whereas
+[Xwe?r'?z]
+conj.鉴于；然而，但是，尽管
+$wherever
+[we?r'ev?(r)]
+conj.无论在(到)哪里 ad.无论(去)什么地方
+$whether
+['wee?(r)]
+conj.是否，会不会；不管，无论
+$which
+[w?t?]
+pron.哪一个 a.哪一个，哪一些
+$whichever
+[w?t?'ev?(r)]
+a.&pron.无论哪个，无论哪些
+$while
+[wa?l]
+conj.当…的时候；而 a.一会儿
+$whilst
+[wa?lst]
+conj. 当...的时候
+$whip
+[w?p]
+n.鞭子 vt.鞭打；击败 vi.快速或突然移动
+$whisper
+['w?sp?(r)]
+v.低语，耳语；私下说 n.低语，耳语
+$whistle
+['w?sl]
+vt.用口哨/喵吹奏 vi.吹口哨 n.口哨声
+$white
+[wa?t]
+a.白色的；白种的 n.白色；白种人
+$who
+[hu:]
+pron.谁
+$whoever
+[hu:'ev?(r)]
+pron.无论谁，不管谁；究竟是谁
+$whole
+[h??l]
+n.全部 a.全体的；完整的
+$wholly
+['h??l?]
+ad.完全地
+$whom
+[hu:m]
+pron.
+[who??????]
+谁的
+$whose
+[hu:z]
+pron.谁的；哪个(人)的，哪些(人)的
+$why
+[wa?]
+ad.&conj.为什么；…的理由 int.哎呀
+$wicked
+['w?k?d]
+a.邪恶的，坏的；顽皮的
+$wide
+[wa?d]
+a.宽阔的；广泛的 ad.全部地，充分地
+$widen
+['wa?dn]
+vt.加宽，放宽
+$widespread
+['wa?dspred]
+a.普遍的，分布(或散布)广的
+$widow
+['w?d??]
+n.寡妇
+$width
+[w?dθ]
+n.宽度；一幅(布料)；宽广
+$wife
+[wa?f]
+n.妻子，夫人，太太
+$wild
+[wa?ld]
+a.野生的；未开化的；凶猛的；狂热的
+$will
+[w?l]
+v.aux.将；愿意；要 n.意志；愿望；遗嘱
+$willing
+['w?l??]
+a.愿意的，心甘情愿的
+$win
+[w?n]
+vt.赢得；在…中获胜 vi.赢 n.胜利
+$wind
+[w?nd]
+n.风；气息，呼吸
+$window
+['w?nd??]
+n.窗户，窗口
+$wine
+[wa?n]
+n.(葡萄)酒
+$wing
+[w??]
+n.翼；舞台两边；侧翼
+$winter
+['w?nt?(r)]
+n.冬季，冬天
+$wipe
+[wa?p]
+v.擦，抹，揩 n.擦，抹，揩
+$wire
+['wa??]
+n.电线；电报 vt.给…发电报 vi.发电报
+$wisdom
+['w?zd?m]
+n.智慧；古训，至理名言
+$wise
+[wa?z]
+a.聪明的，明智的
+$wish
+[w??]
+n.祝愿，希望 vt.愿望；但愿 vi.(for)企盼
+$wit
+[w?t]
+n.机智；(pl.)智力；(pl.)健全的头脑
+$with
+[w?e]
+prep.和…在一起；用；具有；关于；因
+$withdraw
+[w?e'dr?:]
+v.收回；撤退，退出；提取(款项)；撤销
+$within
+[w?'e?n]
+prep./ad.在…里面 ad.在里面
+$without
+[w?'ea?t]
+prep.没有
+$withstand
+[w?e'st?nd]
+vt.抵抗, 经受住
+$witness
+['w?tn?s]
+n.目击者；证据 vt.目击；为…作证，证明
+$wolf
+[w?lf]
+n.狼
+$woman
+['w?m?n]
+n.妇女，成年女子
+$wonder
+['w?nd?(r)]
+n.惊异；奇事 v.想知道；(对…)感到惊讶
+$wonderful
+['w?nd?fl]
+a.极好的，极棒的；惊人的，奇妙的
+$wood
+[w?d]
+n.木材，木料；(pl.)(小)树林
+$wooden
+['w?dn]
+a.木制的；呆笨的
+$wool
+[w?l]
+n.羊毛；毛线，毛织品
+$word
+[w?:d]
+n.词，词语；言语，话；谈话；消息，信息
+$work
+[w?:k]
+n.工作；职业 vi.工作；起作用 vt.使工作
+$worker
+['w?:k?(r)]
+n.工人，工作者
+$workman
+['w?:km?n]
+n.工人，劳动者，工匠
+$workshop
+['w?:k??p]
+n.车间，工场，修理厂；研讨会，讲习班
+$world
+[w?:ld]
+n.世界，地球；世上的人；阶层，领域
+$worldwide
+['w?:ldwa?d]
+a.遍及地球的，世界范围的
+$worm
+[w?:m]
+n.蠕(虫)；懦夫，不受尊重的人
+$worry
+['w?r?]
+n.担心；令人烦恼的事或人 v.(使)担心
+$worse
+[w?:s]
+a.更坏；更厉害 ad.更糟
+$worship
+['w?:??p]
+n.礼拜；崇拜 vi.做礼拜 vt.崇拜
+$worst
+[w?:st]
+a.最坏的，最差的 ad.最坏地，最差地
+$worth
+[w?:θ]
+a.值(多少钱)；值得
+$worthless
+['w?:θl?s]
+a.无价值的，无用的
+$worthwhile
+[Xw?:θ'wa?l]
+a.值得干的，有价值的
+$worthy
+['w?:e?]
+a.值得尊敬的；值得…的
+$would
+[w?d]
+v.aux.将；可能；总是；宁愿
+$wound
+[wa?nd]
+n.伤，伤口 vt.使受伤，伤害
+$wrap
+[r?p]
+n.披肩，围巾 vt.包，裹
+$wreck
+[rek]
+n.沉船；毁灭 vi.(船只等)失事 vt.使失事
+$wrist
+[r?st]
+n.腕，腕关节
+$write
+[ra?t]
+v.写，书写，写字；写作；写信(给)
+$writer
+['ra?t?(r)]
+n.作者，作家
+$writing
+['ra?t??]
+n.写(作)；(常pl.)作品；笔迹，字迹
+$wrong
+[r??]
+a.错误的；有毛病的 ad.错误地 n.坏事
+$X-ray
+['eksre?]
+n. X光照片
+$yard
+[jɑ:d]
+n.码；院子，庭院
+$yawn
+[j?:n]
+n.呵欠 vi.打呵欠
+$year
+[j?:]
+n.年，年度；学年
+$yearly
+['j??l?]
+a./ad.每年，一年一度
+$yellow
+['jel??]
+a.黄的，黄色的 n.黄色
+$yes
+[jes]
+ad.是，是的
+$yesterday
+['jest?de?]
+n.&ad.昨天
+$yet
+[jet]
+conj.然而 ad.到目前为止；更；还
+$yield
+[ji:ld]
+vi.屈服；崩垮 vt.产生；放弃
+$you
+[j?]
+pron.你；你们；一个人，任何人
+$young
+[j??]
+a.年轻的，青年的 n.年轻人
+$youngster
+['j??st?(r)]
+n.小伙子，年轻人；少年，儿童
+$your
+[j?:]
+pron.
+[yo?????????]
+你的；你们的
+$yours
+[j?:z]
+pron.
+[yo???????????]
+你(们)的(所有物)
+$yourself
+[j?:'self]
+pron.你(们)自己，你(们)亲自
+$yourselves
+[j?'selvz]
+pron.pl. 你们自己
+$youth
+[ju:θ]
+n.青春；(总称)青年们；(男)年轻人
+$zero
+['z??r??]
+n.零；零点；无
+$zone
+[z??n]
+n.地区，地带，区域
+$zoo
+[zu:]
+n.动物园
+$abnormal
+[?b'n?:ml]
+a.不正常的; 变态的
+$absolutely
+['?bs?lu:tl?]
+ad.完全地; 绝对地
+$acceleration
+[?kXsel?'re??n]
+n.加速; 加速度
+$acceptable
+[?k'sept?bl]
+a.可接受的, 合意的
+$accessory
+[?k'ses?r?]
+n.同谋, 从犯; 附件
+$accommodate
+[?'k?m?de?t]
+vt.容纳; 供应, 供给
+$accustom
+[?'k?st?m]
+vt.使习惯
+$actually
+['?kt???l?]
+ad.实际上; 竟然
+$African
+['?fr?k?n]
+a.非洲的 n.非洲人
+$agony
+['?g?n?]
+n.极度痛苦
+$alloy
+['?l??]
+n.合金; (金属的)成色
+$ampere
+['?mpe?(r)]
+n.安培
+$amplify
+['?mpl?fa?]
+vt.放大, 增强; 扩大
+$angel
+['e?nd?l]
+n.天使, 神差, 安琪儿
+$announcer
+[?'na?ns?(r)]
+n.宣告者; 播音员
+$apparatus
+[X?p?'re?t?s]
+n.器械, 仪器; 器官
+$approximately
+[?'pr?ks?m?tl?]
+ad.近似地, 大约
+$Arabian
+[?'re?b??n]
+a.阿拉伯的
+$astronaut
+['?str?n?:t]
+n.宇宙航行员, 宇航员
+$Atlantic
+[?t'l?nt?k]
+a.大西洋的 n.大西洋
+$atmospheric
+[X?tm?s'fer?k]
+a.大气的; 大气层的
+$attentive
+[?'tent?v]
+a.注意的; 有礼貌的
+$aural
+['?:r?l]
+a.耳的, 听觉的
+$Australia
+[?'stre?l??]
+n.澳大利亚
+$Australian
+[?'stre?l??n]
+a.澳大利亚的
+$automation
+[X?:t?'me??n]
+n.自动, 自动化
+$aviation
+[Xe?v?'e??n]
+n.航空, 航空学
+$awfully
+['?:fl?]
+ad.令人畏惧的; 很
+$ax
+[?ks]
+n.斧子
+$axis
+['?ks?s]
+n.轴, 轴线; 中心线
+$badminton
+['b?dm?nt?n]
+n.羽毛球
+$berry
+['ber?]
+n.浆果(如草莓等)
+$betray
+[b?'tre?]
+vt.背叛; 辜负; 泄漏
+$Bible
+['ba?bl]
+n.基督教《圣经》
+$bitterly
+['b?t?l?]
+ad.苦苦地; 悲痛地
+$blaze
+[ble?z]
+n.火; 闪光 vi.燃烧
+$bless
+[bles]
+vt.为…祝福
+$blossom
+['bl?s?m]
+n.花, 开花 vi.开花
+$booth
+[bu:e]
+n.货摊; 公用电话亭
+$bosom
+['b?z?m]
+n.胸, 胸部; 内心
+$bough
+[ba?]
+n.树枝
+$brandy
+['br?nd?]
+n.白兰地酒
+$brighten
+['bra?tn]
+vt.使发光; 使快活
+$brim
+[br?m]
+n.边, 边缘; 帽沿
+$brisk
+[br?sk]
+a.活泼的; 清新的
+$bristle
+['br?sl]
+n.短而硬的毛; 鬃毛
+$Britain
+['br?tn]
+n.不列颠, 英国
+$British
+['br?t??]
+a.不列颠的, 英联邦的
+$brittle
+['br?tl]
+a.脆的; 易损坏的
+$broken
+['br??k?n]
+a.被打碎的, 骨折的
+$bronze
+[br?nz]
+n.青铜; 青铜制品
+$brood
+[bru:d]
+n.同窝幼鸟 vt.孵(蛋)
+$brook
+[br?k]
+n.小河, 溪流
+$bruise
+[bru:z]
+n.青肿, 伤痕; 擦伤
+$brute
+[bru:t]
+n.禽兽, 畜生
+$bud
+[b?d]
+n.芽, 萌芽; 蓓蕾
+$bull
+[b?l]
+n.公牛; 雄的象
+$cafeteria
+[Xk?f?'t??r??]
+n.自助食堂
+$Canada
+['k?n?d?]
+n.加拿大
+$Canadian
+[k?'ne?d??n]
+a.加拿大的
+$cannon
+['k?n?n]
+n.大炮, 火炮; 榴弹炮
+$canoe
+[k?'nu:]
+n.独木舟, 皮艇, 划子
+$canteen
+[k?n'ti:n]
+n.小卖部; 临时餐室
+$canvas
+['k?nv?s]
+n.粗帆布; 一块油画布
+$captive
+['k?pt?v]
+n.俘虏, 被监禁的人
+$carve
+[kɑ:v]
+vt.刻, 雕刻; 切开
+$cathedral
+[k?'θi:dr?l]
+n.总教堂; 大教堂
+$cellar
+['sel?(r)]
+n.地窑, 地下室
+$certainty
+['s?:tnt?]
+n.必然; 肯定
+$charming
+['t?ɑ:m??]
+a.迷人的, 可爱的
+$cherry
+['t?er?]
+n.樱桃; 樱桃树
+$childish
+['t?a?ld??]
+a.孩子的; 幼稚的
+$cigarette
+[Xs?g?'ret]
+n.香烟, 纸烟, 卷烟
+$circumference
+[s?'k?mf?r?ns]
+n.圆周, 周长, 圆周线
+$clasp
+[klɑ:sp]
+n.扣子, 钩子; 别针
+$clearly
+['kl??l?]
+ad.明白地, 清晰地
+$cloak
+[kl??k]
+n.斗篷; 覆盖(物)
+$closely
+['kl??sl?]
+ad.紧密地, 接近地
+$clothe
+[kl??e]
+vt.给…穿衣服
+$colonel
+['k?:nl]
+n.陆军上校; 中校
+$commonly
+['k?m?nl?]
+ad.普通地, 一般地
+$compile
+[k?m'pa?l]
+vt.编辑, 编制, 搜集
+$completely
+[k?m'pli:tl?]
+ad.十分, 完全地
+$complicate
+['k?mpl?ke?t]
+vt.使复杂; 使陷入
+$compute
+[k?m'pju:t]
+vt.计算, 估计, 估算
+$consciousness
+['k?n??sn?s]
+n.意识, 觉悟; 知觉
+$contempt
+[k?n'tempt]
+n.轻蔑; 藐视; 受辱
+$conversion
+[k?n'v?:?n]
+n.转变, 转化; 改变
+$cordial
+['k?:dj?l]
+a.真诚的, 诚恳的
+$correction
+[k?'rek?n]
+n.改正, 纠正, 修改
+$coward
+['ka??d]
+n.懦夫; 胆怯者
+$cricket
+['kr?k?t]
+n.板球; 蟋蟀
+$cripple
+['kr?pl]
+n.跛子; 残废的人
+$crow
+[kr??]
+n.鸦, 乌鸦 vi.啼
+$cubic
+['kju:b?k]
+a.立方形的; 立方的
+$cucumber
+['kju:k?mb?(r)]
+n.黄瓜
+$cunning
+['k?n??]
+a.狡猾的, 狡诈的
+$daring
+['de?r??]
+a.大胆的, 勇敢的
+$deadly
+['dedl?]
+a.致命的, 死一般的
+$deceit
+[d?'si:t]
+n.欺骗, 欺诈
+$deduce
+[d?'dju:s]
+vt.演绎, 推论, 推断
+$deepen
+['di:p?n]
+vt.加深 vi.深化
+$delegation
+[Xdel?'ge??n]
+n.代表团
+$despise
+[d?'spa?z]
+vt.鄙视, 蔑视
+$dew
+[dju:]
+n.露, 露水
+$diligent
+['d?l?d??nt]
+a.勤勉的, 勤奋的
+$disable
+[d?s'e?bl]
+vt.使无能, 使伤残
+$disadvantage
+[Xd?s?d'vɑ:nt?d?]
+n.不利, 不利地位
+$disagree
+[Xd?s?'gri:]
+vi.有分歧; 不一致
+$disclose
+[d?s'kl??z]
+vt.揭开, 揭发; 透露
+$dishonour
+[d?s'?n?(r)]
+n.不光彩; 丢脸的人
+$displease
+[d?s'pli:z]
+vt.使不愉快, 使生气
+$dissatisfy
+[d?s's?t?sfa?]
+vi.使不满, 使不平
+$dock
+[d?k]
+n.船坞; 码头; 船厂
+$doubtless
+['da?tl?s]
+ad.无疑地; 很可能
+$dread
+[dred]
+n.畏惧; KB vt.惧怕
+$drought
+[dra?t]
+n.旱灾, 干旱
+$dwelling
+['dwel??]
+n.住处, 寓所
+$dying
+['da???]
+a.垂死的; 临终的
+$easily
+['i:z?l?]
+ad.容易地; 舒适的
+$electronics
+[?Xlek'tr?n?ks]
+n.电子学
+$elimination
+[?Xl?m?'ne??n]
+n.消灭, 排除, 消除
+$enthusiastic
+[?nXθju:z?'?st?k]
+a.热情的, 热心的
+$European
+['j??r?'pi:?n]
+a.欧洲的 n.欧洲人
+$evaporate
+[?'v?p?re?t]
+vt.使蒸发 vi.蒸发
+$exactly
+[?g'z?ktl?]
+ad.确切地; 恰恰正是
+$exclusively
+[?k'sklu:s?vl?]
+ad.专门地
+$extremely
+[?k'stri:ml?]
+ad.极端, 极其, 非常
+$Fahrenheit
+['f?r?nha?t]
+n.华氏温度计
+$father-in-law
+['fɑ:e?(r) ?n l?:]
+n.岳父; 公公
+$feast
+[fi:st]
+n.盛宴, 筵席; 节日
+$feeble
+['fi:bl]
+a.虚弱的; 微弱的
+$flare
+[fle?(r)]
+vi.闪耀 vt.使闪亮
+$flu
+[flu:]
+n.流行性感冒
+$flush
+[fl??]
+vi.奔流; (脸)发红
+$foremost
+['f?:m??st]
+a.最初的; 第一流的
+$fourth
+[f?:θ, f??rθ]
+num.第四, 四分之一
+$France
+[frɑ:ns]
+n.法国, 法兰西
+$freely
+['fri:l?]
+ad.自由地; 直率地
+$French
+[frent?]
+a.法国的 n.法国人
+$frequently
+['fri:kw?ntl?]
+ad.时常, 常常
+$friction
+['fr?k?n]
+n.摩擦, 摩擦力
+$furious
+['fj??r??s]
+a.狂怒的; 狂暴的
+$gaseous
+['g?s??s]
+a.气体的, 气态的
+$gasp
+[gɑ:sp]
+vi.气喘, 喘息
+$gauge
+[ge?d?]
+vt.量, 测量 n.量器
+$gently
+['d?entl?]
+ad.有礼貌地; 柔和地
+$German
+['d??:m?n]
+a.德国的 n.德国人
+$Germany
+['d??:m?n?]
+n.德意志, 德国
+$glare
+[gle?(r)]
+vi.瞪眼 n.瞪眼
+$glide
+[gla?d]
+vi.滑动; 消逝 n.滑行
+$glitter
+['gl?t?(r)]
+vi.闪闪发光 n.闪光
+$gloomy
+['glu:m?]
+a.黑暗的; 令人沮丧的
+$goods
+[g?dz]
+n.货物, 商品
+$gown
+[ga?n]
+n.长袍, 长外衣
+$gracious
+['gre???s]
+a.有礼貌的; 仁慈的
+$gradually
+['gr?d???l?]
+ad.逐渐地, 逐步地
+$grammatical
+[gr?'m?t?kl]
+a.语法上的
+$granddaughter
+['gr?nd?:t?(r)]
+n.孙女, 外孙女
+$grandson
+['gr?ns?n]
+n.孙子, 外孙子
+$greatly
+['gre?tl?]
+ad.大大地, 非常
+$Greek
+[gri:k]
+a.希腊的 n.希腊人
+$grieve
+[gri:v]
+vt.使悲痛 vi.悲痛
+$groan
+[gr??n]
+vi.哼, 呻吟 n.呻吟
+$grocery
+['gr??s?r?]
+n.食品杂货店
+$gunpowder
+['g?npa?d?(r)]
+n.黑色火药; 有烟火药
+$habitual
+[h?'b?t???l]
+a.习惯性的, 惯常的
+$haircut
+['he?Xk?t]
+n.理发
+$hamburger
+['h?mb?:g?(r)]
+n.汉堡包, 牛肉饼
+$happiness
+['h?p?n?s]
+n.幸福, 幸运; 快乐
+$hare
+[he?(r)]
+n.野兔
+$harmful
+['hɑ:mf?l]
+a.有害的
+$hasten
+['he?sn]
+vt.催促 vi.赶紧
+$hasty
+['he?st?]
+a.急速的; 仓促的
+$hatch
+[h?t?]
+vt.孵出 vi.(蛋)孵化
+$hateful
+['he?tfl]
+a.可恨的, 可恶的
+$hawk
+[h?:k]
+n.鹰, 隼
+$heating
+['hi:t??]
+n.加热, 供暖
+$heavily
+['hev?l?]
+ad.重重地; 大量地
+$heir
+[e?(r)]
+n.后嗣, 继承人
+$helmet
+['helm?t]
+n.头盔, 钢盔
+$heroine
+['her???n]
+n.女主角; 女英雄
+$hillside
+['h?lsa?d]
+n.(小山)山腰, 山坡
+$honesty
+['?n?st?]
+n.诚实, 正直
+$honeymoon
+['h?n?mu:n]
+n.蜜月
+$hostess
+['h??st?s]
+n.女主人; 空姐
+$humid
+['hju:m?d]
+a.湿的, 湿气重的
+$idiom
+['?d??m]
+n.习语, 成语
+$imprison
+[?m'pr?zn]
+vt.关押, 监禁; 限制
+$incorrect
+[X?nk?'rekt]
+a.不正确的, 错误的
+$indefinite
+[?n'def?n?t]
+a.不明确的; 不定的
+$India
+['?nd??]
+n.印度
+$Indian
+['?nd??n]
+a.印度的 n.印度人
+$indignant
+[?n'd?gn?nt]
+a.愤慨的, 义愤的
+$indoors
+['?nd?:z]
+ad.在室内, 在屋里
+$inefficient
+[X?n?'f??nt]
+a.效率低的, 无能的
+$inexpensive
+[X?n?k'spens?v]
+a.花费不多的, 廉价的
+$inhabit
+[?n'h?b?t]
+vt.居住于, 栖息于
+$inspection
+[?n'spek?n]
+n.检查, 审查; 检阅
+$instantly
+['?nst?ntl?]
+ad.立即, 即刻
+$insufficient
+[X?ns?'f??nt]
+a.不足的; 不适当的
+$intentional
+[?n'ten??nl]
+a.故意的, 有意识的
+$interpreter
+[?n't?:pr?t?(r)]
+n.译员, 口译者
+$interruption
+[X?nt?'r?p?n]
+n.中断, 打断; 障碍物
+$inventor
+[?n'vent?(r)]
+n.发明者; 发明家
+$investigation
+[?nXvest?'ge??n]
+n.调查, 调查研究
+$irregular
+[?'regj?l?(r)]
+a.不规则的; 不整齐的
+$Italian
+[?'t?l??n]
+a.意大利的n.意大利人
+$jewish
+['d?u:??]
+a.犹太人的
+$jolly
+['d??l?]
+a.快活的; 令人高兴的
+$joyful
+['d???fl]
+a.十分喜悦的, 快乐的
+$keeper
+['ki:p?(r)]
+n.看护人; 饲养员
+$knit
+[n?t]
+vt.把…编结 vi.编织
+$knob
+[n?b]
+n.门把, 拉手; 旋纽
+$lace
+[le?s]
+n.鞋带, 系带; 花边
+$lame
+[le?m]
+a.跛的; 瘸的, 残废的
+$landing
+['l?nd??]
+n.上岸, 登陆, 着陆
+$landlady
+['l?ndle?d?]
+n.女房东; 女地主
+$lantern
+['l?nt?n]
+n.提灯, 灯笼
+$Latin
+['l?tn]
+a.拉丁的 n.拉丁语
+$legend
+['led??nd]
+n.传说, 传奇
+$lessen
+['lesn]
+vt.减少, 减轻; 缩小
+$lever
+['li:v?(r)]
+n.杆, 杠杆; 控制杆
+$liar
+['la??(r)]
+n.说谎的人
+$liberation
+[Xl?b?'re??n]
+n.解放
+$lieutenant
+[lef'ten?nt]
+n.陆军中尉; 副职官员
+$lighten
+['la?tn]
+vt.照亮, 使明亮
+$lightly
+['la?tl?]
+ad.轻轻地, 轻松地
+$lime
+[la?m]
+n.石灰
+$linen
+['l?n?n]
+n.亚麻布; 亚麻织物
+$liner
+['la?n?(r)]
+n.班船, 班机
+$listener
+['l?s?n?(r)]
+n.听者, 听众之一
+$living-room
+['l?v??'ru:m]
+n.起居室
+$locomotive
+[Xl??k?'m??t?v]
+n.火车头, 机车
+$loudspeaker
+[Xla?d'spi:k?(r)]
+n.扬声器, 喇叭
+$lumber
+['l?mb?(r)]
+n.木材; 木料; 制材
+$mainly
+['me?nl?]
+ad.主要地, 大体上
+$manly
+['m?nl?]
+a.男子气概的, 果断的
+$marble
+['mɑ:bl]
+n.大理石
+$Marxisim
+[]
+n.马克思主义
+$masterpiece
+['mɑ:st?pi:s]
+n.杰作, 名著
+$materialism
+[m?'t??r??l?z?m]
+n.唯物主义
+$meadow
+['med??]
+n.草地, 牧草地
+$measurable
+['me??r?bl]
+a.可测量的
+$mechanically
+[m?'k?n?kl?]
+ad.机械地
+$mechanics
+[m?'k?n?ks]
+n.力学; 技术性细节
+$Mediterranean
+[Xmed?t?'re?nj?n]
+n.地中海 a.地中海的
+$melon
+['mel?n]
+n.瓜, 甜瓜
+$mercury
+['m?:kj?r?]
+n.水银, 汞
+$Mercury
+['m?:kj?r?]
+n.水星
+$messenger
+['mes?nd??(r)]
+n.送信者, 信使
+$microcomputer
+['ma?kr??k?mpju:t?(r)]
+n.微型计算机, 微机
+$midst
+[m?dst]
+n.中部, 中间, 当中
+$miner
+['ma?n?(r)]
+n.矿工
+$mistress
+['m?str?s]
+n.女主人; 夫人
+$moan
+[m??n]
+n.呻吟声 vi.呻吟
+$mortal
+['m?:t?l]
+a.终有一死的; 致死的
+$mourn
+[m?:n]
+vi.哀痛, 哀悼
+$mouthful
+['ma?θf?l]
+n.满口, 一口, 少量
+$muddy
+['m?d?]
+a.多泥的, 泥泞的
+$murderer
+['m?:d?r?(r)]
+n.杀人犯, 凶手
+$mute
+[mju:t]
+a.缄默的 n.哑巴
+$mutter
+['m?t?(r)]
+vi.轻声低语; 抱怨
+$mutton
+['m?tn]
+n.羊肉
+$nap
+[n?p]
+n.小睡, 打盹, 瞌睡
+$nasty
+['nɑ:st?]
+a.龌龊的; 淫猥的
+$naughty
+['n?:t?]
+a.顽皮的, 淘气的
+$necklace
+['nekl?s]
+n.项链, 项圈
+$needless
+['ni:dl?s]
+a.不需要的
+$newly
+['nu:li:, 'nju:-]
+ad.新近, 最近
+$occasionally
+[?'ke??n?l?]
+ad.偶然; 非经常地
+$Oceania
+[X??s?'ɑ:n??]
+n.大洋洲
+$odour
+['??d?(r)]
+n.气味, 香气; 味道
+$oppress
+[?'pres]
+vt.压迫, 压制; 压抑
+$oriental
+[X?:r?'entl]
+a.东方的; 东方国家的
+$ornament
+['?:n?m?nt]
+n.装饰物; 装饰
+$orphan
+['?:fn]
+n.孤儿
+$ought
+[?:t]
+v.aux.应当, 应该
+$outdoors
+[Xa?t'd?:z]
+ad.在户外, 在野外
+$outskirt
+['a?tXsk?:t]
+n.外边, 郊区
+$outwards
+['a?tw?dz]
+ad.向外, 往海外
+$overtime
+['??v?ta?m]
+a.超时的, 加班的
+$owl
+[a?l]
+n.猫头鹰, 枭
+$pacific
+[p?'s?f?k]
+a.和平的 n.太平洋
+$pail
+[pe?l]
+n.桶, 提桶
+$panda
+['p?nd?]
+n.小猫熊; 猫熊
+$pane
+[pe?n]
+n.窗格玻璃
+$pant
+[p?nt]
+n.气喘; 心跳
+$paradise
+['p?r?da?s]
+n.伊甸乐园; 天堂
+$partially
+['pɑ:??l?]
+ad.部分地
+$pastime
+['pɑ:sta?m]
+n.消遣, 娱乐
+$pave
+[pe?v]
+vt.铺, 筑(路等)
+$pavement
+['pe?vm?nt]
+n.(英)人行道
+$pearl
+[p?:l]
+n.珍珠; 珍珠母
+$pebble
+['pebl]
+n.卵石, 细砾
+$peel
+[pi:l]
+vt.剥(皮), 削(皮)
+$peep
+[pi:p]
+vi.(从缝隙中)偷看
+$peninsula
+[p?'n?nsj?l?]
+n.半岛
+$perfectly
+['p?:f?ktl?]
+ad.很, 完全
+$perfume
+['p?:fju:m]
+n.香味, 芳香; 香料
+$permanently
+['p?:m?n?ntl?]
+ad.永久地, 持久地
+$photographic
+[Xf??t?'gr?f?k]
+a.摄影的, 摄影用的
+$pipeline
+['pa?pla?n]
+n.管道, 管线
+$pistol
+['p?stl]
+n.手枪
+$plaster
+['plɑ:st?(r)]
+n.灰泥; 硬膏; 熟石膏
+$player
+['ple??(r)]
+n.游戏的人; 比赛者
+$pluck
+[pl?k]
+vt.采, 摘; 拉下 n.拉
+$porch
+[p?:t?]
+n.门廊, 入口处
+$porridge
+['p?r?d?]
+n.粥, 麦片粥
+$Portuguese
+[Xp?:t??'gi:z]
+n.葡萄牙人; 葡萄牙语
+$premier
+['prem??(r)]
+n.总理, 首相
+$previously
+['pri:v??sl?]
+ad.先前, 预先
+$probability
+[Xpr?b?'b?l?t?]
+n.可能性; 概率
+$proclaim
+[pr?'kle?m]
+vt.宣告, 宣布; 表明
+$productive
+[pr?'d?kt?v]
+a.生产的; 丰饶的
+$promising
+['pr?m?s??]
+a.有希望的; 有前途的
+$properly
+['pr?p?l?]
+ad.适当地; 彻底地
+$pudding
+['p?d??]
+n.布丁
+$puff
+[p?f]
+n.(一)喷, (一)吹
+$punishment
+['p?n??m?nt]
+n.罚, 惩罚, 处罚
+$puppet
+['p?p?t]
+n.木偶, 玩偶; 傀儡
+$purely
+['pj??l?]
+ad.纯粹地, 完全地
+$purify
+['pj??r?fa?]
+vt.使纯净, 使洁净
+$purity
+['pj??r?t?]
+n.纯净; 纯洁; 纯度
+$pursuit
+[p?'sju:t]
+n.追赶; 追求; 事务
+$quart
+[kw?:t]
+n.夸脱(=2品脱)
+$quarterly
+['kw?:t?l?]
+a.季度的 ad.季度地
+$queer
+[kw??(r)]
+a.奇怪的, 古怪的
+$quicken
+['kw?k?n]
+vt.加快 vi.加快
+$quilt
+[kw?lt]
+n.被(子)
+$racket
+['r?k?t]
+n.球拍
+$radiate
+['re?d?e?t]
+vi.发射光线; 辐射
+$radioactive
+[Xre?d???'?kt?v]
+a.放射性的
+$radioactivity
+[Xre?d????k't?v?t?]
+n.放射性, 放射(现象)
+$radish
+['r?d??]
+n.小萝卜
+$radium
+['re?d??m]
+n.镭
+$radius
+['re?d??s]
+n.半径
+$rake
+[re?k]
+n.耙子 vi.耙; 搜索
+$razor
+['re?z?(r)]
+n.剃刀
+$reap
+[ri:p]
+vt.&vi.收割, 收获
+$rebellion
+[r?'belj?n]
+n.造反; 叛乱; 反抗
+$recite
+[r?'sa?t]
+vt.&vi.背诵, 朗诵
+$recollect
+[Xrek?'lekt]
+vt.回忆, 追忆, 想起
+$reed
+[ri:d]
+n.芦苇, 芦杆, 芦丛
+$reel
+[ri:l]
+n.卷轴, 卷筒
+$refreshment
+[r?'fre?m?nt]
+n.茶点, 点心, 便餐
+$refuge
+['refju:d?]
+n.避难, 庇护; 庇护者
+$refute
+[r?'fju:t]
+vt.驳斥, 反驳, 驳倒
+$regularly
+['regj?l?l?]
+ad.有规律地
+$rehearsal
+[r?'h?:s?l]
+n.排练, 排演; 练习
+$reign
+[re?n]
+n.君主统治; 支配
+$rein
+[re?n]
+n.缰绳 vi.驾驭, 控制
+$rejoice
+[r?'d???s]
+vi.欣喜, 高兴
+$relatively
+['rel?t?vl?]
+ad.相对地, 比较地
+$reliability
+[r?Xla??'b?l?t?]
+n.可靠性
+$reliance
+[r?'la??ns]
+n.信任, 信赖, 信心
+$remains
+[r?'me?nz]
+n.残余, 余额; 废墟
+$repent
+[r?'pent]
+vi.悔悟, 悔改vt.后悔
+$reproach
+[r?'pr??t?]
+vt.&n.责备, 指责
+$researcher
+[r?'s?:t??(r)]
+n.调查者; 探究者
+$reservior
+[]
+n.水库; 蓄水池
+$resignation
+[Xrez?g'ne??n]
+n.放弃, 辞职, 反抗
+$respectful
+[r?'spektfl]
+a.恭敬的, 尊重的
+$restriction
+[r?'str?k?n]
+n.限制, 限定, 约束
+$retell
+[Xri:'tel]
+vt.再讲, 重述, 复述
+$revenge
+[r?'vend?]
+vt.替…报仇 n.报仇
+$riddle
+['r?dl]
+n.谜, 谜语
+$ripen
+['ra?p?n]
+vt.使熟 vi.成熟
+$robber
+['r?b?(r)]
+n.强盗, 盗贼
+$robbery
+['r?b?r?]
+n.抢劫, 劫掠, 盗取
+$robe
+[r??b]
+n.长袍, 长衣, 浴衣
+$Roman
+[r?m?]
+n.古罗马人 a.罗马的
+$rot
+[r?t]
+vt.烂, 腐坏 n.腐烂
+$rotary
+['r??t?r?]
+a.旋转的, 转动的
+$rotation
+[r??'te??n]
+n.旋转, 转动; 循环
+$roughly
+['r?fl?]
+ad.粗糙地, 粗略地
+$Russian
+['r??n]
+a.俄罗斯的 n.俄国人
+$rusty
+['r?st?]
+a.生锈的; 变迟钝的
+$sacred
+['se?kr?d]
+a.上帝的; 神圣的
+$sadly
+['s?dl?]
+ad.悲痛地, 悲哀地
+$sadness
+['s?dn?s]
+n.悲痛, 悲哀
+$salute
+[s?'lu:t]
+n.招呼, 行礼 vi.行礼
+$sandy
+['s?nd?]
+n.沙的, 含沙的
+$scar
+[skɑ:(r)]
+n.伤疤, 伤痕; 创伤
+$scarf
+[skɑ:f]
+n.围巾, 头巾; 领带
+$scent
+[sent]
+n.气味, 香味; 香水
+$scorn
+[sk?:n]
+n.轻蔑; 嘲笑 vt.轻蔑
+$seaman
+['si:m?n]
+n.海员, 水手; 水兵
+$seaport
+['si:p?:t]
+n.海港, 港市
+$secondly
+['sek?ndl?]
+ad.第二(点); 其次
+$seller
+['sel?(r)]
+n.卖者; 行销货
+$separately
+['sepr?tl?]
+ad.分离地
+$separation
+[Xsep?'re??n]
+n.分离, 分开; 分居
+$seriously
+['s??r??sl?]
+ad.严肃地, 认真地
+$severely
+[s?'v?rl?]
+ad.严厉地, 严格地
+$shady
+['?e?d?]
+a.成荫的, 阴凉的
+$shampoo
+[??m'pu:]
+vt.用洗发剂洗 n.洗头
+$sharpen
+['?ɑ:p?n]
+vt.削尖, 使敏锐
+$sharply
+['?ɑ:pl?]
+ad.锐利地, 敏锐地
+$shear
+[???(r)]
+vt.剪; 剥夺 vi.剪
+$shepherd
+['?ep?d]
+n.牧羊人, 羊倌
+$shilling
+['??l??]
+n.先令
+$shriek
+[?ri:k]
+vi.尖声喊叫 n.尖叫声
+$singer
+['s???(r)]
+n.歌唱家, 歌手
+$slavery
+['sle?v?r?]
+n.奴隶制度; 苦役
+$slightly
+['sla?tl?]
+ad.稍微, 有点
+$slipper
+['sl?p?(r)]
+n.拖鞋, 便鞋
+$slit
+[sl?t]
+n.裂缝 vt.切开, 撕开
+$slogan
+['sl??g?n]
+n.标语, 口号
+$slum
+[sl?m]
+n.贫民窟, 贫民区
+$sly
+[sla?]
+a.狡猾的; 躲躲闪闪的
+$smog
+[sm?g]
+n.烟雾
+$smoothly
+['smu:el?]
+ad.光滑地; 平稳地
+$snowy
+['sn???]
+a.雪的, 下雪的
+$sob
+[s?b]
+vi.&n.啜泣, 呜咽
+$sober
+['s??b?(r)]
+a.清醒的; 适度的
+$solely
+['s??lli:, 's??li:]
+ad.单独地, 唯一地
+$soluble
+['s?lj?bl]
+a.可溶的; 可以解决的
+$Soviet
+['s??v??t,'s?v??t]
+n.苏维埃 a.苏维埃的
+$spaceship
+['spe?s??p]
+n.航天飞船
+$Spanish
+['sp?n??]
+a.西班牙的n.西班牙人
+$sparkle
+['spɑ:kl]
+vi.发火花 vt.使闪耀
+$sparrow
+['sp?r??]
+n.麻雀
+$spear
+[sp??(r)]
+n.矛, 枪
+$speciality
+[Xspe??'?l?t?]
+n.专业, 特长; 特产
+$specially
+['spe??l?]
+ad.专门地, 特别地
+$spectacle
+['spekt?kl]
+n.光景, 景象; 眼镜
+$splash
+[spl??]
+vt.&n.溅, 泼, 飞溅
+$sponge
+[sp?nd?]
+n.海绵
+$spontaneous
+[sp?n'te?n??s]
+a.自发的; 本能的
+$springtime
+['spr??ta?m]
+n.春季, 春天
+$sprinkle
+['spr??kl]
+n.洒, 撒; 小雨
+$spy
+[spa?]
+n.间谍, 特务 vt.侦察
+$squirrel
+['skw?r?l]
+n.松鼠
+$stab
+[st?b]
+vt.&vi.&n.刺, 戳
+$stability
+[st?'b?l?t?]
+n.稳定, 稳定性, 巩固
+$staircase
+['ste?ke?s]
+n.楼梯, 楼梯间
+$startle
+['stɑ:tl]
+vt.使大吃一惊 n.吃惊
+$statesman
+['ste?tsm?n]
+n.政治家, 国务活动家
+$statistical
+[st?'t?st?kl]
+a.统计的, 统计学的
+$steadily
+['sted?l?]
+ad.稳定地, 不变地
+$stern
+[st?:n]
+a.严厉的; 坚定的
+$steward
+[stj??d]
+n.乘务员, 服务员
+$stewardess
+['stu:?d?s, 'stju:-]
+n.空中小姐, 女乘务员
+$stiffen
+['st?fn]
+vt.使硬; 使僵硬
+$stitch
+[st?t?]
+n.一针; 针脚 vt.缝
+$stony
+['st??ni:]
+a.多石的; 冷酷的
+$stool
+[stu:l]
+n.凳子
+$stormy
+['st?:m?]
+a.有暴风雨的; 激烈的
+$strawberry
+['str?:b?r?]
+n.草莓
+$strictly
+['str?ktl?]
+ad.严格地, 严谨地
+$strongly
+[str??l?]
+ad.强壮地, 强烈地
+$structural
+['str?kt??r?l]
+a.结构的, 构造的
+$stumble
+['st?mbl]
+vi.绊倒; 犯错误
+$stype
+[s'ta?p]
+n.风格; 文体; 式样
+$submarine
+[Xs?bm?'ri:n]
+a.水下的 n.潜水艇
+$sufficiently
+[s?'f??ntl?]
+ad.足够地, 充分地
+$sulphur
+['s?lf?(r)]
+n.硫(磺), 硫黄
+$surgeon
+['s?:d??n]
+n.外科医师; 军医
+$surname
+['s?:ne?m]
+n.姓
+$surprising
+[s?'pra?z??]
+a.惊人的; 出人意外的
+$surprisingly
+[s?'pra?z??l?]
+ad.惊人地
+$swamp
+[sw?mp]
+n.沼泽, 沼泽地
+$swan
+[sw?n]
+n.天鹅
+$swarm
+[sw?:m]
+n.一大群 vi.密集
+$Swiss
+[sw?s]
+a.瑞士的 n.瑞士人
+$systematic(al)
+[]
+a.有系统的; 有计划的
+$tablet
+['t?bl?t]
+n.碑, 匾; 药片
+$tan
+[t?n]
+n.棕褐色 a.棕黄色的
+$telegraph
+['tel?grɑ:f]
+n.电报机; 电报
+$tempt
+[tempt]
+vt.引诱, 诱惑; 吸引
+$tenant
+['ten?nt]
+n.承担人, 房客, 佃户
+$terrific
+[t?'r?f?k]
+a.可怕的; 极大的
+$thickness
+['θ?kn?s]
+n.厚(度); 密(度)
+$thorn
+[θ?:n]
+n.刺, 棘; 荆棘; 蒺藜
+$thrill
+[θr?l]
+n.一阵激动
+$throne
+[θr??n]
+n.宝座, 御座; 王位
+$throng
+[θr??]
+n.群
+$tick
+[t?k]
+n.滴答声; 记号
+$timid
+['t?m?d]
+a.胆怯的; 羞怯的
+$tomb
+[tu:m]
+n.坟, 冢
+$torrent
+['t?r?nt]
+n.奔流, 激流, 洪流
+$tortoise
+['t?:t?s]
+n.龟, 乌龟
+$toss
+[t?s]
+vt.&vi.扔, 抛, 掷
+$traditional
+[tr?'d???nl]
+a.传统的, 惯例的
+$traitor
+['tre?t?(r)]
+n.叛徒, 卖国贼
+$tram
+[tr?m]
+n.(有轨)电车
+$tramp
+[tr?mp]
+n.流浪者, 游民
+$transformation
+[Xtr?nsf?'me??n]
+n.变化; 改造; 转变
+$transformer
+[tr?ns'f?:m?(r)]
+n.变压器, 转换器
+$transistor
+[tr?n'z?st?(r)]
+n.晶体管
+$treason
+['tri:zn]
+n.谋反, 通敌, 叛国罪
+$tribe
+[tra?b]
+n.部落, 宗族
+$trifle
+['tra?fl]
+n.小事, 琐事; 少许
+$tub
+[t?b]
+n.桶, 盆, 浴缸, 浴盆
+$tuck
+[t?k]
+vt.折短, 卷起; 塞
+$tuition
+[tj?'??n]
+n.教, 教诲; 学费
+$tumble
+['t?mbl]
+vi.摔倒, 跌倒; 打滚
+$turbulent
+['t?:bj?l?nt]
+a.骚动的, 骚乱的
+$turkey
+['t?:k?]
+n.火鸡; 火鸡肉
+$turning
+['t?:n??]
+n.旋转; 变向; 转弯处
+$turnip
+['t?:n?p]
+n.萝卜, 芜菁
+$twinkle
+['tw??kl]
+vi.闪烁, 闪耀
+$typhoon
+[ta?'fu:n]
+n.台风
+$ultimately
+['?lt?m?tl?]
+ad.最终, 最后
+$unbearable
+[?n'be?r?bl]
+a.难堪的, 忍受不了的
+$uncertain
+[?n's?:tn]
+a.无常的; 不确定的
+$uncomfortable
+[?n'k?mft?bl]
+a.不舒服的; 不自在的
+$unconscious
+[?n'k?n??s]
+a.不省人事的
+$undertaking
+[X?nd?'te?k??]
+n.任务, 事业; 许诺
+$unfair
+[X?n'fe?(r)]
+a.不公平的, 不公正的
+$unfortunate
+[?n'f?:t??n?t]
+a.不幸的; 可取的
+$unjust
+[X?n'd??st]
+a.非正义的; 不公平的
+$unkind
+[X?n'ka?nd]
+a.不仁慈的, 不和善的
+$unknown
+[X?n'n??n]
+a.不知道的; 未知的
+$unlikely
+[?n'la?kl?]
+a.未必的, 未必可能的
+$unlucky
+[?n'l?k?]
+a.不幸的; 不吉的
+$unnecessary
+[?n'nes?s?r?]
+a.不必要的, 多余的
+$unpleasant
+[?n'pleznt]
+a.令人不快的, 讨厌的
+$unsatisfactory
+[X?nXs?t?s'f?kt?r?]
+a.不能令人满意的
+$unstable
+[?n'ste?bl]
+a.不稳固的; 不稳定的
+$unsuitable
+[?n'su:t?bl]
+a.不合适的, 不适宜的
+$unusually
+[?n'ju:???l?]
+a.不平常地, 非常
+$unwilling
+[?n'w?l??]
+a.不愿意的
+$upside-down
+['?psa?d'da?n]
+a.颠倒的, 乱七八糟的
+$vanity
+['v?n?t?]
+n.虚荣心, 虚夸
+$vase
+[vɑ:z]
+n.瓶, 花瓶
+$veil
+[ve?l]
+n.面纱, 面罩; 遮蔽物
+$velocity
+[v?'l?s?t?]
+n.速度, 速率
+$velvet
+['velv?t]
+n.丝绒, 天鹅绒
+$vest
+[vest]
+n.汗衫; 背心; 内衣
+$vex
+[veks]
+vt.使烦恼, 使恼火
+$vibration
+[va?'bre??n]
+n.颤动, 振动; 摆动
+$victorious
+[v?k't?:r??s]
+a.胜利的, 得胜的
+$vine
+[va?n]
+n.葡萄树
+$wallet
+['w?l?t]
+n.钱包, 皮夹子
+$waterfall
+['w?:t?f?:l]
+n.瀑布
+$wavelength
+['we?vle?θ]
+n.波长
+$weary
+['w??r?]
+a.疲倦的 vt.使疲乏
+$whirl
+[w?:l]
+vt.使回旋 vi.&n.回旋
+$whisky
+['w?sk?]
+n.威士忌酒
+$whitewash
+['wa?tw??]
+vt.粉刷, 涂白
+$widely
+['wa?dl?]
+ad.广, 广泛
+$wireless
+['wa??l?s]
+a.不用电线的, 无线的
+$woollen
+['w?l?n]
+a.羊毛制的, 毛线的
+$world-wide
+['w?:ldw'a?d]
+a.遍及全球的
+$wreath
+[ri:θ]
+n.花环, 花圈, 花冠
+$yell
+[jel]
+vi.叫喊
+$youthful
+['ju:θfl]
+a.年轻的, 青年的
+$zeal
+[zi:l]
+n.热心, 热情, 热忱
+$zealous
+['zel?s]
+a.热心的, 热情的
+$zebra
+['zebr?]
+n.斑马
+$

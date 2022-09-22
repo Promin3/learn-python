@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/a1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/a2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cet4words.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/word_varys.txt" charset="GBK" />
+  </component>
+</project>
